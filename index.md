@@ -5,6 +5,6 @@
 我之所以会的多一点都是因为我有一个什么都懂的哥哥(在我看来)，大家有意的话可以去我哥哥的博客网浏览浏览。  
 邮箱：2675699284@qq.com   
 QQ：2675699284  
-我的另一个网站：<https://zfx539.github.io>  
-哥哥博客：<https://zfb132.github.io>  
+我的另一个网站：<https://zfx539.github.io>  
+哥哥博客：<https://zfb132.github.io>  
 
