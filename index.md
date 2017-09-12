@@ -2,7 +2,7 @@
 <p><div class="post-preview">
 	<audio controls="controls" height="100" width="100">  <source src="MC九局 - 九世轮回.mp3" type="audio/mp3" />  
 <embed height="100" width="100" src="MC九局 - 九世轮回.mp3" />
-</audio></p><hr>
+</audio><hr>
 
 
 <i>我是一名在校学生，我喜欢编程、网页编辑、电器修理(前面这些我只会一部分)……
