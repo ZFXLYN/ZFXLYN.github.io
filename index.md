@@ -12,7 +12,7 @@ king root，<a href="https://ag.qq.com/detail?gameId=com.kingroot.kinguser&ch=00
 root工具箱，<a href="https://ag.qq.com/detail?gameId=cn.liangliproducts.cttunknw&pkgCh=2037cn.liangliproducts.cttunknw&ch=001411&reportObj=%7B%22from_pageId%22%3A%22v_search%22%2C%22current_id%22%3A%22cn.liangliproducts.cttunknw%22%2C%22father_id%22%3A%221%22%7D&storeRef=%7B%22containerpage_id%22%3A%22v_search%22%2C%22current_id%22%3A%22search_list%22%2C%22father_id%22%3A%22v_search%22%7D" alt="点击跳转">此处下载</a><hr>  
 
 
-<p>邮箱：<a href="2675699284@qq.com">点击此处</a>反馈意见。</p>
+<p>邮箱:2675699284@qq.com</p>
 <p>  <a href="https://zfb132.github.io" title="点击跳转">My brother的网页</a></p>
 <p>  <a href="https://zfx539.github.io" title="点击跳转">My另一个网页</a></p>
 <p>QQ:2675699284</p>
