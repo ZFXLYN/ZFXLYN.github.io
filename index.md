@@ -1,4 +1,4 @@
-# 欢迎来到ZFX 1314的网页  
+# 欢迎来ZFX 1314的网页  
 <p><div class="post-preview">
 	<audio controls="controls" height="100" width="100">  <source src="MC九局 - 九世轮回.mp3" type="audio/mp3" />  
 <embed height="100" width="100" src="MC九局 - 九世轮回.mp3" />
