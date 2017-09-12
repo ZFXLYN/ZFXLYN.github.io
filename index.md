@@ -12,7 +12,7 @@ king root，<a href="https://ag.qq.com/detail?gameId=com.kingroot.kinguser&ch=00
 root工具箱，<a href="https://ag.qq.com/detail?gameId=cn.liangliproducts.cttunknw&pkgCh=2037cn.liangliproducts.cttunknw&ch=001411&reportObj=%7B%22from_pageId%22%3A%22v_search%22%2C%22current_id%22%3A%22cn.liangliproducts.cttunknw%22%2C%22father_id%22%3A%221%22%7D&storeRef=%7B%22containerpage_id%22%3A%22v_search%22%2C%22current_id%22%3A%22search_list%22%2C%22father_id%22%3A%22v_search%22%7D" alt="点击跳转">此处下载</a></p><hr>
 <p>正宗装逼神器(可以修改QQ标识)<a href="http://m.eoemarket.com/apps/show/id/831073" alt="点击跳转">此处下载</a></p><hr>
 <p>可以修改单机游戏数据的软件(需root)<a href="http://g.pconline.com.cn/dl/79630.html" alt="点击跳转">此处下载</a></p><hr>
-
+<p>修改QQ运动步数<a href="https://www.coolapk.com/apk/com.qqyundongxiugaiqi" alt="点击跳转">此处下载</a></p><hr>
 
 <p>邮箱:2675699284@qq.com</p>
 <p>  <a href="https://zfb132.github.io" title="点击跳转">My brother的网页</a></p>
