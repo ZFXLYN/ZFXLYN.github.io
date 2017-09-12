@@ -1,0 +1,20 @@
+<div class="post-preview">
+	<audio controls="controls" height="100" width="100">  <source src="MC九局 - 九世轮回.mp3" type="audio/mp3" />
+  
+<embed height="100" width="100" src="MC九局 - 九世轮回.mp3" />
+</audio>
+    <a href="{{ post.url | prepend: site.baseurl }}">
+        <h2 class="post-title">
+            {{ post.title }}
+        </h2>
+        {% if post.subtitle %}
+        <h3 class="post-subtitle">
+            {{ post.subtitle }}
+        </h3>
+        {% endif %}
+		{% if post.description %}
+        <div class="post-content-preview">
+            {% if post.description %}
+			{{ post.description }}
+			{% endif %}
+        </div>
