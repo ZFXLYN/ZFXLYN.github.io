@@ -1,4 +1,3 @@
-<body background="
 # 欢迎来ZFX 1314的网页  
 <center>九世轮回</center>
 <p><div class="post-preview">
