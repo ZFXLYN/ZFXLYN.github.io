@@ -4,7 +4,11 @@
 	<audio controls="controls" height="100" width="100">  <source src="MC九局 - 九世轮回.mp3" type="audio/mp3" />  
 <embed height="100" width="100" src="MC九局 - 九世轮回.mp3" />
 </audio><hr>
-
+<head>输入用户姓名和密码 </head><br>
+<body>   请输入你的姓名： <input type="text" name="yourname">
+<br> 请输入你的密码：  <input type="password" name="yourpw">
+<br>   <input type="submit" value="提交"> </form>
+</body>
 
 <i>我是一名在校学生，我喜欢编程、网页编辑、电器修理(前面这些我只会一部分)……<br>
 大家一定认为我会的很多，其实我会的并不是太多，只是比大多数同龄人多会的多一点点而已。<br>
