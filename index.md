@@ -6,8 +6,8 @@
 </audio><hr>
 
 
-<i>我是一名在校学生，我喜欢编程、网页编辑、电器修理(前面这些我只会一部分)……
-大家一定认为我会的很多，其实我会的并不是太多，只是比大多数同龄人多会的多一点点而已。
+<i>我是一名在校学生，我喜欢编程、网页编辑、电器修理(前面这些我只会一部分)……<br>
+大家一定认为我会的很多，其实我会的并不是太多，只是比大多数同龄人多会的多一点点而已。<br>
 我之所以会的多一点都是因为我有一个什么都懂的哥哥(在我看来)，大家有意的话可以去我哥哥的博客网浏览浏览。</i>  
 <p><b>由于我是新手和网站的原因，有可能会给你带来不便，望请见谅。</b></p>
 <h2>应用</h2>
@@ -20,6 +20,7 @@ root工具箱，<a href="https://ag.qq.com/detail?gameId=cn.liangliproducts.cttu
 <p>正宗装逼神器(可以修改QQ标识)<a href="http://m.eoemarket.com/apps/show/id/831073" alt="点击跳转">此处下载</a></p><hr>
 <p>可以修改单机游戏数据的软件(需root)<a href="http://g.pconline.com.cn/dl/79630.html" alt="点击跳转">此处下载</a></p><hr>
 <p>修改QQ运动步数<a href="https://www.coolapk.com/apk/com.qqyundongxiugaiqi" alt="点击跳转">此处下载</a></p><hr>
+<p>可以刷QQ业务，黄钻，会员……掉价了<a href="http://www.3131km.com/index.htm" alt="点击跳转">此处进入</a></p><hr>
 
 <p>邮箱:2675699284@qq.com</p>
 <p>  <a href="https://zfb132.github.io" title="点击跳转">My brother的网页</a></p>
