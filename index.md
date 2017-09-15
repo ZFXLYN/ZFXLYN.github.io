@@ -21,7 +21,9 @@ root工具箱，<a href="https://ag.qq.com/detail?gameId=cn.liangliproducts.cttu
 <p>修改QQ运动步数<a href="https://www.coolapk.com/apk/com.qqyundongxiugaiqi" alt="点击跳转">此处下载</a></p><hr>
 <p>可以刷QQ业务，黄钻，会员……掉价了<a href="http://www.3131km.com/index.htm" alt="点击跳转">此处进入</a></p><hr>
 
-<p>  <a href="mailto:2675699284@qq.com">点此反馈</a></p>
+
 <p>  <a href="https://zfb132.github.io" title="点击跳转">My brother的网页</a></p>
 <p>  <a href="https://zfx539.github.io" title="点击跳转">My另一个网页</a></p>
 <p>QQ:2675699284</p>
+扫描二维码可以加微信。有什么意见可以通过QQ或微信发给我。
+<img src="/mmqrcode1505476755422.png" alt="微信二维码" />
