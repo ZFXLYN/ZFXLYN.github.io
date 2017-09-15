@@ -26,4 +26,4 @@ root工具箱，<a href="https://ag.qq.com/detail?gameId=cn.liangliproducts.cttu
 <p>  <a href="https://zfx539.github.io" title="点击跳转">My另一个网页</a></p>
 <p>QQ:2675699284</p>
 扫描二维码可以加微信。有什么意见可以通过QQ或微信发给我。
-<img src="/mmqrcode1505476755422.png" width="200" height="200" border="200" />
+<img src="/mmqrcode1505476755422.png" width="200" height="200" />
