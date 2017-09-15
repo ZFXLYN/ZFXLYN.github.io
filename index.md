@@ -27,4 +27,5 @@ root工具箱，<a href="https://ag.qq.com/detail?gameId=cn.liangliproducts.cttu
 <p>QQ:2675699284</p>
 扫描二维码可以加微信。有什么意见可以通过QQ或微信发给我。  
 <img src="/我爱你.jpg"/>
+<a href="/我爱你.jpg" alt="点击跳转">此处</a>
 
