@@ -28,3 +28,4 @@
 扫描二维码可以加微信。有什么意见可以通过QQ或微信发给我。  
 <img src="我爱你.jpg"/>  
 <bgsound src=""loop=infinite>  
+<body background="6560b506da443311.jpg">
