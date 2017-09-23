@@ -26,6 +26,5 @@
 <p>  <a href="https://zfx539.github.io" title="点击跳转">My另一个网页</a></p>
 <p>QQ:2675699284</p>
 扫描二维码可以加微信。有什么意见可以通过QQ或微信发给我。
-<img src="我爱你.jpg"/>  
-IE:<bgsound src="徐子洋、杨浩宇 - 有这样一个女孩.mp3.mid"loop=infinite>  
+<img src="我爱你.jpg"/>   
 <body background="IMG_20170923_081313.jpg">
