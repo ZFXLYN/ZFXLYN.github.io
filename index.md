@@ -19,7 +19,8 @@
 <p>正宗装逼神器(可以修改QQ标识)“畅玩手机”<a href="http://m.eoemarket.com/apps/show/id/831073" alt="点击跳转">此处下载</a></p><hr>
 <p>可以修改单机游戏数据的软件(需root)“re文件管理器”<a href="http://g.pconline.com.cn/dl/79630.html" alt="点击跳转">此处下载</a></p><hr>
 <p>“修改QQ运动步数”<a href="https://www.coolapk.com/apk/com.qqyundongxiugaiqi" alt="点击跳转">此处下载</a></p><hr>
-<p>可以刷QQ业务，黄钻，会员……掉价了<a href="http://www.3131km.com/index.htm" alt="点击跳转">此处进入</a></p><hr>
+<p>可以刷QQ业务，黄钻，会员……掉价了<a href="http://www.3131km.com/index.htm" alt="点击跳转">此处进入</a></p><hr>  
+<br>可以免费看各种流行软件的VIP视频(破解视频VIP的网站):
 
 
 <p>  <a href="https://zfb132.github.io" title="点击跳转">My brother的网页</a></p>
