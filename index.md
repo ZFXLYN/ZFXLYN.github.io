@@ -20,13 +20,14 @@
 <p>可以修改单机游戏数据的软件(需root)“re文件管理器”<a href="http://g.pconline.com.cn/dl/79630.html" alt="点击跳转">此处下载</a></p><hr>
 <p>“修改QQ运动步数”<a href="https://www.coolapk.com/apk/com.qqyundongxiugaiqi" alt="点击跳转">此处下载</a></p><hr>
 <p>可以刷QQ业务，黄钻，会员……掉价了<a href="http://www.3131km.com/index.htm" alt="点击跳转">此处进入</a></p><hr>  
-<br>可以免费看各种流行软件的VIP视频(破解视频VIP的网站):
+<p>可以免费申请QQ靓号。<a href="https://ssl.zc.qq.com/v3/index-chs.html?type=0" alt="点击前往">点击此处</a>
 
 
 <p>  <a href="https://zfb132.github.io" title="点击跳转">My brother的网页</a></p>
 <p>  <a href="https://zfx539.github.io" title="点击跳转">My另一个网页</a></p>
-<p>QQ:2675699284</p>
-扫描二维码可以加微信。有什么意见可以通过QQ或微信发给我。
+<p>QQ:2675699284</p>  
+
+扫描二维码可以加微信。有意见可以通过QQ或微信发给我。
 <img src="我爱你.jpg"/>   
 <body bgcolor="Pink">
 
