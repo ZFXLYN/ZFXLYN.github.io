@@ -27,5 +27,5 @@
 <p>QQ:2675699284</p>
 扫描二维码可以加微信。有什么意见可以通过QQ或微信发给我。  
 <img src="我爱你.jpg"/>  
-<bgsound src=""loop=infinite>  
+<bgsound src="徐子洋、杨浩宇 - 有这样一个女孩.mp3"loop=infinite>  
 <body background="IMG_20170923_081313.jpg">
