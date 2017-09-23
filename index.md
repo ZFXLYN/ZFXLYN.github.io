@@ -8,7 +8,7 @@
 <i>  我是一名在校学生，我喜欢编程、网页编辑、电器修理(前面这些我只会一部分)……<br>
   大家一定认为我会的很多，其实我会的并不是太多，只是比大多数同龄人多会的多一点点而已。<br>
   我之所以会的多一点都是因为我有一个什么都懂的哥哥(在我看来)，大家有意的话可以去我哥哥的博客网浏览浏览。</i>  
-<m><p><b>由于我是新手和网站的原因，有可能会给你带来不便，望请见谅。</b></p></m>
+<marquee><p><b>由于我是新手和网站的原因，有可能会给你带来不便，望请见谅。</b></p></marquee>
 <h2>应用</h2>
 <p>查看正在连接的WIFI密码神器。“WIFI二维码”<a href="http://oloc.baidu.com/promotion/app/appCommon?pid=1355595&channel=1015593l" alt="点击跳转">此处下载</a></p><hr>
 <p>修改软件图标和名称的多功能软件。“apk编辑器”<a href="https://ag.qq.com/detail?gameId=com.gmail.heagoo.apkeditor.pro&ch=001401&pkgCh=10022313" alt="点击跳转">此处下载</a></p><hr>
@@ -27,7 +27,7 @@
 <p>QQ:2675699284</p>
 扫描二维码可以加微信。有什么意见可以通过QQ或微信发给我。
 <img src="我爱你.jpg"/>   
-<body background="20160511221649s0oxetswc3k24135.jpg" body bgproperties=fixed>
+<body background="20160511221649s0oxetswc3k24135.jpg">
 
 
 
