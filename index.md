@@ -20,13 +20,6 @@
 <p>可以修改单机游戏数据的软件(需root)“re文件管理器”<a href="http://g.pconline.com.cn/dl/79630.html" alt="点击跳转">此处下载</a></p><hr>
 <p>“修改QQ运动步数”<a href="https://www.coolapk.com/apk/com.qqyundongxiugaiqi" alt="点击跳转">此处下载</a></p><hr>
 <p>可以刷QQ业务，黄钻，会员……掉价了<a href="http://www.3131km.com/index.htm" alt="点击跳转">此处进入</a></p><hr>
-<frame>
-<frameset cols="25%,25%,25%,25%">
-<frame src="https://zfx539.github.io/1314">
-<frame src="http://zfx539.github.io">
-<frame src="http://zfb132.github.io">
-<frame src="http://ifkjx.com/?url=https://v.qq.com/x/cover/yoz60y87rdgl1vp/w0024dcyje0.html?ptag=baidu.aladdin.tv.pay">
-</frameset>
 
 
 <p>  <a href="https://zfb132.github.io" title="点击跳转">My brother的网页</a></p>
