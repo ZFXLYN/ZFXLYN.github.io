@@ -21,6 +21,11 @@
 <p>《修改QQ运动步数》<a href="https://www.coolapk.com/apk/com.qqyundongxiugaiqi" alt="点击跳转">此处下载</a></p><hr>
 <p>可以刷QQ业务，黄钻，会员……掉价了<a href="http://www.3131km.com/index.htm" alt="点击跳转">此处前往</a></p><hr>  
 <p>可以免费申请QQ靓号。<a href="https://ssl.zc.qq.com/v3/index-chs.html?type=0" alt="点击前往">点击前往</a>
+<a href="com.termux.apk">文件名称</a>
+
+
+
+
 
 
 <p>  <a href="https://zfb132.github.io" title="点击跳转">My brother的网页</a></p>
