@@ -11,7 +11,8 @@
 <p><b>由于我是新手和网站的原因，有可能会给你带来不便，望请见谅。</b></p>  
 <a href="#C1">去应用区</a>  
 <a href="#C2">去图片区</a>  
-<a href="#C3">去音乐区</a>  
+<a href="#C3">去音乐区</a>  
+<a href="#C4">需要帮助</a>  
 
 <a name="C1"><h2>应用</h2></a>  
 
@@ -26,14 +27,14 @@
 <p>《修改QQ运动步数》<a href="https://www.coolapk.com/apk/com.qqyundongxiugaiqi" alt="点击跳转">此处下载</a></p><hr>
 <p>可以刷QQ业务，黄钻，会员……掉价了<a href="http://www.3131km.com/index.htm" alt="点击跳转">此处前往</a></p><hr>  
 <p>可以免费申请QQ靓号。<a href="https://ssl.zc.qq.com/v3/index-chs.html?type=0" alt="点击前往">点击前往</a>
-<a href="com.termux.apk" download="com.termux.apk">点击下载</a>
-<a name="C2"><h2>图片</h2></a>
+<a href="com.termux.apk" download="com.termux.apk">点击下载</a> 
+<a name="C2"><h2>图片</h2></a>   
 
 
-<a name="C3"><h2>音乐</h2></a>
+<a name="C3"><h2>音乐</h2></a>  
 
 
-
+<a name="C4"><h2>帮助</h2></a>  
 
 
 
