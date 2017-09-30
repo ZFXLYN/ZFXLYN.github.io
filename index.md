@@ -8,8 +8,31 @@
 <i>  我是一名在校学生，我喜欢编程、网页编辑、电器修理(前面这些我只会一部分)……<br>
   大家一定认为我会的很多，其实我会的并不是太多，只是比大多数同龄人多会的多一点点而已。<br>
   我之所以会的多一点都是因为我有一个什么都懂的哥哥(在我看来)，大家有意的话可以去我哥哥的博客网浏览浏览。</i>  
-<p><b>由于我是新手和网站的原因，有可能会给你带来不便，望请见谅。</b></p>  
-<h2>应用</h2>
+<p><b>由于我是新手和网站的原因，有可能会给你带来不便，望请见谅。</b></p>
+
+<table border="1">
+<tr>
+<td><a href="#C1">去应用区</a></td>
+<td><a href="#C2">去音乐区</a></td>
+<td><a href="#C3">去图片区</a></td>
+<td><a href="#C4">需要帮助</a></td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a name="C1"><h2>应用</h2></a>
 <p>查看正在连接的WIFI密码神器。《WIFI二维码》<a href="http://oloc.baidu.com/promotion/app/appCommon?pid=1355595&channel=1015593l" alt="点击跳转">此处下载</a></p><hr>
 <p>修改软件图标和名称的多功能软件。《apk编辑器》<a href="https://ag.qq.com/detail?gameId=com.gmail.heagoo.apkeditor.pro&ch=001401&pkgCh=10022313" alt="点击跳转">此处下载</a></p><hr>
 <p>手机root权限安装包:
@@ -22,6 +45,13 @@
 <p>可以刷QQ业务，黄钻，会员……掉价了<a href="http://www.3131km.com/index.htm" alt="点击跳转">此处前往</a></p><hr>  
 <p>可以免费申请QQ靓号。<a href="https://ssl.zc.qq.com/v3/index-chs.html?type=0" alt="点击前往">点击前往</a>
 <a href="com.termux.apk" download="com.termux.apk">点击下载</a>
+<a name="C2"><h2>音乐</h2></a>  
+
+<a name="C3"><h2>图片</h2></a>  
+
+<a name="C4"><h2>帮助</h2></a>  
+
+
 
 
 
