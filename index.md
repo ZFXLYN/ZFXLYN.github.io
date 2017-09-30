@@ -59,9 +59,26 @@
 
 
 <a name="C5"><h2>反馈</h2></a>
-<p>  <a href="https://zfb132.github.io" title="点击跳转">My brother的网页</a></p>
-<p>  <a href="https://zfx539.github.io" title="点击跳转">My另一个网页</a></p>
-<p>QQ:2675699284</p>  
+
+<table border="1">
+<tr>
+<th>QQ</th>
+<td>2675699284</td>
+</tr>
+<tr>
+<th>My另一个</th>
+<td><a href="https://zfx539.github.io" alt="点击跳转">此处进入</a></td>
+</tr>
+<tr>
+<th>My brother的网页</th>
+<td><a href="https://zfb132.github.io" title="点击跳转">此处进入</a></td>
+</tr>
+</table>
+</body>
+
+
+
+
 
 扫描二维码可以加微信。有意见可以通过QQ或微信发给我。
 <img src="我爱你.jpg"/>   
