@@ -48,6 +48,9 @@
 
 <a name="C3"><h2>图片</h2></a>  
 
+<a href="img/jpg/20160511221649s0oxetswc3k24135.jpg"><img src="img/jpg/20160511221649s0oxetswc3k24135.jpg"/></a>
+
+
 <a name="C4"><h2>帮助</h2></a>  
 
 大家好，在网页的个人介绍中，我已经声明<ins>我是新手</ins>
