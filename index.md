@@ -12,7 +12,7 @@
   大家一定认为我会的很多，其实我会的并不是太多，只是比大多数同龄人多会的多一点点而已。<br>
   我之所以会的多一点都是因为我有一个什么都懂的哥哥(在我看来)，大家有意的话可以去我哥哥的博客网浏览浏览。</i>  
 <p><b>由于我是新手和网站的原因，有可能会给你带来不便，望请见谅。</b></p>
-
+<center>
 <table border="1">
 <tr>
 <td><a href="#C1">去应用区</a></td>
@@ -22,7 +22,7 @@
 <td><a href="#C5">意见反馈</a></td>
 </tr>
 </table>
-
+</center>
 
 <a name="C1"><h2>应用</h2></a>
 <p>查看正在连接的WIFI密码神器。《WIFI二维码》<a href="com.eoe.wifishare.apk">点击下载</a>
@@ -36,7 +36,8 @@
 <p>《修改QQ运动步数》<a href="你文件所在的路径就可以啦">文件名称</a>
 <p>可以刷QQ业务，黄钻，会员……掉价了<a href="http://www.3131km.com/index.htm" alt="点击跳转">此处前往</a></p><hr>  
 <p>可以免费申请QQ靓号。<a href="https://ssl.zc.qq.com/v3/index-chs.html?type=0" alt="点击前往">点击前往</a>
-<a href="com.termux.apk" download="com.termux.apk">点击下载</a>
+<p>这是安卓终端模拟器<a href="com.termux.apk" download="com.termux.apk">点击下载</a></p>
+
 <a name="C2"><h2>音乐</h2></a>  
 
 <a name="C3"><h2>图片</h2></a>  
@@ -50,7 +51,7 @@
 
 
 <a name="C5"><h2>反馈</h2></a>
-
+<center>
 <table border="1">
 <tr>
 <th>QQ</th>
@@ -65,7 +66,8 @@
 <td><a href="https://zfb132.github.io" title="点击跳转">此处进入</a></td>
 </tr>
 </table>
-</body>
+</center>
+
 
 
 
@@ -74,6 +76,6 @@
 扫描二维码可以加微信。有意见可以通过QQ或微信发给我。
 <img src="我爱你.jpg"/>   
 
-
+</body>
 
 
