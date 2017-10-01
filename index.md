@@ -13,7 +13,7 @@
   我之所以会的多一点都是因为我有一个什么都懂的哥哥(在我看来)，大家有意的话可以去我哥哥的博客网浏览浏览。</i>  
 <p><b>由于我是新手和网站的原因，有可能会给你带来不便，望请见谅。</b></p>
 <center>
-<table border="1" style="display:inline-block">
+<table border="1" style="display:inline-block" width="auto">
 <tr>
 <td><a href="#C1">去应用区</a></td>
 <td><a href="#C2">去音乐区</a></td>
@@ -52,7 +52,7 @@
 
 <a name="C5"><h2>反馈</h2></a>
 <center>
-<table border="1" style="display:inline-block">
+<table border="1" style="display:inline-block" width="auto">
 <tr>
 <th>QQ</th>
 <td>2675699284</td>
