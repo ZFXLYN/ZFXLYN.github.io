@@ -68,7 +68,7 @@
 <td>2675699284</td>
 </tr>
 <tr>
-<th>My另一个</th>
+<th>My另一个网页</th>
 <td><a href="https://zfx539.github.io" alt="点击跳转">此处进入</a></td>
 </tr>
 <tr>
