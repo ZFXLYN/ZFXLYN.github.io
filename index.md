@@ -1,5 +1,7 @@
-<body bgcolor="Pink" />
+<body bgcolor="Pink" >
+
 # 欢迎来ZFX 1314的网页  
+
 <center>有这样一个女孩</center>
 <p><div class="post-preview">
 	<audio controls="controls" height="100" width="100">  <source src="徐子洋、杨浩宇 - 有这样一个女孩.mp3" type="audio/mp3" />  
