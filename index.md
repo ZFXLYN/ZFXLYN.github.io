@@ -1,4 +1,4 @@
-<body bgcolor="Pink" >
+<body bgcolor="Pink" ></body>
 
 <h1>欢迎来ZFX 1314的网页</h1>  
 
@@ -80,6 +80,6 @@
 
 
 
-</body>
+
 
 
