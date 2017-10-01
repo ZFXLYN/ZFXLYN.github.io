@@ -47,7 +47,9 @@
 《徐子洋、杨浩宇 - 有这样一个女孩.mp3》<a href="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3">点击下载</a>
 
 <a name="C3"><h2>图片</h2></a>  
-<img dynsrc="img/flash/甩你几条银河系-art--MC天佑--art2cf03f10b897121bfea95bd103685fa2.mp4" width="300" height="300" start=mouseover>
+<div class="post-preview">
+	<audio controls="controls" height="300" width="300">  <source src="img/flash/甩你几条银河系-art--MC天佑--art-2cf03f10b897121bfea95bd103685fa2.mp4" type="audio/mp4" />  
+<img dynsrc="img/flash/甩你几条银河系-art--MC天佑--art2cf03f10b897121bfea95bd103685fa2.mp4" width="300" height="300" start=mouseover></audio>
 
 
 
