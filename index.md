@@ -28,7 +28,7 @@
 
 
 <a name="C1"><h2>应用</h2></a>
-<p>查看正在连接的WIFI密码神器。《WIFI二维码》<a href="com.eoe.wifishare.apk">点击下载</a>
+<p>查看正在连接的WIFI密码神器。《WIFI二维码》<a href="img/com.eoe.wifishare.apk">点击下载</a>
 <p>修改软件图标和名称的多功能软件。《apk编辑器》<a href="img/apk_editor_pro.apk">点击下载</a>
 <p>手机root权限安装包:
 《360超级root》，<a href="img/com.qihoo.permmgr_8.0.1.1_liqucn.com.apk">点击下载</a>
@@ -38,7 +38,7 @@
 <p>可以修改单机游戏数据的软件(需root)《re文件管理器》<a href="img/RE管理器 rootexplorer.apk">点击下载</a>
 <p>《修改QQ运动步数》<a href="img/3f09c387bd23b1f609136ca0a5271862-152055-o_1bpiltb391fs0soe1fco4hn1s7sq-uid-1065.apk">点击下载</a>
 <p>手机锁屏密码锁《极简炫酷密码锁》<a href="img/com.tpad.change.unlock.ji1jian1xuan4ku4op.apk">点击下载</a>
-<p>这是安卓《终端模拟器》<a href="com.termux.apk" download="com.termux.apk">点击下载</a></p><hr>
+<p>这是安卓《终端模拟器》<a href="img/com.termux.apk" download="com.termux.apk">点击下载</a></p><hr>
 <p>可以刷QQ业务，黄钻，会员……掉价了<a href="http://www.3131km.com/index.htm" alt="点击跳转">此处前往</a></p>
 <p>可以免费申请QQ靓号。<a href="https://ssl.zc.qq.com/v3/index-chs.html?type=0" alt="点击前往">点击前往</a>
 
