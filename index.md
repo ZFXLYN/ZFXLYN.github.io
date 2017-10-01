@@ -4,8 +4,8 @@
 
 <center>有这样一个女孩</center>
 <p><div class="post-preview">
-	<audio controls="controls" height="100" width="100">  <source src="徐子洋、杨浩宇 - 有这样一个女孩.mp3" type="audio/mp3" />  
-<embed height="100" width="100" src="徐子洋、杨浩宇 - 有这样一个女孩.mp3" />
+	<audio controls="controls" height="100" width="100">  <source src="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3" type="audio/mp3" />  
+<embed height="100" width="100" src="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3" />
 </audio><hr>
 
 <i>  我是一名在校学生，我喜欢编程、网页编辑、电器修理(前面这些我只会一部分)……<br>
