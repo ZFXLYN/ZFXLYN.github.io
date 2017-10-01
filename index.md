@@ -24,7 +24,12 @@
 <td><a href="#C5">意见反馈</a></td>
 </tr>
 </table>
-</center>
+</center>  
+
+
+ 应用  | 音乐 |图片|帮助|反馈| 
+ :--:|:--:|:--:|:--:|:--:|  
+ <a href="#C1">去应用区</a>|<a href="#C2">去音乐区</a>|<a href="#C3">去图片区</a> |<a href="#C4">需要帮助</a> |<a href="#C5">意见反馈|
 
 <a name="C1"><h2>应用</h2></a>
 <p>查看正在连接的WIFI密码神器。《WIFI二维码》<a href="com.eoe.wifishare.apk">点击下载</a>
