@@ -37,8 +37,8 @@
 <p>正宗装逼神器(可以修改QQ标识)《畅玩手机》<a href="img/1788510.apk">点击下载</a>
 <p>可以修改单机游戏数据的软件(需root)《re文件管理器》<a href="img/RE管理器 rootexplorer.apk">点击下载</a>
 <p>《修改QQ运动步数》<a href="img/3f09c387bd23b1f609136ca0a5271862-152055-o_1bpiltb391fs0soe1fco4hn1s7sq-uid-1065.apk">点击下载</a>
-<p>《极简炫酷密码锁》<a href="com.tpad.change.unlock.ji1jian1xuan4ku4op.apk">点击下载</a>
-<p>这是安卓终端模拟器<a href="com.termux.apk" download="com.termux.apk">点击下载</a></p><hr>
+<p>手机锁屏密码锁《极简炫酷密码锁》<a href="img/com.tpad.change.unlock.ji1jian1xuan4ku4op.apk">点击下载</a>
+<p>这是安卓《终端模拟器》<a href="com.termux.apk" download="com.termux.apk">点击下载</a></p><hr>
 <p>可以刷QQ业务，黄钻，会员……掉价了<a href="http://www.3131km.com/index.htm" alt="点击跳转">此处前往</a></p>
 <p>可以免费申请QQ靓号。<a href="https://ssl.zc.qq.com/v3/index-chs.html?type=0" alt="点击前往">点击前往</a>
 
