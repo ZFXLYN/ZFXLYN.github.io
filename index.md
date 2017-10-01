@@ -68,8 +68,8 @@
 </table>
 </center>
 <p>扫描二维码可以加微信。有意见可以通过QQ或微信发给我。</p>
-<img src="我爱你.jpg"/>
-
+<img src="我爱你.jpg"/>  
+  
 
 
 
