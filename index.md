@@ -18,6 +18,8 @@
 <td><a href="#C1">去应用区</a></td>
 <td><a href="#C2">去音乐区</a></td>
 <td><a href="#C3">去图片区</a></td>
+</tr>
+<tr>
 <td><a href="#C4">需要帮助</a></td>
 <td><a href="#C5">意见反馈</a></td>
 </tr>
@@ -71,5 +73,8 @@
 <img src="我爱你.jpg"/>  
   
 
+
+
+</body>
 
 
