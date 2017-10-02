@@ -1,9 +1,7 @@
 <html>
-<title>ZFX的博客，由张家二少提供</title>
 <body bgcolor="Pink" ></body>
 </html>
-
-<h1>欢迎来ZFX 1314的网页</h1>  
+<title><h1>欢迎来ZFX 1314的网页</h1></title>
 
 <center>有这样一个女孩</center>
 <p><div class="post-preview">
