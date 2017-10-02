@@ -1,6 +1,6 @@
 
-<body bgcolor="Pink" ></body>
 <h1>欢迎来ZFX 1314的网页</h1>
+<body bgcolor="Pink" ></body>
 
 <center>有这样一个女孩</center>
 <p><div class="post-preview">
