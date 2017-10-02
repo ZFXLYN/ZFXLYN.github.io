@@ -41,7 +41,7 @@
 <p>这是安卓《终端模拟器》<a href="img/com.termux.apk" download="com.termux.apk">点击下载</a></p><hr>
 <p>可以刷QQ业务，黄钻，会员……掉价了<a href="http://www.3131km.com/index.htm" alt="点击跳转">此处前往</a></p>
 <p>可以免费申请QQ靓号。<a href="https://ssl.zc.qq.com/v3/index-chs.html?type=0" alt="点击前往">点击前往</a>
-
+<p>有谁要名片赞，请加下面的QQ号。</p>
 <hr>  
 <a name="C2"><h2>音乐</h2></a>  
 《徐子洋、杨浩宇 - 有这样一个女孩.mp3》<a href="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3">点击下载</a>
