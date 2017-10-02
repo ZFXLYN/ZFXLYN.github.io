@@ -1,11 +1,7 @@
-
-
-
-
-<HTML>
-<body bgcolor="Pink" ></body>
+<html>
 <title>ZFX的博客，由张家二少提供</title>
-</HTML>
+<body bgcolor="Pink" ></body>
+</html>
 
 <h1>欢迎来ZFX 1314的网页</h1>  
 
