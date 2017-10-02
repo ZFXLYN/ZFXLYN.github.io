@@ -47,7 +47,7 @@
 《徐子洋、杨浩宇 - 有这样一个女孩.mp3》<a href="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3">点击下载</a>
 
 <a name="C3"><h2>图片</h2></a>  
-
+<a href="http://m.xiguavideo.cn/group/6472225886547477005/?iid=15774418255&app=video_article&utm_source=copy_link&utm_medium=android&utm_campaign=client_share" alt="点击跳转">此处</a>
 
 
 <a name="C4"><h2>帮助</h2></a>  
