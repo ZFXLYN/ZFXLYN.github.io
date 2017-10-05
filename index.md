@@ -41,15 +41,20 @@
 <p>这是安卓《终端模拟器》<a href="img/com.termux.apk" download="com.termux.apk">点击下载</a></p><hr>
 <p>可以刷QQ业务，黄钻，会员……掉价了<a href="http://www.3131km.com/index.htm" alt="点击跳转">此处前往</a></p>
 <p>可以免费申请QQ靓号。<a href="https://ssl.zc.qq.com/v3/index-chs.html?type=0" alt="点击前往">点击前往</a>
-<p>有谁要名片赞，请加下面的QQ号。</p>
-<hr>  
+<p>有谁要名片赞，请加下面的QQ号。</p>  
 <a name="C2"><h2>音乐</h2></a>  
 《徐子洋、杨浩宇 - 有这样一个女孩.mp3》<a href="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3">点击下载</a><br>
 <center>《网络歌手 - 有这样一个男孩 (张会玩).mp3》</center>
 <div class="post-preview">
 	<audio controls="controls" height="100" width="100">  <source src="img/music/网络歌手 - 有这样一个男孩 (张会玩).mp3" type="audio/mp3" />  <embed height="100" width="100" src="img/music/网络歌手 - 有这样一个男孩 (张会玩).mp3" />
-</audio><br>
-<a href="img/music/网络歌手 - 有这样一个男孩 (张会玩).mp3">点击下载</a><br>
+</audio>
+<a href="img/music/网络歌手 - 有这样一个男孩 (张会玩).mp3">点击下载</a><br>  
+<center>《群星 - 心痛2009.mp3》</center>
+<div class="post-preview">
+	<audio controls="controls" height="100" width="100">  <source src="img/music/群星 - 心痛2009.mp3" type="audio/mp3" />  <embed height="100" width="100" src="img/music/群星 - 心痛2009.mp3" />
+</audio>
+<a href="img/music/群星 - 心痛2009.mp3">点击下载</a><br>
+	
 
 
 <a name="C3"><h2>影视</h2></a>
