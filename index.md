@@ -8,7 +8,7 @@
      <img src="img/jpg/jump.png" style="cursor:pointer;">
   </a>
 </div>
-<script type=text/javascript>
+<script type="text/javascript">
         var ad1=new AdMove("ad1");
         ad1.Run();
   	//可兼容多组漂浮
