@@ -5,7 +5,7 @@
 <center>《有这样一个女孩》送给最美的你！</center>
 <div id="ad1" style="z-index: 5; position: absolute; left: 401.478px; top: 269.311px;">
   <a href="https://zfx539.github.io/" target="_blank">
-     <img src="img/jump.png" style="cursor:pointer;">
+     <img src="img/jpg/jump.png" style="cursor:pointer;">
   </a>
 </div>
 <p><div class="post-preview">
