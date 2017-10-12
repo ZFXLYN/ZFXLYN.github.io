@@ -1,7 +1,7 @@
 
 <h1>欢迎来ZFX 1314的网页</h1>
 <body bgcolor="Pink" ></body>
-
+<center>《有这样一个女孩》送给最美的你！</center>
 <p><div class="post-preview">
 	<audio controls="controls" height="100" width="100">  <source src="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3" type="audio/mp3" />  
 <embed height="100" width="100" src="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3" />
@@ -104,7 +104,9 @@
 </center>
 <p>扫描二维码可以加微信。有意见可以通过QQ或微信发给我。</p>
 <img src="img/jpg/我爱你.jpg"/>
-<script type="text/script">
+
+
+<script type="text/javascript">
 function addEvent(obj,evtType,func,cap){
 	cap=cap||false;
 	if(obj.addEventListener){
@@ -241,7 +243,6 @@ function AdMove(id){
 }
 
 </script>
-<center>《有这样一个女孩》送给最美的你！</center>
 <div id="ad1" style="z-index: 5; position: absolute; left: 401.478px; top: 269.311px;">
   <a href="https://zfx539.github.io/" target="_blank">
      <img src="img/jpg/jump.png" style="cursor:pointer;">
