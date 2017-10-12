@@ -1,7 +1,7 @@
 
 <h1>欢迎来ZFX 1314的网页</h1>
 <body bgcolor="Pink" ></body>
-<script type="text/script" src="/lib/imgmove.js" ></script>
+<script type="text/script" src="/1314/lib/imgmove.js" ></script>
 <center>《有这样一个女孩》送给最美的你！</center>
 <div id="ad1" style="z-index: 5; position: absolute; left: 401.478px; top: 269.311px;">
   <a href="https://zfx539.github.io/" target="_blank">
