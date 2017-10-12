@@ -8,6 +8,13 @@
      <img src="img/jpg/jump.png" style="cursor:pointer;">
   </a>
 </div>
+<script type=text/javascript>
+        var ad1=new AdMove("ad1");
+        ad1.Run();
+  	//可兼容多组漂浮
+  	//var ad1=new AdMove("ad2");
+        //ad2.Run();
+</script>
 <p><div class="post-preview">
 	<audio controls="controls" height="100" width="100">  <source src="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3" type="audio/mp3" />  
 <embed height="100" width="100" src="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3" />
