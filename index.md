@@ -104,7 +104,7 @@
 <p>扫描二维码可以加微信。有意见可以通过QQ或微信发给我。</p>
 <img src="img/jpg/我爱你.jpg"/>
 
-<!--
+/*
 <script type="text/javascript">
 function addEvent(obj,evtType,func,cap){
 	cap=cap||false;
@@ -254,7 +254,7 @@ function AdMove(id){
   	//var ad1=new AdMove("ad2");
         //ad2.Run();
 </script>  
--->
+*/
 
 
 
