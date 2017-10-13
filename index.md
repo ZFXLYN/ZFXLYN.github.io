@@ -59,12 +59,12 @@
 <a href="img/music/庄心妍、祁隆 - 一万个舍不得(1).mp3">点击下载</a><br>
 <center>《张学友 - 一千个伤心的理由.mp3》</center>
 <div class="post-preview">
-	<audio controls="controls" height="100" width="100">  <source src="img/music/张学友 - 一千个伤心的理由.mp3" type="audio/mp3" />  <embed height="100" width="100" src="img/music/张学友 - 一千个伤心的理由.mp" /></audio><br>
+	<audio controls="controls" height="100" width="100">  <source src="img/music/张学友 - 一千个伤心的理由.mp3" type="audio/mp3" />  <embed height="100" width="100" src="img/music/张学友 - 一千个伤心的理由.mp3" /></audio><br>
 <a href="img/music/张学友 - 一千个伤心的理由.mp3">点击下载</a><br>
 <center>《蒋蒋 - 装蒜.mp3》</center>
 <p><div class="post-preview">
 	<audio controls="controls" height="100" width="100">  <source src="img/music/蒋蒋 - 装蒜.mp3" type="audio/mp3" />  <embed height="100" width="100" src="img/music/蒋蒋 - 装蒜.mp3" /></audio><br>
-<a href="img/music蒋蒋 - 装蒜.mp3/">点击下载</a><br>
+<a href="img/music/蒋蒋 - 装蒜.mp3">点击下载</a><br>
 
 
 <a name="C3"><h2>影视</h2></a>
