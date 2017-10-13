@@ -244,7 +244,7 @@ function AdMove(id){
 </script>
 <div id="ad1" style="z-index: 5; position: absolute; left: 401.478px; top: 269.311px;">
   <a href="https://zfx539.github.io/" target="_blank">
-     <img src="img/jpg/jump.png" style="cursor:pointer;">
+     <img src="img/jpg/jump.pn" style="cursor:pointer;">
   </a>
 </div>
 <script type="text/javascript">
