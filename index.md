@@ -70,6 +70,11 @@
 <div class="post-preview">
 	<audio controls="controls" height="100" width="100">  <source src="img/music/蒋蒋 - 装蒜.mp3" type="audio/mp3" />  <embed height="100" width="100" src="img/music/蒋蒋 - 装蒜.mp3" /></audio><br>
 <a href="img/music/蒋蒋 - 装蒜.mp3">点击下载</a><br>
+<center>《Mc阿哲 - 泪三年.mp3》</center>
+<div class="post-preview">
+	<audio controls="controls" height="100" width="100">  <source src="img/music
+		Mc阿哲 - 泪三年.mp3" type="audio/mp3" />  <embed height="100" width="100" src="img/music/Mc阿哲 - 泪三年.mp3" /></audio><br>
+<a href="img/music/Mc阿哲 - 泪三年.mp3">点击下载</a><br>
 
 
 <a name="C3"><h2>影视</h2></a>
