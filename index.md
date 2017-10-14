@@ -46,7 +46,8 @@
 
 
 <a name="C2"><h2>音乐</h2></a>  
-《徐子洋、杨浩宇 - 有这样一个女孩.mp3》<br><a href="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3">点击下载</a><br>
+<center>《徐子洋、杨浩宇 - 有这样一个女孩.mp3》</center><br>
+<a href="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3">点击下载</a><br>
 <center>《网络歌手 - 有这样一个男孩 .mp3》</center>
 <div class="post-preview">
 	<audio controls="controls" height="100" width="100">  <source src="img/music/网络歌手 - 有这样一个男孩 (张会玩).mp3" type="audio/mp3" />  <embed height="100" width="100" src="img/music/网络歌手 - 有这样一个男孩 (张会玩).mp3" />
