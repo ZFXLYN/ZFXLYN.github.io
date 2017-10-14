@@ -1,4 +1,3 @@
-
 <h1>欢迎来ZFX 1314的网页</h1>
 <body bgcolor="Pink" ></body>
 <center>《有这样一个女孩》送给最美的你！</center>
@@ -72,13 +71,14 @@
 <a href="img/music/蒋蒋 - 装蒜.mp3">点击下载</a><br>
 <center>《Mc阿哲 - 泪三年.mp3》</center>
 <div class="post-preview">
-	<audio controls="controls" height="100" width="100">  <source src="img/music
-		Mc阿哲 - 泪三年.mp3" type="audio/mp3" />  <embed height="100" width="100" src="img/music/Mc阿哲 - 泪三年.mp3" /></audio><br>
+	<audio controls="controls" height="100" width="100">  <source src="img/music/Mc阿哲 - 泪三年.mp3" type="audio/mp3" />  <embed height="100" width="100" src="img/music/Mc阿哲 - 泪三年.mp3" /></audio><br>
 <a href="img/music/Mc阿哲 - 泪三年.mp3">点击下载</a><br>
 
 
-<a name="C3"><h2>影视</h2></a>
-《九世轮回篇》<a href="http://m.xiguavideo.cn/group/6472225886547477005/?iid=15774418255&app=video_article&utm_source=copy_link&utm_medium=android&utm_campaign=client_share" alt="点击跳转">点击播放</a>      
+
+
+<a name="C3"><h2>影视</h2><//a>
+《九世轮回篇》<a href="http://m.xiguavideo.cn/group/6472225886547477005/iid=15774418255&app=video_article&utm_source=copy_link&utm_medium=android&utm_campaign=client_share" alt="点击跳转">点击播放</a>      
 <a href="img/flash/九世轮回篇(KTV版)-art--MC冰鑫--art-293834d184605b8ae2a8f9fa191800e2.mp4">点击下载</a><br>
 《厉害了我的哥》<a href="http://m.xiguashipin.cn/group/6472233100041519630/?iid=15774418255&app=video_article&utm_source=copy_link&utm_medium=android&utm_campaign=client_share" alt="点击跳转">点击播放</a>      
 <a href="img/flash/厉害了我的哥-art--帅少--art-8c99c8542aba31c2a5446f5a6f671243.mp4">点击下载</a><br>
