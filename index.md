@@ -39,7 +39,12 @@
 <p>手机锁屏密码锁《极简炫酷密码锁》<a href="img/com.tpad.change.unlock.ji1jian1xuan4ku4op.apk">点击下载</a>
 <p>这是安卓《终端模拟器》<a href="img/com.termux.apk" download="com.termux.apk">点击下载</a></p><hr>
 <p>可以免费申请QQ靓号。<a href="https://ssl.zc.qq.com/v3/index-chs.html?type=0" alt="点击前往">点击前往</a>
-<p>有谁要名片赞，请加下面的QQ号。</p>  
+<p>可以让模糊不清的图片变清。<a href="http://bigjpg.com/" alt="图片变清">点击进入</a>
+<p>有谁要名片赞，请加下面的QQ号。</p>
+
+
+
+
 <a name="C2"><h2>音乐</h2></a>  
 《徐子洋、杨浩宇 - 有这样一个女孩.mp3》<br><a href="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3">点击下载</a><br>
 <center>《网络歌手 - 有这样一个男孩 .mp3》</center>
