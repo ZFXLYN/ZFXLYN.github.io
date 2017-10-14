@@ -38,7 +38,6 @@
 <p>《修改QQ运动步数》<a href="img/3f09c387bd23b1f609136ca0a5271862-152055-o_1bpiltb391fs0soe1fco4hn1s7sq-uid-1065.apk">点击下载</a>
 <p>手机锁屏密码锁《极简炫酷密码锁》<a href="img/com.tpad.change.unlock.ji1jian1xuan4ku4op.apk">点击下载</a>
 <p>这是安卓《终端模拟器》<a href="img/com.termux.apk" download="com.termux.apk">点击下载</a></p><hr>
-<p>可以刷QQ业务，黄钻，会员……掉价了<a href="http://www.3131km.com/index.htm" alt="点击跳转">此处前往</a></p>
 <p>可以免费申请QQ靓号。<a href="https://ssl.zc.qq.com/v3/index-chs.html?type=0" alt="点击前往">点击前往</a>
 <p>有谁要名片赞，请加下面的QQ号。</p>  
 <a name="C2"><h2>音乐</h2></a>  
@@ -108,13 +107,6 @@
 </center>
 <p>扫描二维码可以加微信。有意见可以通过QQ或微信发给我。</p>
 <img src="img/jpg/我爱你.jpg"/>
-
-
-
-
-
-
-
 
 
 
