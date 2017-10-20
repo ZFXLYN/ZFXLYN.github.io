@@ -44,34 +44,20 @@
 
 
 
-<a name="C2"><h2>音乐</h2></a>  
-<p>《徐子洋、杨浩宇 - 有这样一个女孩.mp3》
-<a href="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3">点击下载</a></p>
-<center>《网络歌手 - 有这样一个男孩 .mp3》</center>
-<div class="post-preview">
-	<audio controls="controls" height="100" width="100">  <source src="img/music/网络歌手 - 有这样一个男孩 (张会玩).mp3" type="audio/mp3" />  <embed height="100" width="100" src="img/music/网络歌手 - 有这样一个男孩 (张会玩).mp3" />
-</audio><br>
-<a href="img/music/网络歌手 - 有这样一个男孩 (张会玩).mp3">点击下载</a><br>  
-<center>《群星 - 心痛2009.mp3》</center>
-<div class="post-preview">
-	<audio controls="controls" height="100" width="100">  <source src="img/music/群星 - 心痛2009.mp3" type="audio/mp3" />  <embed height="100" width="100" src="img/music/群星 - 心痛2009.mp3" />
-</audio><br>
+<a name="C2"><h2>音乐</h2></a><br>
+有这样一个女孩
+<a href="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3">点击下载</a><br>
+有这样一个男孩
+<a href="img/music/网络歌手 - 有这样一个男孩 (张会玩).mp3">点击下载</a><br>
+心痛2009
 <a href="img/music/群星 - 心痛2009.mp3">点击下载</a><br>
-<center>《庄心妍、祁隆 - 一万个舍不得(1).mp3》</center>
-<div class="post-preview">
-	<audio controls="controls" height="100" width="100">  <source src="img/music/庄心妍、祁隆 - 一万个舍不得(1).mp3" type="audio/mp3" />  <embed height="100" width="100" src="img/music/庄心妍、祁隆 - 一万个舍不得(1).mp3" /></audio><br>
+一万个舍不得
 <a href="img/music/庄心妍、祁隆 - 一万个舍不得(1).mp3">点击下载</a><br>
-<center>《张学友 - 一千个伤心的理由.mp3》</center>
-<div class="post-preview">
-	<audio controls="controls" height="100" width="100">  <source src="img/music/张学友 - 一千个伤心的理由.mp3" type="audio/mp3" />  <embed height="100" width="100" src="img/music/张学友 - 一千个伤心的理由.mp3" /></audio><br>
+一千个伤心的理由
 <a href="img/music/张学友 - 一千个伤心的理由.mp3">点击下载</a><br>
-<center>《蒋蒋 - 装蒜.mp3》</center>
-<div class="post-preview">
-	<audio controls="controls" height="100" width="100">  <source src="img/music/蒋蒋 - 装蒜.mp3" type="audio/mp3" />  <embed height="100" width="100" src="img/music/蒋蒋 - 装蒜.mp3" /></audio><br>
+装蒜
 <a href="img/music/蒋蒋 - 装蒜.mp3">点击下载</a><br>
-<center>《Mc阿哲 - 泪三年.mp3》</center>
-<div class="post-preview">
-	<audio controls="controls" height="100" width="100">  <source src="img/music/Mc阿哲 - 泪三年.mp3" type="audio/mp3" />  <embed height="100" width="100" src="img/music/Mc阿哲 - 泪三年.mp3" /></audio><br>
+泪三年
 <a href="img/music/Mc阿哲 - 泪三年.mp3">点击下载</a><br>
 
 
