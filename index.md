@@ -39,6 +39,7 @@
 <p>这是安卓《终端模拟器》<a href="img/com.termux.apk" download="com.termux.apk">点击下载</a></p><hr>
 <p>可以免费申请QQ靓号。<a href="https://ssl.zc.qq.com/v3/index-chs.html?type=0" alt="点击前往">点击前往</a>
 <p>可以让模糊不清的图片变清。<a href="http://bigjpg.com/" alt="图片变清">点击进入</a>
+<p>上传图片给出评论。<a href="http://kan.msxiaobing.com/imagegame/portal?task=beauty&phase=2&key=UnPbcPI0EjQTcygzmTAANFIzWTdwNBN2UDMuMRwwQnQnAA&feid=71e035c0b9344dd5a63aff0051d2a1d4&ftid=cab4f198325da7449f810aa43399551c" alt="可以对图片评论">点击进入</a>
 <p>有谁要名片赞，请加下面的QQ号。</p>
 
 
