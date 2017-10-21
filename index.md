@@ -27,7 +27,7 @@
 
 <a name="C1"><h2>应用</h2></a>
 <center>
-<table border"1" >
+<table border="1" >
 <th>查看正在连接的WIFI密码神器。《WIFI二维码》</th>
 <td><a href="img/com.eoe.wifishare.apk">点击下载</a></td>
 <th>修改软件图标和名称的多功能软件。《apk编辑器》</th>
