@@ -107,9 +107,9 @@
 <a href="img/flash/厉害了我的哥-art--帅少--art-8c99c8542aba31c2a5446f5a6f671243.mp4">点击下载</a></td>
 <td><a href="http://m.xiguavideo.cn/group/6472323160178950670/?iid=15774418255&app=video_article&utm_source=copy_link&utm_medium=android&utm_campaign=client_share" alt="点击跳转">点击播放</a>      
 <a href="img/flash/甩你几条银河系-art--MC天佑--art-2cf03f10b897121bfea95bd103685fa2.mp4">点击下载</a></td>
-<td><a href="http://m.kugou.com/mv/?hash=4c6728d32bd34c89a67f1f0a66bebf45" alt="点击跳转">点击播放</a>     
+<td><a href="http://www.kugou.com/mvweb/html/mv_52cff4496e5f23f2fea39f98aebe97d7.html" alt="点击跳转">点击播放</a>     
 	<a href="img/flash/死一样的痛过-art--MC梦、Mellow--art-4c6728d32bd34c89a67f1f0a66bebf45.mp4">点击下载</a></td>
-<td><a href="http://toutiao.com/group/6479004933306712589/?iid=16393968975&app=news_article&utm_source=copy_link&utm_medium=android&utm_campaign=client_share" alt="点击跳转">点击播放</a>     <a href="img/flash/多幸运-art--十年华语流行--art-10bbe47ae3ae0704a9d212a7d96f2bd2.mp4">点击下载</a></td>
+<td><a href="http://www.kugou.com/mvweb/html/mv_b47017edab32138aea4f8ef6f24ca536.html" alt="点击跳转">点击播放</a>     <a href="img/flash/多幸运-art--十年华语流行--art-10bbe47ae3ae0704a9d212a7d96f2bd2.mp4">点击下载</a></td>
 
 <td><a href="http://toutiao.com/group/6479000971534926349/?iid=16393968975&app=news_article&utm_source=copy_link&utm_medium=android&utm_campaign=client_share" alt="点击跳转">点击播放</a>     <a href="img/flash/">点击下载</a></td>
 <td><a href="http://m.kugou.com/mv/?hash=fd8ae0f59caccc41383df6c41c1f80fc" alt="点击跳转">点击播放</a>     
