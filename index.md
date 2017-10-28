@@ -154,7 +154,7 @@
 	</tr>
 	<tr>
 <th>《多幸运》</th>
-	<td><a href="http://www.kugou.com/mvweb/html/mv_b47017edab32138aea4f8ef6f24ca536.html" alt="点击跳转">点击播放</a></td>     <td><a href="img/flash/多幸运-art--十年华语流行--art-10bbe47ae3ae0704a9d212a7d96f2bd2.mp4">点击下载</a></td>
+	<td><a href="http://s.kugou.com/6V34HferAV3" alt="点击跳转">点击播放</a></td>     <td><a href="img/flash/多幸运-art--十年华语流行--art-10bbe47ae3ae0704a9d212a7d96f2bd2.mp4">点击下载</a></td>
 	</tr>
 	<tr>
 <th>《一人我饮酒醉》</th>
