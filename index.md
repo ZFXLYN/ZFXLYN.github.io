@@ -6,10 +6,7 @@
 <embed height="100" width="100" src="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3" />
 </audio><hr>
 
-<i>  我是一名在校学生，我喜欢编程、网页编辑、电器修理(前面这些我只会一部分)……<br>
-  大家一定认为我会的很多，其实我会的并不是太多，只是比大多数同龄人多会的多一点点而已。<br>
-  我之所以会的多一点都是因为我有一个什么都懂的哥哥(在我看来)，大家有意的话可以去我哥哥的博客网浏览浏览。</i>  
-<p><b>由于我是新手和网站的原因，有可能会给你带来不便，望请见谅。</b></p>
+
 <center>
 <table border="1" >
 <tr>
@@ -197,10 +194,6 @@
 <td>2675699284</td>
 </tr>
 <tr>
-<th>My另一个网页</th>
-<td><a href="https://ZFX521WJY.github.io" alt="点击跳转">此处进入</a></td>
-</tr>
-<tr>
 <th>My brother的网页</th>
 <td><a href="https://zfb132.github.io" title="点击跳转">此处进入</a></td>
 </tr>
@@ -213,6 +206,4 @@
 
 
 <p><a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=2675699284&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:2675699284:47" alt="点击这里在线咨询" title="点击这里在线咨询"></a>
-<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=2810913277&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:2810913277:47" alt="点击这里在线咨询" title="点击这里在线咨询"></a>
-
-</p>
+<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=2810913277&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:2810913277:47" alt="点击这里在线咨询" title="点击这里在线咨询"></a></p>
