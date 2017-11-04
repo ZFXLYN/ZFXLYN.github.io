@@ -188,7 +188,6 @@
 
 
 
-
 <a name="C5"><h2>反馈</h2></a>
 <center>
 <table border="1" >
@@ -213,5 +212,4 @@
 
 
 
-<a target="_blank" href="http://wpa.qq.com/msgrd?v=1548738521&uin=&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1478538521:47" alt="点击这里在线咨询" title="点击这里在线咨询"></a>
 
