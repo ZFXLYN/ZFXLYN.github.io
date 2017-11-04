@@ -90,34 +90,34 @@
 <a name="C2"><h2>音乐</h2></a><br>
 <center>
 <table border="1" >
-	<tr>
+<tr>
 <th>《有这样一个女孩》</th>
 <td><a href="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3">点击下载</a></td>
-	</tr>
-	<tr>
+</tr>
+<tr>
 <th>《有这样一个男孩》</th>
 <td><a href="img/music/网络歌手 - 有这样一个男孩 (张会玩).mp3">点击下载</a></td>
-	</tr>
-	<tr>
+</tr>
+<tr>
 <th>《心痛2009》</th>
 <td><a href="img/music/群星 - 心痛2009.mp3">点击下载</a></td>
-	</tr>
-	<tr>
+</tr>
+<tr>
 <th>《一万个舍不得》</th>
 <td><a href="img/music/庄心妍、祁隆 - 一万个舍不得(1).mp3">点击下载</a></td>
-	</tr>
-	<tr>
+</tr>
+<tr>
 <th>《一千个伤心的理由》</th>
 <td><a href="img/music/张学友 - 一千个伤心的理由.mp3">点击下载</a></td>
-	</tr>
-	<tr>
+</tr>
+<tr>
 <th>《装蒜》</th>
 <td><a href="img/music/蒋蒋 - 装蒜.mp3">点击下载</a></td>
-	</tr>
-	<tr>
+</tr>
+<tr>
 <th>《泪三年》</th>
 <td><a href="img/music/Mc阿哲 - 泪三年.mp3">点击下载</a></td>
-	</tr>
+</tr>
 </table>
 </center>
 
