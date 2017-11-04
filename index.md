@@ -164,7 +164,7 @@
 <tr>
 <th>《1分1秒》</th>
 <td><a href="http://t1.kugou.com/5gX8edbrAV3" alt="点击跳转">点击播放</a></td>
-<td><a href="img/flash/">点击下载</a><br></td>
+<td><a href="img/flash/">点击下载</a></td>
 </tr>
 </table>
 
