@@ -136,7 +136,7 @@
 <th>《厉害了我的哥》</th>
 	<td><a href="http://m.xiguashipin.cn/group/6472233100041519630/?iid=15774418255&app=video_article&utm_source=copy_link&utm_medium=android&utm_campaign=client_share" alt="点击跳转">点击播放</a></td>      <td>
 <a href="img/flash/厉害了我的哥-art--帅少--art-8c99c8542aba31c2a5446f5a6f671243.mp4">点击下载</a></td>
-	</tr>
+/tr>
 	<tr>
 <th>《甩你几条银河系》</th>
 	<td><a href="http://m.xiguavideo.cn/group/6472323160178950670/?iid=15774418255&app=video_article&utm_source=copy_link&utm_medium=android&utm_campaign=client_share" alt="点击跳转">点击播放</a></td>
@@ -210,5 +210,5 @@
 
 
 
-
+<a target="_blank" href="http://wpa.qq.com/msgrd?v=1548738521&uin=&site=qq&menu=yes"><img border="0" src="http://wpa.qq.com/pa?p=2:1478538521:47" alt="点击这里在线咨询" title="点击这里在线咨询"></a>
 
