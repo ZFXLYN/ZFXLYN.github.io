@@ -124,8 +124,7 @@
 
 
 
-<a name="C3"><h2>影视</h2></a>  
-<center>  
+<a name="C3"><h2>影视</h2></a>    
 <table border="1" >  
 	
 <tr>  
@@ -167,16 +166,15 @@
 <td><a href="http://t1.kugou.com/5gX8edbrAV3" alt="点击跳转">点击播放</a></td>
 <td><a href="img/flash/">点击下载</a><br></td>
 </tr>
-
 </table>
-</center>
 
 
 
 
 
 
-<a name="C4"><h2>帮助</h2></a>  
+
+<a name="C4"><h2>帮助</h2></a>
 <font color="red">此网页暂支持QQ，百度浏览器，下载。不支持电脑下载！</font><br>
 大家好，在网页的个人介绍中，我已经声明<ins>我是新手</ins>
 所以有时这个网页中的软件下载比较麻烦，sorry！如果出现问题，你还想下载其中的软件，
