@@ -204,6 +204,24 @@
 
 
 
+<li class="list-group-item">域名:<a href="http://www.hx-mz.cn/ 
+
+">www.hx-mz.cn</a></li 
+
+>
+<li class="list-group-item"><font color="red">站长QQ：</font>1970671976<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1970671976&site=qq&menu=yes 
+
+"><img border="0" src="http://wpa.qq.com/pa?p=2:1970671976:51 
+
+" alt="点击这里给我发消息" title="点击这里给我发消息"/></a><br>
+<font color="red">用户QQ群：</font>499582406<a target="_blank" href="./qq/api/joingroup.php?qun=499582406"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png 
+
+" alt="点击加群" title="点击加群"></a></li>
+<li class="list-group-item">
+<center><iframe width="280" scrolling="no" height="25" frameborder="0" allowtransparency="true" src="http://i.tianqi.com/index.php?c=code&id=34&icon=1&num=3 
+
+"></iframe></center>
+</li>
 
 
 
