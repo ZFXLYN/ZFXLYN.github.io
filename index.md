@@ -194,7 +194,7 @@
 <td><a href="https://zfb132.github.io" title="点击跳转">此处进入</a></td>
 </tr>
 <tr>
-<th>联系客服A；</th>
+<th>联系客服A：</th>
 <td>
 <html manifest="">
 <head>
@@ -206,22 +206,14 @@
     <a href="mqqwpa://im/chat?chat_type=wpa&uin=2675699284&version=1&src_type=web&web_src=oicqzone.com">联系QQ</a>
 </body>
 </html>
-	</td>	
+	</td>
+	</tr>
 </table>
 </center>
 <p>扫描二维码可以加微信。有意见可以通过QQ或微信发给我。</p>
 <img src="img/jpg/我爱你.jpg"/>
 
-<html manifest="">
-<head>
-    <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
-    <title>QQ Test</title>
-</head>
-<body>
-    <a href="mqqwpa://im/chat?chat_type=wpa&uin=479858761&version=1&src_type=web&web_src=oicqzone.com">打开qq聊天框</a>
-</body>
-</html>
+
 
 
 
