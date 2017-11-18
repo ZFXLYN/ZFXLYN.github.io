@@ -120,18 +120,18 @@
 
 
 <a name="C3"><h2>影视</h2></a>
-<table border="0" >  
+<table border="0" >
 
-<tr>  
-<th>《九世轮回篇》</th>  
+<tr>
+<th>《九世轮回篇》</th>
 <td><a href="http://toutiao.com/group/6472225886547477005/?iid=16393968975&app=news_article&utm_source=copy_link&utm_medium=android&utm_campaign=client_share" alt="点击跳转">点击播放</a></td>
 <td><a href="img/flash/九世轮回篇(KTV版)-art--MC冰鑫--art-293834d184605b8ae2a8f9fa191800e2.mp4">点击下载</a></td>
 </tr>
 
 <tr>
 <th>《厉害了我的哥》</th>
-<td><a href="http://m.xiguashipin.cn/group/6472233100041519630/?iid=15774418255&app=video_article&utm_source=copy_link&utm_medium=android&utm_campaign=client_share" alt="点击跳转">点击播放</a></td>   <td><a href="img/flash/厉害了我的哥-art--帅少--art-8c99c8542aba31c2a5446f5a6f671243.mp4">点击下载</a></td>
-/tr>
+<td><a href="http://m.xiguashipin.cn/group/6472233100041519630/?iid=15774418255&app=video_article&utm_source=copy_link&utm_medium=android&utm_campaign=client_share" alt="点击跳转">点击播放</a></td> <td><a href="img/flash/厉害了我的哥-art--帅少--art-8c99c8542aba31c2a5446f5a6f671243.mp4">点击下载</a></td>
+</tr>
 	
 <tr>
 <th>《甩你几条银河系》</th>
@@ -153,7 +153,8 @@
 
 <tr>
 <th>《一人我饮酒醉》</th>
-<td><a href="http://toutiao.com/group/6479000971534926349/?iid=16393968975&app=news_article&utm_source=copy_link&utm_medium=android&utm_campaign=client_share" alt="点击跳转">点击播放</a></td>   <td><a href="img/flash/一人饮酒醉-art--大鹏、MC天佑--art-d3935be27c2557ebd7c882ae74b2f4d3.mp4">点击下载</a></td>
+<td><a href="http://toutiao.com/group/6479000971534926349/?iid=16393968975&app=news_article&utm_source=copy_link&utm_medium=android&utm_campaign=client_share" alt="点击跳转">点击播放</a></td>
+<td><a href="img/flash/一人饮酒醉-art--大鹏、MC天佑--art-d3935be27c2557ebd7c882ae74b2f4d3.mp4">点击下载</a></td>
 </tr>
 
 <tr>
@@ -174,7 +175,7 @@
 大家好，在网页的个人介绍中，我已经声明<ins>我是新手</ins>
 所以有时这个网页中的软件下载比较麻烦，sorry！如果出现问题，你还想下载其中的软件，
 需要先按“点击下载”，然后会进入如下图所示的画面，再点击红色圆圈中的两个
-单词即可下载！<img src="img/jpg/IMG_20171001_134246.jpg"/>  
+单词即可下载！<img src="img/jpg/IMG_20171001_134246.jpg"/>
 
 
 
