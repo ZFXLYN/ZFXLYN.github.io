@@ -218,7 +218,7 @@
     <title>QQ Test</title>
 </head>
 <body>
-    <a href="mqqwpa://im/chat?chat_type=wpa&uin=479858761&version=1&src_type=web&web_src=oicqzone.com">打开qq聊天框</a>
+    <a href="mqqwpa://im/chat?chat_type=wpa&uin=2810913277&version=1&src_type=web&web_src=oicqzone.com">联系QQ</a>
 </body>
 		</html></td>
 	</tr>
