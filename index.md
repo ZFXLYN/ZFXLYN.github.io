@@ -185,11 +185,7 @@
 <a name="C5"><h2>反馈</h2></a>
 <center>
 <table border="0" >
-<tr>
-<th>QQ</th>
-<td>2675699284</td>
-</tr>
-<tr>
+
 <th>My brother的网页</th>
 <td><a href="https://zfb132.github.io" title="点击跳转">此处进入</a></td>
 </tr>
