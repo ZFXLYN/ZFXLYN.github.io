@@ -8,7 +8,7 @@
 
 
 <center>
-<table border="1" >
+<table border="0" >
 <tr>
 <td><a href="#C1">去应用区</a></td>
 <td><a href="#C2">去音乐区</a></td>
@@ -21,10 +21,9 @@
 </table>
 </center>  
 
-
 <a name="C1"><h2>应用</h2></a>
 <center>
-<table border="1" >
+<table border="0" >
 <tr>
 <th>查看正在连接的WIFI密码神器。《WIFI二维码》</th>
 <td><a href="img/com.eoe.wifishare.apk">点击下载</a></td>
@@ -35,8 +34,7 @@
 	</tr>
 	<tr>
 <th>手机root权限安装包:</th>
-</tr>
-	<tr>
+	<tr></tr>
 <th>《360超级root》</th>
 <td><a href="img/com.qihoo.permmgr_8.0.1.1_liqucn.com.apk">点击下载</a></td>
 	</tr>
@@ -84,12 +82,9 @@
 </center>
 <p>有谁要名片赞，请加下面的QQ号。</p>
 
-
-
-
 <a name="C2"><h2>音乐</h2></a><br>
 <center>
-<table border="1" >
+<table border="0" >
 <tr>
 <th>《有这样一个女孩》</th>
 <td><a href="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3">点击下载</a></td>
@@ -125,7 +120,7 @@
 
 
 <a name="C3"><h2>影视</h2></a>
-<table border="1" >  
+<table border="0" >  
 
 <tr>  
 <th>《九世轮回篇》</th>  
@@ -188,7 +183,7 @@
 
 <a name="C5"><h2>反馈</h2></a>
 <center>
-<table border="1" >
+<table border="0" >
 <tr>
 <th>QQ</th>
 <td>2675699284</td>
@@ -204,24 +199,7 @@
 
 
 
-<li class="list-group-item">域名:<a href="http://www.hx-mz.cn/ 
 
-">www.hx-mz.cn</a></li 
-
->
-<li class="list-group-item"><font color="red">站长QQ：</font>1970671976<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=1970671976&site=qq&menu=yes 
-
-"><img border="0" src="http://wpa.qq.com/pa?p=2:1970671976:51 
-
-" alt="点击这里给我发消息" title="点击这里给我发消息"/></a><br>
-<font color="red">用户QQ群：</font>499582406<a target="_blank" href="./qq/api/joingroup.php?qun=499582406"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png 
-
-" alt="点击加群" title="点击加群"></a></li>
-<li class="list-group-item">
-<center><iframe width="280" scrolling="no" height="25" frameborder="0" allowtransparency="true" src="http://i.tianqi.com/index.php?c=code&id=34&icon=1&num=3 
-
-"></iframe></center>
-</li>
 
 
 
