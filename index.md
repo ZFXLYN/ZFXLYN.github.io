@@ -147,7 +147,7 @@
 
 <tr>
 <th>《多幸运》</th>
-<td><a href="http://s.kugou.com/6V34HferAV3" alt="点击跳转">点击播放</a></td>     
+<td><a href="http://m.xiguavideo.cn/group/6479004933306712589/?iid=17901884432&app=video_article&utm_source=copy_link&utm_medium=android&utm_campaign=client_share" alt="点击跳转">点击播放</a></td>     
 <td><a href="img/flash/">点击下载</a></td>
 </tr>
 
