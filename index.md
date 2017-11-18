@@ -208,6 +208,21 @@
 </html>
 	</td>
 	</tr>
+<tr>
+	<th>联系客服B</th>
+	<td>
+<html manifest="">
+<head>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+    <title>QQ Test</title>
+</head>
+<body>
+    <a href="mqqwpa://im/chat?chat_type=wpa&uin=479858761&version=1&src_type=web&web_src=oicqzone.com">打开qq聊天框</a>
+</body>
+		</html></td>
+	</tr>
+	
 </table>
 </center>
 <p>扫描二维码可以加微信。有意见可以通过QQ或微信发给我。</p>
