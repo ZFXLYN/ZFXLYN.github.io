@@ -92,50 +92,32 @@
 <tr>
 <th>《有这样一个男孩》</th>
 <td><a href="img/music/网络歌手 - 有这样一个男孩 (张会玩).mp3">点击下载</a></td>
-	<td><div class="post-preview">
-	<audio controls="controls" height="100" width="100">  <source src="img/music/网络歌手 - 有这样一个男孩 (张会玩).mp3" type="audio/mp3" />  
-<embed height="100" width="100" src="img/music/网络歌手 - 有这样一个男孩 (张会玩).mp3" />
-		</audio></td>
+	
 </tr>
 <tr>
 <th>《心痛2009》</th>
 <td><a href="img/music/群星 - 心痛2009.mp3">点击下载</a></td>
-	<td><div class="post-preview">
-	<audio controls="controls" height="100" width="100">  <source src="img/music/群星 - 心痛2009.mp3" type="audio/mp3" />  
-<embed height="100" width="100" src="img/music/群星 - 心痛2009.mp3" />
-		</audio></td>
+	
 </tr>
 <tr>
 <th>《一万个舍不得》</th>
 <td><a href="img/music/庄心妍、祁隆 - 一万个舍不得(1).mp3">点击下载</a></td>
-	<td><div class="post-preview">
-	<audio controls="controls" height="100" width="100">  <source src="img/music//庄心妍、祁隆 - 一万个舍不得(1).mp3" type="audio/mp3" />  
-<embed height="100" width="100" src="img/music//庄心妍、祁隆 - 一万个舍不得(1).mp3" />
-		</audio></td>
+	
 </tr>
 <tr>
 <th>《一千个伤心的理由》</th>
 <td><a href="img/music/张学友 - 一千个伤心的理由.mp3">点击下载</a></td>
-	<td><div class="post-preview">
-	<audio controls="controls" height="100" width="100">  <source src="img/music/张学友 - 一千个伤心的理由.mp3" type="audio/mp3" />  
-<embed height="100" width="100" src="img/music/张学友 - 一千个伤心的理由.mp3" />
-		</audio></td>
+	
 </tr>
 <tr>
 <th>《装蒜》</th>
-<td><a href="img/music/蒋蒋 - 装蒜.mp3">点击下载</a></td>
-	<td><div class="post-preview">
-	<audio controls="controls" height="100" width="100">  <source src="img/music/蒋蒋 - 装蒜.mp3" type="audio/mp3" />  
-<embed height="100" width="100" src="img/music/蒋蒋 - 装蒜.mp3" />
-		</audio></td>
+	<td><a href="img/music/蒋蒋 - 装蒜.mp3">点击下载</a></td>
+	
 </tr>
 <tr>
 <th>《泪三年》</th>
-<td><a href="img/music/Mc阿哲 - 泪三年.mp3">点击下载</a></td><td>
-	<div class="post-preview">
-	<audio controls="controls" height="100" width="100">  <source src="img/music/Mc阿哲 - 泪三年.mp3" type="audio/mp3" />  
-<embed height="100" width="100" src="img/music/Mc阿哲 - 泪三年.mp3" />
-		</audio></td>
+<td><a href="img/music/Mc阿哲 - 泪三年.mp3">点击下载</a></td>
+	
 </tr>
 </table>
 </center>
