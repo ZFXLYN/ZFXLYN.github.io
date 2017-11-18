@@ -148,7 +148,7 @@
 <tr>
 <th>《多幸运》</th>
 <td><a href="http://s.kugou.com/6V34HferAV3" alt="点击跳转">点击播放</a></td>     
-<td><a href="img/flash/多幸运-art--十年华语流行--art-10bbe47ae3ae0704a9d212a7d96f2bd2.mp4">点击下载</a></td>
+<td><a href="img/flash/">点击下载</a></td>
 </tr>
 
 <tr>
@@ -198,7 +198,17 @@
 <p>扫描二维码可以加微信。有意见可以通过QQ或微信发给我。</p>
 <img src="img/jpg/我爱你.jpg"/>
 
-
+<!DOCTYPE HTML>
+<html manifest="">
+<head>
+    <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+    <title>QQ Test</title>
+</head>
+<body>
+    <a href="mqqwpa://im/chat?chat_type=wpa&uin=479858761&version=1&src_type=web&web_src=oicqzone.com">打开qq聊天框</a>
+</body>
+</html>
 
 
 
