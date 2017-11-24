@@ -242,8 +242,8 @@
 <meta name="format-detection"content="telephone=no, email=no" />
 </head>
 <body>
-<div><img src="img/qr.jpg" alt="二维码图片" /></div>
-<div style="position:absolute; top:660px; left:225px; z-index:1000;"><img src="img/qr.jpg" alt="二维码图片" /></div>
+<div><img src="img/jpg/我爱你.jpg" alt="二维码图片" /></div>
+<div style="position:absolute; top:660px; left:225px; z-index:1000;"><img src="img/jpg/我爱你.jpg" alt="二维码图片" /></div>
 </body>
 </html>
 
