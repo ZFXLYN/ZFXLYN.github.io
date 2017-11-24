@@ -229,12 +229,12 @@
 </center>
 <p>扫描二维码可以加微信。有意见可以通过QQ或微信发给我。</p>
 <img src="img/jpg/我爱你.jpg"/>
-<center><font size="10">未完待续</font></center>
+<center><font color="red" size="10">未完待续</font></center>
 
 
 
 
-
+<video id="media" src="http://t1.kugou.com/5gX8edbrAV3" controls width="400px" heigt="400px">video>  
 
 
 
