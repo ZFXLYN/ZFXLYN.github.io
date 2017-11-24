@@ -154,19 +154,19 @@
 <tr>
 <th>《多幸运》</th>
 <td><a href="http://m.xiguavideo.cn/group/6479004933306712589/?iid=17901884432&app=video_article&utm_source=copy_link&utm_medium=android&utm_campaign=client_share" alt="点击跳转">点击播放</a></td>     
-<td><a href="img/flash/">点击下载</a></td>
+<td><a href="img/flash/"><button>点击下载</button></a></td>
 </tr>
 
 <tr>
 <th>《一人我饮酒醉》</th>
-<td><a href="http://toutiao.com/group/6479000971534926349/?iid=16393968975&app=news_article&utm_source=copy_link&utm_medium=android&utm_campaign=client_share" alt="点击跳转">点击播放</a></td>
-<td><a href="img/flash/一人饮酒醉-art--大鹏、MC天佑--art-d3935be27c2557ebd7c882ae74b2f4d3.mp4">点击下载</a></td>
+<td><a href="http://toutiao.com/group/6479000971534926349/?iid=16393968975&app=news_article&utm_source=copy_link&utm_medium=android&utm_campaign=client_share" alt="点击跳转"><button>点击播放</button></a></td>
+<td><a href="img/flash/一人饮酒醉-art--大鹏、MC天佑--art-d3935be27c2557ebd7c882ae74b2f4d3.mp4"><button>点击下载</button></a></td>
 </tr>
 
 <tr>
 <th>《1分1秒》</th>
-<td><a href="http://t1.kugou.com/5gX8edbrAV3" alt="点击跳转">点击播放</a></td>
-<td><a href="img/flash/">点击下载</a></td>
+<td><a href="http://t1.kugou.com/5gX8edbrAV3" alt="点击跳转"><button>点击播放</button></a></td>
+<td><a href="img/flash/"><button>点击下载</button></a></td>
 </tr>
 </table>
 
@@ -192,7 +192,7 @@
 <center>
 <table border="0" >
 <tr>
-<th>My brother的网页</th>
+<th><button>My brother的网页</button></th>
 <td><a href="https://zfb132.github.io" title="点击跳转">此处进入</a></td>
 </tr>
 <tr>
@@ -205,7 +205,7 @@
     <title>QQ Test</title>
 </head>
 <body>
-    <a href="mqqwpa://im/chat?chat_type=wpa&uin=2675699284&version=1&src_type=web&web_src=oicqzone.com">联系QQ</a>
+    <a href="mqqwpa://im/chat?chat_type=wpa&uin=2675699284&version=1&src_type=web&web_src=oicqzone.com"><button>联系QQ</button></a>
 </body>
 	</html>
 
@@ -221,11 +221,12 @@
     <title>QQ Test</title>
 </head>
 <body>
-    <a href="mqqwpa://im/chat?chat_type=wpa&uin=2810913277&version=1&src_type=web&web_src=oicqzone.com">联系QQ</a>
+    <a href="mqqwpa://im/chat?chat_type=wpa&uin=2810913277&version=1&src_type=web&web_src=oicqzone.com"><button>联系QQ</button></a>
 </body>
 		</html></td>
 	</tr>
-	
+<tr>
+<th><button><a href="#">回到顶部</a></button></th>
 </table>
 </center>
 <p>扫描二维码可以加微信。有意见可以通过QQ或微信发给我。</p>
@@ -234,6 +235,5 @@
 
 
 
-<button><a href="#">回到顶部</a></button>
 
 
