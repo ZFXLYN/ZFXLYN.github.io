@@ -234,7 +234,7 @@
 
 
 
-<video id="media" src="http://t1.kugou.com/5gX8edbrAV3" controls width="400px" heigt="400px">video>  
+<video id="media" src="http://t1.kugou.com/5gX8edbrAV3" controls width="400px" heigt="400px"></video>  
 
 
 
