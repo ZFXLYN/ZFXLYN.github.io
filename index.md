@@ -34,7 +34,7 @@
 	</tr>
 	<tr>
 <th>手机root权限安装包:</th>
-	<tr></tr>
+</tr><tr>
 <th>《360超级root》</th>
 <td><a href="img/com.qihoo.permmgr_8.0.1.1_liqucn.com.apk"><button>点击下载</button></a></td>
 	</tr>
@@ -230,11 +230,25 @@
 <p>扫描二维码可以加微信。有意见可以通过QQ或微信发给我。</p>
 <img src="img/jpg/我爱你.jpg"/>
 <center><font color="red" size="10">未完待续</font></center>
+<video src="img/flash/一分一秒-art--Epik high--art-fd8ae0f59caccc41383df6c41c1f80fc.mp4" controls width="400px" heigt="400px"></video> 
 
-
-
-
-<video src="img/flash/一分一秒-art--Epik high--art-fd8ae0f59caccc41383df6c41c1f80fc.mp4" controls width="400px" heigt="400px"></video>  
+<html>
+<head>
+<metacharset="utf-8"/>
+<title>由ZFXWJY创造</title>
+<linkhref="images/style.css"rel="stylesheet"type="text/css"/>
+</head>
+<body>
+<ulid="nav">
+<li><a href="http://www.divcss5.com/">首页</a></li>
+<li><a href="http://www.divcss5.com/html/">HTML教程</a></li>
+<li><a href="http://www.divcss5.com/rumen/">CSS基础</a></li>
+<li><a href="http://www.divcss5.com/css-tool/">CSS开发工具</a></li>
+<li><a href="http://www.divcss5.com/css-texiao/">CSS特效</a></li>
+<li><a href="http://www.divcss5.com/wenji/">CSS问题</a></li>
+</ulid>
+</body>
+</html>
 
 
 
