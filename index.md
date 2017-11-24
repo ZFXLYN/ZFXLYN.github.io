@@ -234,9 +234,7 @@
 
 
 
-<video id="media" src="http://t1.kugou.com/5gX8edbrAV3" controls width="400px" heigt="400px"></video>  
+<video src="img/flash/一分一秒-art--Epik high--art-fd8ae0f59caccc41383df6c41c1f80fc.mp4" controls width="400px" heigt="400px"></video>  
 
-<div class="post-preview">
-	<audio controls="controls" height="500" width="500">  <source src="img/flash/一分一秒-art--Epik high--art-fd8ae0f59caccc41383df6c41c1f80fc.mp4" type="audio/mp4" />  <embed height="500" width="500" src="img/flash/一分一秒-art--Epik high--art-fd8ae0f59caccc41383df6c41c1f80fc.mp4" />
-</audio>
+
 
