@@ -232,12 +232,27 @@
 <img src="img/jpg/我爱你.jpg"/>
 
 
+/*-----------置顶按钮-----------*/
+.to_top_btn{
+	width:76px;
+	height:54px;
+	background:url(../img/jpg/jump.png);
+	background-position:0px 0px;
+	position:fixed;
+	bottom:95px;
+	color:white;
+	z-index:2;
+	cursor:pointer;
+	display:none;
+	_position:absolute;
+	_top:expression(eval(document.documentElement.scrollTop || document.body.scrollTop) +eval(document.documentElement.clientHeight || document.body.clientHeight)*0.7 +'px');
+	}
+.to_top_btn:hover{
+	background:url(../img/jpg/jump.png);
+	background-position:0px 54px;
+	}
 
-## 影视  
-{: .no_toc}  
-  
-* 影视  
-{:toc}  
+/*-----------置顶按钮-----------*/
   
 
 
