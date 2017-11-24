@@ -66,7 +66,7 @@
 <th>这是安卓《终端模拟器》</th>
 <td><a href="img/com.termux.apk" download="com.termux.apk">点击下载</a></td>
 	</tr>
-	<tr>
+<tr>
 <th>可以免费申请QQ靓号</th>
 <td><a href="https://ssl.zc.qq.com/v3/index-chs.html?type=0" alt="点击前往">点击前往</a></td>
 	</tr>
@@ -233,10 +233,10 @@
 
 
 
-## 目录  
+## 影视  
 {: .no_toc}  
   
-* 目录  
+* 影视  
 {:toc}  
   
 
