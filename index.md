@@ -229,9 +229,27 @@
 </center>
 <p>扫描二维码可以加微信。有意见可以通过QQ或微信发给我。</p>
 <img src="img/jpg/我爱你.jpg"/>
-
-
 <center><font size="10">未完待续</font></center>
+
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>test</title>
+<meta name="viewport" content="width=640,target-densitydpi=device-dpi,user-scalable=no" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<meta name="format-detection"content="telephone=no, email=no" />
+</head>
+<body>
+<div><img src="img/qr.jpg" alt="二维码图片" /></div>
+<div style="position:absolute; top:660px; left:225px; z-index:1000;"><img src="img/qr.jpg" alt="二维码图片" /></div>
+</body>
+</html>
+
+
+
+
 
 
 
