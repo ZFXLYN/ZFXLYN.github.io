@@ -233,11 +233,6 @@
 <video src="img/flash/一分一秒-art--Epik high--art-fd8ae0f59caccc41383df6c41c1f80fc.mp4" controls width="400px" heigt="400px"></video> 
 
 <html>
-<head>
-<metacharset="utf-8"/>
-<title>由ZFXWJY创造</title>
-<linkhref="images/style.css"rel="stylesheet"type="text/css"/>
-</head>
 <body>
 <ulid="nav">
 <li><a href="http://www.divcss5.com/">首页</a></li>
