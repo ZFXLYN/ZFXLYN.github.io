@@ -234,14 +234,12 @@
 
 <html>
 <body>
-<ulid="nav">
 <li><a href="应用">首页</a></li>
 <li><a href="http://www.divcss5.com/html/">HTML教程</a></li>
 <li><a href="http://www.divcss5.com/rumen/">CSS基础</a></li>
 <li><a href="http://www.divcss5.com/css-tool/">CSS开发工具</a></li>
 <li><a href="http://www.divcss5.com/css-texiao/">CSS特效</a></li>
 <li><a href="http://www.divcss5.com/wenji/">CSS问题</a></li>
-</ulid>
 </body>
 </html>
 
