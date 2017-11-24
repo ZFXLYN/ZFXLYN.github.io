@@ -234,7 +234,7 @@
 
 <html>
 <body>
-<a href="应用">首页</a>
+<a href="应用"alt="点击跳转">首页</a>
 <li><a href="http://www.divcss5.com/html/">HTML教程</a></li>
 <li><a href="http://www.divcss5.com/rumen/">CSS基础</a></li>
 <li><a href="http://www.divcss5.com/css-tool/">CSS开发工具</a></li>
