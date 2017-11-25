@@ -2,8 +2,8 @@
 <body bgcolor="Pink" ></body>
 <center>《有这样一个女孩》送给最美的你！</center>
 <div class="post-preview">
-<audio controls="controls" height="100" width="100">  <source src="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3" type="audio/mp3" /></audio>  
-<embed height="100" width="100" src="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3" /><hr>
+<audio controls="controls" height="100px" width="100px">  <source src="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3" type="audio/mp3" /></audio>  
+<embed height="100px" width="100px" src="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3" /><hr>
 <center>
 <table border="0" >
 <tr>
@@ -228,4 +228,4 @@
 <center><font color="red" size="10">未完待续</font></center>
 
 
-<video src="img/flash/一分一秒-art--Epik high--art-fd8ae0f59caccc41383df6c41c1f80fc.mp4" controls width="400px" heigt="400px"></video> 
+<video src="img/flash/九世轮回篇(KTV版)-art--MC冰鑫--art-293834d184605b8ae2a8f9fa191800e2.mp4" controls width="400px" heigt="400px"></video> 
