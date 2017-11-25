@@ -2,11 +2,9 @@
 <body bgcolor="Pink" ></body>
 <center>《有这样一个女孩》送给最美的你！</center>
 <div class="post-preview">
-<audio controls="controls" height="100px" width="100px">
-	<source src="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3" type="audio/mp3">
-	</audio>
+<audio controls="controls" height="100" width="100">  <source src="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3" type="audio/mp3"></audio>
 
-<center><br>
+<center>
 <table border="0" >
 <tr>
 <td><a href="#C1"><button>去应用区</button></a></td>
