@@ -2,7 +2,9 @@
 <body bgcolor="Pink" ></body>
 <center>《有这样一个女孩》送给最美的你！</center>
 <div class="post-preview">
-<audio controls="controls" height="100" width="100">  <source src="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3" type="audio/mp3"></audio>
+<audio controls="controls" height="100" width="100">  <source src="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3" type="audio/mp3"></audio>
+
+
 
 <center>
 <table border="0" >
@@ -73,7 +75,6 @@
 </tr>
 </table>
 </center>
-有谁要名片赞，请加下面的QQ号。
 
 <a name="C2"><h2>音乐</h2></a>
 <center>
