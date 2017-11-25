@@ -6,7 +6,7 @@
 	<source src="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3" type="audio/mp3">
 	</audio>
 
-<center>
+<center><br>
 <table border="0" >
 <tr>
 <td><a href="#C1"><button>去应用区</button></a></td>
