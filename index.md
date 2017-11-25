@@ -4,7 +4,6 @@
 <div class="post-preview">
 <audio controls="controls" height="100" width="100">  <source src="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3" type="audio/mp3" /></audio>  
 <embed height="100" width="100" src="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3" /><hr>
-
 <center>
 <table border="0" >
 <tr>
