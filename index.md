@@ -5,7 +5,7 @@
 	<audio controls="controls" height="100" width="100">  <source src="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3" type="audio/mp3" />  
 <embed height="100" width="100" src="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3" />
 
-<p><video src="img/flash/九世轮回篇(KTV版)-art--MC冰鑫--art-293834d184605b8ae2a8f9fa191800e2.mp4" controls width="400px" heigt="400px"></video></p>
+<video src="img/flash/九世轮回篇(KTV版)-art--MC冰鑫--art-293834d184605b8ae2a8f9fa191800e2.mp4" controls width="400px" heigt="400px"></video> 
 
 
 <center>
