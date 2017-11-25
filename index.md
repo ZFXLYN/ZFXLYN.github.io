@@ -225,13 +225,14 @@
 </table>
 </center>
 <p>扫描二维码可以加微信。有意见可以通过QQ或微信发给我。</p>
-<img src="img/jpg/我爱你.jpg"/>
+
+<a href="img/jpg/我爱你.jpg"><img src="img/jpg/我爱你.jpg"/></a>
+
 <center><font color="red" size="10">未完待续</font></center>
 
 
 <video src="img/flash/九世轮回篇(KTV版)-art--MC冰鑫--art-293834d184605b8ae2a8f9fa191800e2.mp4" controls width="400px" heigt="400px"></video> 
 
-<a href="img/jpg/我爱你.jpg"><img src="img/jpg/我爱你.jpg"/></a>
 
 
 
