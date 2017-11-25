@@ -1,12 +1,10 @@
 <h1>欢迎来ZFX 1314的网页</h1>
 <body bgcolor="Pink" ></body>
 <center>《有这样一个女孩》送给最美的你！</center>
-<p><div class="post-preview">
+<div class="post-preview">
 	<audio controls="controls" height="100" width="100">  <source src="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3" type="audio/mp3" /></audio>  
-<embed height="100" width="100" src="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3" /></div></p>
-
-
-
+<embed height="100" width="100" src="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3" />
+<hr>
 
 <center>
 <table border="0" >
