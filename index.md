@@ -2,9 +2,8 @@
 <body bgcolor="Pink" ></body>
 <center>《有这样一个女孩》送给最美的你！</center>
 <div class="post-preview">
-	<audio controls="controls" height="100" width="100">  <source src="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3" type="audio/mp3" /></audio>  
-<embed height="100" width="100" src="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3" />
-<hr>
+<audio controls="controls" height="100" width="100">  <source src="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3" type="audio/mp3" /></audio>  
+<embed height="100" width="100" src="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3" /><hr>
 
 <center>
 <table border="0" >
@@ -30,55 +29,54 @@
 <tr>
 <th>修改软件图标和名称的多功能软件。《apk编辑器》</th>
 <td><a href="img/apk_editor_pro.apk"><button>点击下载</button></a></td>
-	</tr>
-	<tr>
+</tr>
+<tr>
 <th>手机root权限安装包:</th>
 </tr><tr>
 <th>《360超级root》</th>
 <td><a href="img/com.qihoo.permmgr_8.0.1.1_liqucn.com.apk"><button>点击下载</button></a></td>
-	</tr>
-	<tr>
+</tr>
+<tr>
 <th>《king root》</th>
 <td><a href="img/KingRoot-一键权限获取，授权管理.apk"><button>点击下载</button></a></td>
-	</tr>
-	<tr>
+</tr>
+<tr>
 <th>《root工具箱》</th>
 <td><a href="img/RootEssentials_downcc.apk"><button>点击下载</button></a></td>
-	</tr>
-	<tr>
+</tr>
+<tr>
 <th>正宗装逼神器(可以修改QQ标识)《畅玩手机》</th>
 <td><a href="img/1788510.apk"><button>点击下载</button></a></td>
-	</tr>
-	<tr>
+</tr>
+<tr>
 <th>可以修改单机游戏数据的软件(需root)《re文件管理器》</th>
 <td><a href="img/RE管理器 rootexplorer.apk"><button>点击下载</button></a></td>
-	</tr>
-	<tr>
+</tr>
+<tr>
 <th>《修改QQ运动步数》</th>
 <td><a href="img/3f09c387bd23b1f609136ca0a5271862-152055-o_1bpiltb391fs0soe1fco4hn1s7sq-uid-1065.apk"><button>点击下载</button></a></td>
-	</tr>
-	<tr>
+</tr>
+<tr>
 <th>手机锁屏密码锁《极简炫酷密码锁》</th>
 <td><a href="img/com.tpad.change.unlock.ji1jian1xuan4ku4op.apk"><button>点击下载</button></a></td>
-	</tr>
-	<tr>
+</tr>
+<tr>
 <th>这是安卓《终端模拟器》</th>
 <td><a href="img/com.termux.apk" download="com.termux.apk"><button>点击下载</button></a></td>
-	</tr>
-
-	<tr>
+</tr>
+<tr>
 <th>可以让模糊不清的图片变清</th>
 <td><a href="http://bigjpg.com/" alt="图片变清"><button>点击进入</button></a></td>
-	</tr>
-	<tr>
+</tr>
+<tr>
 <th>上传图片给出评论</th>
 <td><a href="http://kan.msxiaobing.com/imagegame/portal?task=beauty&phase=2&key=UnPbcPI0EjQTcygzmTAANFIzWTdwNBN2UDMuMRwwQnQnAA&feid=71e035c0b9344dd5a63aff0051d2a1d4&ftid=cab4f198325da7449f810aa43399551c" alt="可以对图片评论"><button>点击进入</button></a></td>
-	</tr>
+</tr>
 </table>
 </center>
-<p>有谁要名片赞，请加下面的QQ号。</p>
+有谁要名片赞，请加下面的QQ号。
 
-<a name="C2"><h2>音乐</h2></a><br>
+<a name="C2"><h2>音乐</h2></a>
 <center>
 <table border="0" >
 <tr>
