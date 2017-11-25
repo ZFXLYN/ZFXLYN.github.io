@@ -222,8 +222,8 @@
 </body>
 		</html></td>
 	</tr>
-<tr>
-<th><button><a href="#">回到顶部</a></button></th>
+<tr><th>回到顶部</th>
+<td><button><a href="#">回到顶部</a></button></td>
 </tr>
 </table>
 </center>
@@ -232,16 +232,11 @@
 <center><font color="red" size="10">未完待续</font></center>
 <video src="img/flash/一分一秒-art--Epik high--art-fd8ae0f59caccc41383df6c41c1f80fc.mp4" controls width="400px" heigt="400px"></video> 
 
-<html>
-<body>
-<script src="应用1.htm">所以</script>
-<li><a href="http://www.divcss5.com/html/">HTML教程</a></li>
-<li><a href="http://www.divcss5.com/rumen/">CSS基础</a></li>
-<li><a href="http://www.divcss5.com/css-tool/">CSS开发工具</a></li>
-<li><a href="http://www.divcss5.com/css-texiao/">CSS特效</a></li>
-<li><a href="http://www.divcss5.com/wenji/">CSS问题</a></li>
-</body>
-</html>
+
+
+
+
+
 
 
 
