@@ -1,8 +1,8 @@
 <h1>欢迎来ZFX 1314的网页</h1>
 <body bgcolor="Pink" ></body>
-<center>《MC七星 - 悟空之心.mp3》送给最美的你！</center>
+<center>《上官承诺、蛋总 - 我们爱过吗只是睡过吧.mp3》送给最美的你！</center>
 <div class="post-preview">
-<audio controls="controls" height="100" width="100">  <source src="img/music/MC七星 - 悟空之心 [mqms].mp3" type="audio/mp3"></audio>
+<audio controls="controls" height="100" width="100">  <source src="img/music/上官承诺、蛋总 - 我们爱过吗只是睡过吧.mp3" type="audio/mp3"></audio>
 
 
 
