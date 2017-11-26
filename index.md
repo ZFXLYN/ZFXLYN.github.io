@@ -1,8 +1,8 @@
 <h1>欢迎来ZFX 1314的网页</h1>
 <body bgcolor="Pink" ></body>
-<center>《*** - 你潮喷吗.MP3》送给最美的你！</center>
+<center>《MC七星 - 悟空之心.mp3》送给最美的你！</center>
 <div class="post-preview">
-<audio controls="controls" height="100" width="100">  <source src="img/music/马天乐 - 你潮喷吗.MP3" type="audio/mp3"></audio>
+<audio controls="controls" height="100" width="100">  <source src="img/music/MC七星 - 悟空之心 [mqms].mp3" type="audio/mp3"></audio>
 
 
 
@@ -231,7 +231,7 @@
 <center><font color="red" size="10">未完待续</font></center>
 
 
-<video src="img/flash/多幸运-art--十年华语流行--art-10bbe47ae3ae0704a9d212a7d96f2bd2.mp4" controls width="300px" heigt="400px"></video> 
+<video src="img/flash/多幸运-art--十年华语流行--art-10bbe47ae3ae0704a9d212a7d96f2bd2.mp4" controls width="500px" heigt="400px"></video> 
 
 
 
