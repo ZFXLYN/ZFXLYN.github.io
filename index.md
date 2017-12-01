@@ -233,7 +233,7 @@
 
 <video src="img/flash/多幸运-art--十年华语流行--art-10bbe47ae3ae0704a9d212a7d96f2bd2.mp4" controls width="500px" heigt="400px"></video> 
 
-
+<CITE>123<CITE/>
 
 
 
