@@ -1,5 +1,6 @@
 <h1>欢迎来ZFX 1314的网页</h1>
-/* <body bgcolor="Pink" ></body> */
+<body background="img/jpg/1498962698894.gif" body
+bgproperties=fixed>
 <center>《上官承诺、蛋总 - 我们爱过吗只是睡过吧.mp3》送给最美的你！</center>
 <div class="post-preview">
 <audio controls="controls" height="100" width="100">  <source src="img/music/上官承诺、蛋总 - 我们爱过吗只是睡过吧.mp3" type="audio/mp3"></audio>
@@ -233,7 +234,7 @@
 
 <video src="img/flash/多幸运-art--十年华语流行--art-10bbe47ae3ae0704a9d212a7d96f2bd2.mp4" controls width="500px" heigt="400px"></video> 
 
-<Body Background="img/jpg/1498962698894.gif" Bgproperties="fixed"</Body>
+
 
 
 
