@@ -244,7 +244,7 @@
 <video src="img/flash/多幸运-art--十年华语流行--art-10bbe47ae3ae0704a9d212a7d96f2bd2.mp4" controls width="500px" heigt="400px"></video> 
 
 
-<!doctype html>  
+  
 <html>  
 <body>  
     <canvas id="can" width="400" height="400" style="background: Black"></canvas>  
