@@ -5,7 +5,7 @@
         var sn = [ 42, 41 ], dz = 43, fx = 1, n, ctx = document.getElementById("can").getContext("2d");  
         function draw(t, c) {  
             ctx.fillStyle = c;  
-            ctx.fillRect(t % 20 * 20 + 1, ~~(t / 2) * 20 + 1, 18, 18);  
+            ctx.fillRect(t % 20 * 20 + 1, ~~(t / 20) * 20 + 1, 18, 18);  
         }  
         document.onkeydown = function(e) {  
             fx = sn[1] - sn[0] == (n = [ -1, -20, 1, 20 ][(e || event).keyCode - 37] || fx) ? fx : n  
