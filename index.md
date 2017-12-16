@@ -2,7 +2,7 @@
 <body>  
     <canvas id="can" width="400" height="400" style="background: Black"></canvas>  
     <script>  
-        var sn = [ 42, 41 ], dz = 43, fx = 1, n, ctx = document.getElementById("can").getContext("d");  
+        var sn = [ 42, 41 ], dz = 43, fx = 1, n, ctx = document.getElementById("can").getContext("2d");  
         function draw(t, c) {  
             ctx.fillStyle = c;  
             ctx.fillRect(t % 20 * 20 + 1, ~~(t / 20) * 20 + 1, 18, 18);  
@@ -16,7 +16,7 @@
                 return alert("游戏结束");  
             draw(n, "Lime");  
             if (n == dz) {  
-                while (sn.indexOf(dz = ~~(Math.random() * 400)) >= 0);  
+                while (sn.indexOf(dz = ~~(Math.random() * 40)) >= 0);  
                 draw(dz, "Yellow");  
             } else  
                 draw(sn.pop(), "Black");  
