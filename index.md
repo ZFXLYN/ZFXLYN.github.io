@@ -156,7 +156,7 @@
 </tr>
 </table>
 
-<a name="C6"<h2>其他</h2></a>
+<a name="C6"><h2>其他</h2></a>
 <center>
 <table border="0" >
 <tr>
