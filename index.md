@@ -1,6 +1,6 @@
 <h1>欢迎来ZFX 1314的网页</h1>
 
-<body bgcolor="Pink">
+<body bgcolor="Pink"></body>
 <center>《上官承诺、蛋总 - 我们爱过吗只是睡过吧.mp3》送给最美的你！</center>
 <div class="post-preview">
 <audio controls="controls" height="100" width="100">  <source src="img/music/上官承诺、蛋总 - 我们爱过吗只是睡过吧.mp3" type="audio/mp3"></audio>
@@ -47,7 +47,7 @@
 
 <tr>
 <th>《king root》</th>
-<td><a href="img/KingRoot-一键权限获取，授权管理.apk">>点击下载</a></td>
+<td><a href="img/KingRoot-一键权限获取，授权管理.apk">点击下载</a></td>
 </tr>
 
 <tr>
