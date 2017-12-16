@@ -17,6 +17,7 @@
 <tr>
 <td><a href="#C4"><button>需要帮助</button></a></td>
 <td><a href="#C5"><button>意见反馈</button></a></td>
+<td><a href="#C6"><button>其他<button></a></td>
 </tr>
 </table>
 </center>  
@@ -34,7 +35,9 @@
 </tr>
 <tr>
 <th>手机root权限安装包:</th>
-</tr><tr>
+	<td></td>
+</tr>
+<tr>
 <th>《360超级root》</th>
 <td><a href="img/com.qihoo.permmgr_8.0.1.1_liqucn.com.apk"><button>点击下载</button></a></td>
 </tr>
@@ -100,7 +103,7 @@
 </tr>
 <tr>
 <th>《装蒜》</th>
-	<td><a href="img/music/蒋蒋 - 装蒜.mp3"><button>点击下载</button></a></td>
+<td><a href="img/music/蒋蒋 - 装蒜.mp3"><button>点击下载</button></a></td>
 	
 </tr>
 <tr>
@@ -160,6 +163,7 @@
 </table>
 
 <a name="C6"<h2>其他</h2></a>
+<center>
 <table border="0" >
 <tr>
 <th>可以让模糊不清的图片变清</th>
@@ -178,7 +182,7 @@
 <td><a href="#C5"><button>要视频啦</button></a></td>
 </tr>
 </table>
-
+</center>
 
 
 
