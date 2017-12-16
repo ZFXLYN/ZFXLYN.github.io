@@ -13,7 +13,7 @@
         !function() {  
             sn.unshift(n = sn[0] + fx);  
             if (sn.indexOf(n, 1) > 0 || n<0||n>399 || fx == 1 && n % 20 == 0 || fx == -1 && n % 20 == 19)  
-                return alert("GAME OVER");  
+                return alert("游戏结束");  
             draw(n, "Lime");  
             if (n == dz) {  
                 while (sn.indexOf(dz = ~~(Math.random() * 400)) >= 0);  
