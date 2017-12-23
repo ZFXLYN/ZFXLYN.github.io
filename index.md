@@ -227,6 +227,10 @@
 <th>腾讯视频，爱奇艺...破解啦要VIP的视频我这里不要啦找客服要！！！</th>
 <td><a href="#C5">要视频啦</a></td>
 </tr>
+<tr>
+	<th>中国象棋</th>
+	<td><a href="http://www.html5tricks.com/demo/jiaoben1765/index.html" alt="中国象棋">现在去玩</a></td>
+	</tr>
 </table>
 </center>
 
