@@ -157,7 +157,7 @@
 <th>《泪三年》</th>
 <td><a href="img/music/Mc阿哲 - 泪三年.mp3">点击下载</a></td>
 	<td><div class="post-preview">
-<audio controls="controls" height="100" width="100">  <source src="img/music/"Mc阿哲 - 泪三年.mp3 type="audio/mp3"></audio><td>
+<audio controls="controls" height="100" width="100">  <source src="img/music/"Mc阿哲 - 泪三年.mp3 type="audio/mp3"></audio></td>
 </tr>
 </table>
 </center>
