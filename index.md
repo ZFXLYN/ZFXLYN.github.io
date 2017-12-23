@@ -116,7 +116,7 @@
 
 <a name="C2"><h2>音乐</h2></a>
 <center>
-<table border="0" >
+<table border="3" >
 <tr>
 <th>《有这样一个女孩》</th>
 <td><a href="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3">点击下载</a></td>
