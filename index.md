@@ -38,7 +38,7 @@
 
 
 <center>
-<table border="0" >
+<table border="3" >
 <tr>
 <th><a href="#C1">去应用区</a></th>
 <th><a href="#C2">去音乐区</a></th>
@@ -54,7 +54,7 @@
 
 <a name="C1"><h2>应用</h2></a>
 <center>
-<table border="0" >
+<table border="3" >
 <tr>
 <th>查看正在连接的WIFI密码神器。《WIFI二维码》</th>
 <td><a href="img/com.eoe.wifishare.apk">点击下载</a></td>
@@ -115,6 +115,8 @@
 </center>
 
 <a name="C2"><h2>音乐</h2></a>
+<html>
+	<body>
 <center>
 <table border="3" >
 <tr>
@@ -169,12 +171,14 @@
 <audio controls="controls" height="100" width="100">  <source src="img/music/Mc阿哲 - 泪三年.mp3" type="audio/mp3"></audio></td>
 </tr>
 </table>
+</body>
+</html>
 </center>
 
 
 
 <a name="C3"><h2>影视</h2></a>
-<table border="0" >
+<table border="3" >
 <tr>
 <th>《九世轮回篇》</th>
 <td><a href="http://toutiao.com/group/6472225886547477005/?iid=16393968975&app=news_article&utm_source=copy_link&utm_medium=android&utm_campaign=client_share" alt="点击跳转">点击播放</a></td>
@@ -246,7 +250,7 @@
 
 <a name="C5"><h2>反馈</h2></a>
 <center>
-<table border="0" >
+<table border="3" >
 <tr>
 <th>My brother的网页</th>
 <td><a href="https://zfb132.github.io" title="点击跳转">此处进入</a></td>
