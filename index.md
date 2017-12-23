@@ -117,7 +117,7 @@
 <a name="C2"><h2>音乐</h2></a>
 <html>
 	<body>
-<center>
+
 <table border="3" >
 <tr>
 <th>《有这样一个女孩》</th>
@@ -173,7 +173,7 @@
 </table>
 </body>
 </html>
-</center>
+
 
 
 
