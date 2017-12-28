@@ -1,4 +1,5 @@
-<html>  
+<!--
+<html>  
 <body>  
     <canvas id="can" width="400" height="400" style="background: Black"></canvas>  
     <script>  
@@ -24,8 +25,8 @@
         }();  
     </script>  
 </body>  
-</html>  
-
+</html>  
+-->
 
 
 <h1>欢迎来ZFX 1314的网页</h1>
