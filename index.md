@@ -168,6 +168,32 @@
 <td><div class="post-preview">
 <audio controls="controls" height="100" width="100">  <source src="img/music/Mc阿哲 - 泪三年.mp3" type="audio/mp3"></audio></div></td>
 </tr>
+
+<tr>
+<th>《你潮喷吗？》</th>
+<td><a href="img/music/马天乐 - 你潮喷吗.MP3">点击下载</a></td>
+<td><div class="post-preview">
+<audio controls="controls" height="100" width="100">  <source src="img/music/马天乐 - 你潮喷吗.MP3" type="audio/mp3"></audio></div></td>
+</tr>
+
+<tr>
+<th>《你是我的妞》</th>
+<td><a href="img/music/老猫 - 你是我的妞.mp3">点击下载</a></td>
+<td><div class="post-preview">
+<audio controls="controls" height="100" width="100">  <source src="img/music/老猫 - 你是我的妞.mp3" type="audio/mp3"></audio></div></td>
+</tr>
+
+<tr>
+<th>《一个人》</th>
+<td><a href="img/music/吴靖怡 - 一个人.MP3">点击下载</a></td>
+<td><div class="post-preview">
+<audio controls="controls" height="100" width="100">  <source src="img/music/吴靖怡 - 一个人.MP3" type="audio/mp3"></audio></div></td></tr>
+
+<tr>
+<th>《悟空之心》</th>
+<td><a href="img/music/MC七星 - 悟空之心 [mqms].mp3">点击下载</a></td>
+<td><div class="post-preview">
+<audio controls="controls" height="100" width="100">  <source src="img/music/MC七星 - 悟空之心 [mqms].mp3" type="audio/mp3"></audio></div></td></tr>
 </table>
 
 
