@@ -320,7 +320,7 @@
 <p>扫描二维码可以加微信。有意见可以通过QQ或微信发给我。</p>
 <a href="img/jpg/我爱你.jpg"><img src="img/jpg/我爱你.jpg"/></a>
 <center><font color="red" size="10">未完待续</font></center>
-<video src="img/flash/多幸运-art--十年华语流行--art-10bbe47ae3ae0704a9d212a7d96f2bd2.mp4" controls width="350px" heigt="130px"></video> 
+<video src="img/flash/多幸运-art--十年华语流行--art-10bbe47ae3ae0704a9d212a7d96f2bd2.mp4" controls width="320px" heigt="130px"></video> 
 
 
 
