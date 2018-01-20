@@ -264,7 +264,7 @@
 
 
 <a name="C4"><h2>帮助</h2></a>
-<font color="red">此网页暂支持QQ，百度浏览器，下载。不支持电脑下载！</font><br>
+<font color="red">此网页暂支持QQ，百度浏览器等，暂不支持部分浏览器下载。支持电脑下载！</font><br>
 大家好，在网页的个人介绍中，我已经声明<ins>我是新手</ins>
 所以有时这个网页中的软件下载比较麻烦，sorry！如果出现问题，你还想下载其中的软件，
 需要先按“点击下载”，然后会进入如下图所示的画面，再点击红色圆圈中的两个
@@ -322,42 +322,7 @@
 <center><font color="red" size="10">未完待续</font></center>
 <video src="img/flash/多幸运-art--十年华语流行--art-10bbe47ae3ae0704a9d212a7d96f2bd2.mp4" controls width="500px" heigt="400px"></video> 
 
-<html>
-	<head>
-		<title>floaticon</title>
-		<script language="javascript">
-			
-			var x=0;
-			var y=0;
-			var dx=5;
-			var dy=5;
-			
-			function float()
-			{
-				x+=dx;
-				y+=dy;
-				
-				floaticon.style.left = x;
-				floaticon.style.top = y;
-				if(x<=0 || x>=document.body.clientWidth-floaticon.offsetWidth)
-					dx=-dx;
-				if(y<=0 || y>=document.body.clientHeight-floaticon.offsetHeight)
-					dy=-dy;
-				
-				setTimeout("float()",50);
-			}
-			
-			//setInterval("float()",50);
-			setTimeout("float()",50);
-		</script>
-	</head>
-<body>
-	
-	<div id="floaticon" style="position:absolute">
-		<a href="tomcat.gif" target="_blank"><img src="tomcat.gif" border=0></a>
-	</div>
-	
-</body>
-</html>
+
+
   
 
