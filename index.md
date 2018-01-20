@@ -252,7 +252,7 @@
 </tr>
 <tr>
 <th>腾讯视频，爱奇艺...破解啦要VIP的视频我这里不要啦找客服要！！！</th>
-<td><a href="#C5">要视频啦</a></td>
+<td><a href="http://www.5ifxw.com/vip/" alt="看免费视频">破解视频</a></td>
 </tr>
 <tr>
 	<th>中国象棋</th>
