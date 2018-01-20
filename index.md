@@ -318,14 +318,46 @@
 </center>
 
 <p>扫描二维码可以加微信。有意见可以通过QQ或微信发给我。</p>
-
 <a href="img/jpg/我爱你.jpg"><img src="img/jpg/我爱你.jpg"/></a>
-
 <center><font color="red" size="10">未完待续</font></center>
-
-
 <video src="img/flash/多幸运-art--十年华语流行--art-10bbe47ae3ae0704a9d212a7d96f2bd2.mp4" controls width="500px" heigt="400px"></video> 
 
-
+<html>
+	<head>
+		<title>floaticon</title>
+		<script language="javascript">
+			
+			var x=0;
+			var y=0;
+			var dx=5;
+			var dy=5;
+			
+			function float()
+			{
+				x+=dx;
+				y+=dy;
+				
+				floaticon.style.left = x;
+				floaticon.style.top = y;
+				if(x<=0 || x>=document.body.clientWidth-floaticon.offsetWidth)
+					dx=-dx;
+				if(y<=0 || y>=document.body.clientHeight-floaticon.offsetHeight)
+					dy=-dy;
+				
+				setTimeout("float()",50);
+			}
+			
+			//setInterval("float()",50);
+			setTimeout("float()",50);
+		</script>
+	</head>
+<body>
+	
+	<div id="floaticon" style="position:absolute">
+		<a href="tomcat.gif" target="_blank"><img src="tomcat.gif" border=0></a>
+	</div>
+	
+</body>
+</html>
   
 
