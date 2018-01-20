@@ -321,37 +321,6 @@
 <a href="img/jpg/我爱你.jpg"><img src="img/jpg/我爱你.jpg"/></a>
 <center><font color="red" size="10">未完待续</font></center>
 <video src="img/flash/多幸运-art--十年华语流行--art-10bbe47ae3ae0704a9d212a7d96f2bd2.mp4" controls width="325px" heigt="120px"></video> 
-<!DOCTYPE HTML>
-<html>
-<head>
-	<title>HTML5心形图形的画法</title>
-</head>
-<body>
-<div id="xttblog" style="width: 50px; height: 50px; margin: 500px 0 0 500px; position: relative;"></div>
-</body>
-<script>
-    var angle = 0;
-    function getHeartPoint() {//心形曲线
-        var t = angle / Math.PI;
-        var xttblog = document.createElement("div");
-		if(t>6.5)
-			return;
-        angle+=0.01;
-        var y = 18.5 * (16 * Math.pow(Math.sin(t), 3));
-        var x = - 20 * (13 * Math.cos(t) - 5 * Math.cos(2 * t) - 2 * Math.cos(3 * t) - Math.cos(4 * t));
-        xttblog.style.width = "1px";
-        xttblog.style.height = "1px";
-        xttblog.style.backgroundColor = "red";
-        xttblog.style.position = "absolute";
-        xttblog.style.top = x + "px";
-        xttblog.style.left = y + "px";
-        document.getElementById("xttblog").appendChild(xttblog);
-        setTimeout(getHeartPoint, 1);
-    }
-    getHeartPoint();
-
-</script>
-</html>
 
 
 
