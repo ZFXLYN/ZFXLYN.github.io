@@ -322,7 +322,29 @@
 <center><font color="red" size="10">未完待续</font></center>
 <video src="img/flash/多幸运-art--十年华语流行--art-10bbe47ae3ae0704a9d212a7d96f2bd2.mp4" controls width="325px" heigt="120px"></video> 
 
-
+ <!-- 浮动广告代码开始 -->
+<div id="ShowAD" style="position:absolute; z-index: 100;">
+    <div style="width:150px;height:18px;font-size:14px;font-weight:bold;text-align:center;CURSOR: hand;" onClick="closead();"><font
+            color=ff0000>关闭</font></div>
+    <a href="http://loveyue1.sinaapp.com/love/index.html" target='_blank' title="title" onClick="closead();">
+        <img border="0" alt="alt" src="http://loveyue1.sinaapp.com/love/bg.png" style="width: 150px;height: 203px"/></a>
+</div>
+<script>
+    var bodyfrm = ( document.compatMode.toLowerCase()=="css1compat" ) ? document.documentElement : document.body;
+    var adst = document.getElementById("ShowAD").style;
+    adst.top = ( bodyfrm.clientHeight -530-22 ) + "px";
+    adst.left =  "15px";
+    function moveR() {
+        adst.top = ( bodyfrm.scrollTop + bodyfrm.clientHeight - 530-22) + "px";
+        adst.left ="15px";
+    }
+    setInterval("moveR();", 400);
+    function closead()
+    {
+        adst.display='none';
+    }
+</script>
+<!-- 浮动广告代码结束 -->
 
   
 
