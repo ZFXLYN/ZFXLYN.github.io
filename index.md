@@ -323,6 +323,40 @@
 <video src="img/flash/多幸运-art--十年华语流行--art-10bbe47ae3ae0704a9d212a7d96f2bd2.mp4" controls width="500px" heigt="400px"></video> 
 
 
-
+<html>  
+  
+<head>  
+<meta http-equiv="content-type" content="text/html;charset=gbk"/>  
+<title>层的移动</title>  
+<style type="text/css">  
+#ad{width:120px;height:120px;background:url(images/default.gif);position:relative;}  
+</style>  
+<script type="text/javascript">  
+      
+    var obj = null;  
+      
+      
+    function init(){  
+        obj = document.getElementById("ad");  
+        obj.style.left="10px";//设置初始位置  
+        obj.style.top="10px";  
+        alert(obj.style.posLeft);//获得方式一  
+        alert(parseInt(obj.style.left));//获得方式二  
+    }  
+      
+    function move(){  
+          
+    }  
+  
+</script>  
+  
+</head>  
+<body onload="init()" >  
+  
+<div id="ad"  >  
+      
+</div>  
+</body>  
+</html>  
   
 
