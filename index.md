@@ -328,4 +328,52 @@
 
 
   
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
+<title></title>
+<style type="text/css">
+div{
+position:absolute;
+}
+</style>
+</head>
+<body>
+<div id="floatdiv">
+<img src="1.jpg" height="100px" width="200px">
+</div>
+</body>
+</html>
+<script language="javascript" type="text/javascript">
+/*
+利用window对象，实现浮动效果
 
+ 1、有一个div，就是我们要控制的，它的起始点坐标（0,0）
+ 2、设定横向和纵向的速度
+ 3、控制div移动
+  1）div是否到达边界，设置图片速度反向移动
+*/
+//获取图片所在的div对象
+
+var img=document.getElementById("floatdiv");
+//设置div起始点坐标
+var x=0,y=0;
+//设置div行进速度
+var xSpeed=2,ySpeed=1;
+//设置图片移动
+var w=document.body.clientWidth-200,h=document.body.clientHeight-100;
+function floatdiv(){
+ //比较图片是否到达边界，如查到达边界 改变方向;如未到达边界
+ if(x>w||x<0) xSpeed= -xSpeed;
+ if(y>h||y<0) ySpeed= -ySpeed;
+
+ x+=xSpeed;
+ y+=ySpeed;
+
+ //设置坐标值，起始坐标+速度
+ img.style.top=y+"px";
+ img.style.left=x+"px";
+setTimeout("floatdiv()",10);
+}
+floatdiv();
+</script>
