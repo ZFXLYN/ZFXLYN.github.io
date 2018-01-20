@@ -322,7 +322,60 @@
 <center><font color="red" size="10">未完待续</font></center>
 <video src="img/flash/多幸运-art--十年华语流行--art-10bbe47ae3ae0704a9d212a7d96f2bd2.mp4" controls width="500px" heigt="400px"></video> 
 
-
+<!doctype html>  
+<html lang="en">  
+<head>  
+    <meta charset="UTF-8">  
+    <title></title>  
+</head>  
+<body>  
+    <style type="text/css">  
+        #demo {  
+            width: 100px;  
+            height: 100px;  
+            position:absolute;  
+            border-radius:50px;  
+        }  
+    </style>  
+   
+    <script type="text/javascript">  
+        window.onload = function(){  
+            var demo = document.getElementById('demo');  
+            var sx = sy = 10;  
+            var x = y = 0;  
+   
+            function move(){  
+                if(document.documentElement.clientWidth - demo.offsetWidth-10 < x || x < 0){  
+                    sx = -sx;  
+                }  
+   
+                if(document.documentElement.clientHeight - demo.offsetHeight-10 < y || y < 0){  
+                    sy = -sy;  
+                }  
+   
+                x = demo.offsetLeft + sx;  
+                y = demo.offsetTop + sy;  
+   
+                demo.style.left = x + 'px';  
+                demo.style.top = y + 'px';  
+            }  
+   
+            var timer = setInterval(move, 100);  
+   
+            demo.onmouseover = function(){  
+                clearInterval(timer);  
+            }  
+   
+            demo.onmouseout = function(){  
+                timer = setInterval(move, 100);  
+            }  
+        }  
+    </script>  
+   
+    <img src="http://d.hiphotos.baidu.com/image/w%3D2048/sign=48fd3c26f01fbe091c5ec4145f580d33/64380cd7912397dd92729b545b82b2b7d0a28752.jpg" id="demo" />  
+      
+</body>  
+</html>  
 
   
 
