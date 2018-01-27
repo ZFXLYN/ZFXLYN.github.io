@@ -31,8 +31,7 @@
 
 <h1>欢迎来ZFX 1314的网页</h1>
 <body bgcolor="pink"></body>
-<body style="background-attachment:fixed";background="img/jpg/123.jpg">
-</body
+<body background="img/jpg/123.jpg">
 
 
 
