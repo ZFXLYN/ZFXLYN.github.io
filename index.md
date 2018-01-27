@@ -30,7 +30,7 @@
 
 
 <h1>欢迎来ZFX 1314的网页</h1>
-<body bgcolor="pink"></body>
+<1--<body bgcolor="pink"></body>-->
 <body background="img/jpg/f603918fa0ec08fae4b7561f52ee3d6d54fbdad7.jpg">
 
 
