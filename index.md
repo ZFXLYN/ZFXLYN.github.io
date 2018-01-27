@@ -30,8 +30,8 @@
 
 
 <h1>欢迎来ZFX 1314的网页</h1>
-
-<body bgcolor="orange"></body>
+<body bgcolor="red"></body>
+<body background="img/jpg/u=4264762168,1861262000&fm=27&gp=0.jpg"body bgproperties=fixed>
 
 <center>《上官承诺、蛋总 - 我们爱过吗只是睡过吧.mp3》<marquee>送给最美的你！</marquee></center>
 <div class="post-preview">
