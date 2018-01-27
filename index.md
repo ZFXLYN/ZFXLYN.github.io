@@ -30,7 +30,9 @@
 
 
 <h1>欢迎来ZFX 1314的网页</h1>
-<!--<body bgcolor="pink"></body>-->
+<!--
+<body bgcolor="pink"></body>
+-->
 <body background="img/jpg/f603918fa0ec08fae4b7561f52ee3d6d54fbdad7.jpg">
 
 
@@ -39,7 +41,7 @@
 
 
 
-<center>《上官承诺、蛋总 - 我们爱过吗只是睡过吧.mp3》<marquee><font color="pink" size="10">送给最美的你！</font></marquee></center>
+<center>《上官承诺、蛋总 - 我们爱过吗只是睡过吧.mp3》<marquee><font color="pink">送给最美的你！</font></marquee></center>
 <div class="post-preview">
 <audio controls="controls" height="100" width="100">  <source src="img/music/上官承诺、蛋总 - 我们爱过吗只是睡过吧.mp3" type="audio/mp3"></audio>
 
