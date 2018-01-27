@@ -31,7 +31,7 @@
 
 <h1>欢迎来ZFX 1314的网页</h1>
 
-<body bgcolor="sky blue"></body>
+<body bgcolor="black"></body>
 
 <center>《上官承诺、蛋总 - 我们爱过吗只是睡过吧.mp3》<marquee>送给最美的你！</marquee></center>
 <div class="post-preview">
