@@ -29,20 +29,10 @@
 -->
 
 
-<h1>欢迎来ZFX 1314的网页</h1>
+<h1><BLINK>欢迎来ZFX 1314的网页</BLINK></h1>
 <body bgcolor="pink"></body>
 
-	<style type="text/css">
-body {
-scrollbar-face-color: #330033;
-scrollbar-shadow-color: #FFFFFF;
-scrollbar-highlight-color: #FFFFFF;
-scrollbar-3dlight-color: #FFFFFF;
-scrollbar-darkshadow-color: #FFFFFF;
-scrollbar-track-color: #330033;
-scrollbar-arrow-color: #FFFFFF;
-}
-</style>
+
 
 	
 	
