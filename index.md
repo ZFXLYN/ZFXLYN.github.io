@@ -31,7 +31,38 @@
 
 <h1>欢迎来ZFX 1314的网页</h1>
 <body bgcolor="pink"></body>
-<img alt="1" height="150"src="img/ipg/jump.png"/>
+<HTML>
+<HEAD>
+<TITLE>默林</TITLE>
+<META. http-equiv=Content-Type c>
+</HEAD>
+<BODY>
+
+<SCRIPT>
+var MerlinID;
+var MerlinACS;
+sims.Connected = true;
+MerlinLoaded = LoadLocalAgent(MerlinID, MerlinACS);
+Merlin = sims.Characters.Character(MerlinID);
+Merlin.Show();
+Merlin.Play("Surprised");
+Merlin.Speak("大家好");
+Merlin.Play("GestureLeft");
+Merlin.Think("我是默林");
+Merlin.Play("leased");
+Merlin.Think("可爱吗");
+Merlin.Play("GestureDown");
+Merlin.Speak("哈哈");
+Merlin.Hide();
+function LoadLocalAgent(CharID, CharACS){
+LoadReq = sims.Characters.Load(CharID, CharACS);
+return(true);
+}
+</SCRIPT>
+
+</BODY>
+</HTML>
+
 
 
 	
