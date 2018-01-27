@@ -31,44 +31,14 @@
 
 <h1>欢迎来ZFX 1314的网页</h1>
 <body bgcolor="pink"></body>
-<HTML>
-<HEAD>
-<TITLE>默林</TITLE>
-<META. http-equiv=Content-Type c>
-</HEAD>
-<BODY>
-
-<SCRIPT>
-var MerlinID;
-var MerlinACS;
-sims.Connected = true;
-MerlinLoaded = LoadLocalAgent(MerlinID, MerlinACS);
-Merlin = sims.Characters.Character(MerlinID);
-Merlin.Show();
-Merlin.Play("Surprised");
-Merlin.Speak("大家好");
-Merlin.Play("GestureLeft");
-Merlin.Think("我是默林");
-Merlin.Play("leased");
-Merlin.Think("可爱吗");
-Merlin.Play("GestureDown");
-Merlin.Speak("哈哈");
-Merlin.Hide();
-function LoadLocalAgent(CharID, CharACS){
-LoadReq = sims.Characters.Load(CharID, CharACS);
-return(true);
-}
-</SCRIPT>
-
-</BODY>
-</HTML>
+<body style="background-attachment:fixed";background="img/jpg/u=4264762168,1861262000&fm=27&gp=0.jpg"> 
+</body
 
 
 
-	
-	
-	
-	
+
+
+
 
 <center>《上官承诺、蛋总 - 我们爱过吗只是睡过吧.mp3》<marquee>送给最美的你！</marquee></center>
 <div class="post-preview">
