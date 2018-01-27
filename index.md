@@ -29,9 +29,9 @@
 -->
 
 
-<h1><BLINK>欢迎来ZFX 1314的网页</BLINK></h1>
+<h1>欢迎来ZFX 1314的网页</h1>
 <body bgcolor="pink"></body>
-
+<img alt="1" height="150"src="img/ipg/jump.png"/>
 
 
 	
