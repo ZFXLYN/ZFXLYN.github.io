@@ -256,8 +256,8 @@
 <td><a href="http://kan.msxiaobing.com/imagegame/portal?task=beauty&phase=2&key=UnPbcPI0EjQTcygzmTAANFIzWTdwNBN2UDMuMRwwQnQnAA&feid=71e035c0b9344dd5a63aff0051d2a1d4&ftid=cab4f198325da7449f810aa43399551c" alt="可以对图片评论">点击进入</a></td>
 </tr>	
 <tr>
-<th>要QQ名片赞的联系客服</th>
-<td><a href="#C5">要赞要赞</a></td>
+<th>要QQ名片赞的点击后面的刷取业务</th>
+<td><a href="http://ZFX.556DS.CN" alt="点击跳转">刷取业务</a></td>
 </tr>
 <tr>
 <th>腾讯视频，爱奇艺...破解啦要VIP的视频我这里不要啦找客服要！！！</th>
