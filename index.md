@@ -69,6 +69,10 @@
 <th>查看正在连接的WIFI密码神器。《WIFI二维码》</th>
 <td><a href="img/com.eoe.wifishare.apk">点击下载</a></td>
 </tr>
+<tr>
+<th>QQ刷赞神奇（免费）</th>
+<td><a href="img/名片点点_1.4.6.apk">点击下载</a></td>
+</tr>
 	
 <tr>
 <th>修改软件图标和名称的多功能软件。《apk编辑器》</th>
