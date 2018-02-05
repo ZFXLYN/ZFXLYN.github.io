@@ -258,7 +258,12 @@
 <tr>
 <th>上传图片给出评论</th>
 <td><a href="http://kan.msxiaobing.com/imagegame/portal?task=beauty&phase=2&key=UnPbcPI0EjQTcygzmTAANFIzWTdwNBN2UDMuMRwwQnQnAA&feid=71e035c0b9344dd5a63aff0051d2a1d4&ftid=cab4f198325da7449f810aa43399551c" alt="可以对图片评论">点击进入</a></td>
-</tr>	
+</tr>
+<th>幽默笑话</th>
+<td><a href="" alt="点击跳转">去看笑话</a>
+</td>
+</tr>
+
 <tr>
 <th>要QQ名片赞的点击后面的刷取业务</th>
 <td><a href="http://ZFX.556DS.CN" alt="点击跳转">刷取业务</a></td>
