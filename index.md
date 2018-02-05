@@ -259,8 +259,9 @@
 <th>上传图片给出评论</th>
 <td><a href="http://kan.msxiaobing.com/imagegame/portal?task=beauty&phase=2&key=UnPbcPI0EjQTcygzmTAANFIzWTdwNBN2UDMuMRwwQnQnAA&feid=71e035c0b9344dd5a63aff0051d2a1d4&ftid=cab4f198325da7449f810aa43399551c" alt="可以对图片评论">点击进入</a></td>
 </tr>
-<th>幽默笑话</th>
-<td><a href="" alt="点击跳转">去看笑话</a>
+<tr>
+<th>幽默短信</th>
+<td><a href="https://zfx521wjy.github.io/521" alt="点击跳转">去看短信</a>
 </td>
 </tr>
 
