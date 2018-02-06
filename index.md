@@ -66,6 +66,14 @@
 <center>
 <table border="3" >
 <tr>
+<th>春雨计步器可以同步QQ，微信步数</th>
+<td><a href="img/春雨计步器_2.3.0.apk">点击下载</a></td>
+</tr>
+<tr>
+<th>修改春雨计步器数据，坐在家也可以与好友pk</th>
+<td><a href="img/春雨步数修改器_1.0.apk">点击下载</a></td>
+</tr>
+<tr>
 <th>查看正在连接的WIFI密码神器。《WIFI二维码》</th>
 <td><a href="img/com.eoe.wifishare.apk">点击下载</a></td>
 </tr>
