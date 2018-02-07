@@ -55,7 +55,7 @@
 <th><a href="#C3">去影视区</a></th>
 </tr>
 <tr>
-<th><a href="#C4">需要帮助</a></t>
+<th><a href="#C4">需要帮助</a></th>
 <th><a href="#C5">意见反馈</a></th>
 <th><a href="#C6">其他</a></th>
 </tr>
