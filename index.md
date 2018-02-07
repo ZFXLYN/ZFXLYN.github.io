@@ -94,7 +94,7 @@
 
 <tr>
 <th>《360超级root》</th>
-<td><a href="img/com.qihoo.permmgr_8.0.1.1_liqucn.com.apk" class="button button-action">点击下载</a></td>
+<td><a href="img/com.qihoo.permmgr_8.0.1.1_liqucn.com.apk">点击下载</a></td>
 </tr>
 
 <tr>
