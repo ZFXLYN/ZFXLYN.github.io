@@ -192,7 +192,7 @@
 
 <tr>
 <th>《你潮喷吗？》</th>
-<th><a href="img/music/马天乐 - 你潮喷吗.MP3">点击下载</a></t>
+<th><a href="img/music/马天乐 - 你潮喷吗.MP3">点击下载</a></th>
 <th><div class="post-preview">
 <audio controls="controls" height="100" width="100">  <source src="img/music/马天乐 - 你潮喷吗.MP3" type="audio/mp3"></audio></div></th>
 </tr>
