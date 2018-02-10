@@ -231,7 +231,8 @@
 </tr>
 <tr>
 <th>《多幸运》</th>
-<th><a href="http://m.xiguavideo.cn/group/6479004933306712589/?iid=17901884432&app=video_article&utm_source=copy_link&utm_medium=android&utm_campaign=client_share" alt="点击跳转">点击播放</a></th>     
+<th><a href="http://m.xiguavideo.cn/group/6479004933306712589/?iid=17901884432&app=video_article&utm_source=copy_link&utm_medium=android&utm_campaign=client_share" alt="点击跳转">点击播放</a></th>
+<th><a href="img/flash/多幸运(可塑性记忆饭制版)-art--韩安旭--art-4a00f3af5a78e2dd025103f0941af28c.mp4">点击下载</a></th>
 </tr>
 <tr>
 <th>《一人我饮酒醉》</th>
@@ -241,6 +242,7 @@
 <tr>
 <th>《1分1秒》</th>
 <th><a href="http://t1.kugou.com/5gX8edbrAV3" alt="点击跳转">点击播放</a></th>
+<th><a href="img/flash/1분 1초-art--EPIK HIGH、Taru--art-21a6edf90d0dc1063a67af9bc4ceafe6.mp4">点击下载</a></th>
 </tr>
 </table>
 
