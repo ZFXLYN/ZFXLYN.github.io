@@ -141,80 +141,68 @@
 <tr>
 <th>《有这样一个女孩》</th>
 <th><a href="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3">点击下载</a></th>
-<th><div class="post-preview">
-<audio controls="controls" height="100" width="100">  <source src="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3" type="audio/mp3"></audio></div></th>
+
 </tr>
 	
 <tr>
 <th>《有这样一个男孩》</th>
 <th><a href="img/music/网络歌手 - 有这样一个男孩 (张会玩).mp3">点击下载</a></th>
-<th><div class="post-preview">
-<audio controls="controls" height="100" width="100">  <source src="img/music/网络歌手 - 有这样一个男孩 (张会玩).mp3" type="audio/mp3"></audio></div></th>
+
 </tr>
 	
 <tr>
 <th>《心痛2009》</th>
 <th><a href="img/music/群星 - 心痛2009.mp3">点击下载</a></th>
-<th><div class="post-preview">
-<audio controls="controls" height="100" width="100">  <source src="img/music/群星 - 心痛2009.mp3" type="audio/mp3"></audio></div></th>
+
 </tr>
 
 <tr>
 <th>《一万个舍不得》</th>
 <th><a href="img/music/庄心妍、祁隆 - 一万个舍不得(1).mp3">点击下载</a></th>
-<th><div class="post-preview">
-<audio controls="controls" height="100" width="100">  <source src="img/music/庄心妍、祁隆 - 一万个舍不得(1).mp3" type="audio/mp3"></audio></div>
-</th>
+
+
 </tr>
 
 <tr>
 <th>《一千个伤心的理由》</th>
 <th><a href="img/music/张学友 - 一千个伤心的理由.mp3">点击下载</a></th>
-<th><div class="post-preview">
-<audio controls="controls" height="100" width="100">  <source src="img/music/张学友 - 一千个伤心的理由.mp3" type="audio/mp3"></audio></div>
-</th>
+
+
 </tr>
 
 <tr>
 <th>《装蒜》</th>
 <th><a href="img/music/蒋蒋 - 装蒜.mp3">点击下载</a></th>
-<th><div class="post-preview">
-<audio controls="controls" height="100" width="100">  <source src="img/music/蒋蒋 - 装蒜.mp3" type="audio/mp3"></audio></div>
-</th>
+
 </tr>
 
 <tr>
 <th>《泪三年》</th>
 <th><a href="img/music/Mc阿哲 - 泪三年.mp3">点击下载</a></th>
-<th><div class="post-preview">
-<audio controls="controls" height="100" width="100">  <source src="img/music/Mc阿哲 - 泪三年.mp3" type="audio/mp3"></audio></div></th>
+
 </tr>
 
 <tr>
 <th>《你潮喷吗？》</th>
 <th><a href="img/music/马天乐 - 你潮喷吗.MP3">点击下载</a></th>
-<th><div class="post-preview">
-<audio controls="controls" height="100" width="100">  <source src="img/music/马天乐 - 你潮喷吗.MP3" type="audio/mp3"></audio></div></th>
+
 </tr>
 
 <tr>
 <th>《你是我的妞》</th>
 <th><a href="img/music/老猫 - 你是我的妞.mp3">点击下载</a></th>
-<th><div class="post-preview">
-<audio controls="controls" height="100" width="100">  <source src="img/music/老猫 - 你是我的妞.mp3" type="audio/mp3"></audio></div></th>
+
 </tr>
 
 <tr>
 <th>《一个人》</th>
 <th><a href="img/music/吴靖怡 - 一个人.MP3">点击下载</a></th>
-<th><div class="post-preview">
-<audio controls="controls" height="100" width="100">  <source src="img/music/吴靖怡 - 一个人.MP3" type="audio/mp3"></audio></div></th></tr>
+</tr>
 
 <tr>
 <th>《悟空之心》</th>
 <th><a href="img/music/MC七星 - 悟空之心 [mqms].mp3">点击下载</a></th>
-<th><div class="post-preview">
-<audio controls="controls" height="100" width="100">  <source src="img/music/MC七星 - 悟空之心 [mqms].mp3" type="audio/mp3"></audio></div></th></tr>
+</tr>
 </table>
 
 
