@@ -78,6 +78,10 @@
 <th><a href="img/com.eoe.wifishare.apk">点击下载</a></th>
 </tr>
 <tr>
+<th>免费下载音乐《音乐助手》</th>
+<th><a href="img/音乐助手_1.2.5.3.apk">点击下载</a></th>
+</tr>
+<tr>
 <th>QQ刷赞神奇（免费）</th>
 <th><a href="img/名片点点_1.4.6.apk">点击下载</a></th>
 </tr>
