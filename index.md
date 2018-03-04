@@ -369,10 +369,6 @@
 
 
 
-<style>
-#nav { width:150px; height: 400px; border: 1px solid #D4CD49; position:fixed;left:0;top:30% }
-</style>
-<div id="nav"></div>
 
 
 
