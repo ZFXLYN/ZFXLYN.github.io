@@ -364,3 +364,147 @@
 <tr><td colspan="2" align='center'><input type='button' value='提交' /> <input type='button' value='清除' /></td>
 </tr>
 </table>
+
+
+
+
+
+
+
+
+
+<link href="../../css/user.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" src="../../js/common.js"></script>
+<script language="JavaScript" src="../../js/ubbcode.js"></script>
+<script language="JavaScript">
+function formCheck()
+{
+if (document.theform.nickname.value == "")
+{
+alert("请填写名字。");
+document.theform.nickname.focus();
+return false;
+}
+if (document.theform.content.value == "")
+{
+alert("请填写留言内容。");
+document.theform.content.focus();
+return false;
+}
+theform.Submit.disabled=true;
+return true;
+}
+function showimage()
+{
+document.images.faceimg.src=face_image[parseInt(document.theform.face.options[document.theform.face.selectedIndex].value)];
+}
+<body background="http://cache26.51.com/photo1/14/cf/amulostlove/1151766298434_1.jpg">
+<center>
+<IFRAME marginHeight=0 marginWidth=0 noResize scrolling=no frameBorder=0 src="http://ads.activepower.net/script/ad/ad_show.asp?group_id=8&bgcolor=ffffff" width=468 height=60>
+</IFRAME>
+</center>
+<p> </p>
+<form name="theform" onsubmit="return formCheck();" method="post" action="get_post.asp">
+<TABLE width=550 border=0 align="center" cellPadding=0 cellSpacing=0>
+<table width="550" border="0" align="center" cellpadding="4" cellspacing="1" bgcolor="#ebebeb">
+<tr>
+<td class="pt9">
+<p>*名字:
+<input name="nickname" type="text" size="15" maxlength="12" class="inputbox1">
+<br>
+Email:
+<input name="email" type="text" size="15" maxlength="45" class="inputbox1">
+主页地址:
+<input name="hp_url" type="text" value="http://" size="22" maxlength="125" class="inputbox1">
+</p>
+</td>
+<tr>
+<td width="409" class="pt9"> <!--因为图片连接的原因，本文件只适合include在script/dirname下的文件 -->
+<img onClick=bold() src="../../images/icon_editor_bold.gif" width="23" height="22" alt="粗体" border="0"><img onClick=italicize() src="../../images/icon_editor_italicize.gif" width="23" height="22" alt="斜体" border="0"><img onClick=underline() src="../../images/icon_editor_underline.gif" width="23" height="22" alt="下划线" border="0">
+ 
+<img onClick=center() src="../../images/icon_editor_center.gif" width="23" height="22" alt="居中" border="0"><img onClick=hyperlink() src="../../images/icon_editor_url.gif" width="23" height="22" alt="超级连接" border="0"><img onClick=email() src="../../images/icon_editor_email.gif" width="23" height="22" alt="Email连接" border="0"><img onClick=image() src="../../images/icon_editor_image.gif" width="23" height="22" alt="图片" border="0"><img onClick=flash() src="../../images/icon_swf.gif" width="23" height="22" alt="Flash图片" border="0"><img onClick=showcode() src="../../images/icon_editor_code.gif" width="23" height="22" alt="编号" border="0"><img onClick=quote() src="../../images/icon_editor_quote.gif" width="23" height="22" alt="引用" border="0"><img onClick=list() src="../../images/icon_editor_list.gif" width="23" height="22" alt="目录" border="0">
+ 
+<br>
+<tr>
+<td>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" class="pt9">
+<tr>
+<td width="40" valign="top">*留言:</td>
+<td><textarea name="content" cols="50" rows="6" id="content"></textarea></td>
+</tr>
+</table>
+<p align="center">
+<input name="replyer" type="hidden" value="">
+<input name="reply_content_id" type="hidden" value="">
+<input name="userid" type="hidden" value="79444">
+<input type="submit" name="Submit" value="确认留言" class="button1">
+<input type="reset" name="Reset" value="取消重写" class="button1">
+</p></td>
+</tr>
+</table>
+<p> </p>
+</form>
+<table width="550" border="0" align="center" cellpadding="2" cellspacing="1">
+<tr>
+<td width="88" valign="top">
+<img src="http://img.mms.sohu.com/mms/1230/86/32486/p2.gif">
+</td>
+<td width="417"><TABLE width="100%" border=0 cellPadding=0 cellSpacing=0 class="pt9">
+<TBODY>
+<TR>
+<TD width=43 colSpan=2 height=29 rowSpan=2><IMG height=29
+src="../../images/1_r2_c2.gif" width=43 border=0></TD>
+<TD background=../../images/1_r2_c4.gif height=10></TD>
+<TD width=37 colSpan=2 height=29 rowSpan=2><IMG height=29
+src="../../images/1_r2_c6.gif" width=37 border=0></TD>
+</TR>
+<TR>
+<TD height=19> <TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
+<TBODY>
+<TR>
+<TD class="pt9"> <font class="filtertxt">dsfsd</font> </TD>
+<TD width="168" align=right class="pt9"> </TD>
+</TR>
+</TBODY>
+</TABLE></TD>
+</TR>
+<TR>
+<TD width=10 background=../../images/1_r4_c2.gif></TD>
+<TD width=27></TD>
+<TD width="100%" height=50> <img src="../../images/blank.gif" width="5" height="5">
+<br> fdsfsd<b>dfssdfsdf</b> <br> <img src="../../images/blank.gif" width="5" height="5"> </TD>
+<TD width=22></TD>
+<TD width=15 background=../../images/1_r4_c2.gif></TD>
+</TR>
+<TR>
+<TD background=../../images/1_r4_c2.gif></TD>
+<TD></TD>
+<TD height=1><hr width="100%" size="1" noshade></TD>
+<TD></TD>
+<TD background=../../images/1_r4_c2.gif></TD>
+</TR>
+<TR>
+<TD width=43 colSpan=2 height=26 rowSpan=2> <IMG height=26 src="../../images/1_r6_c2.gif" width=43 border=0></TD>
+<TD align=right height=17>
+<img src="../../images/no_home.gif" align="absmiddle"> <img src="../../images/no_email.gif" align="absmiddle">   <FONT color=#336600>[2006-7-17 21:24:00]</FONT> </TD>
+<TD width=43 colSpan=2 height=26 rowSpan=2><IMG height=26
+src="../../images/1_r6_c6.gif" width=37 border=0></TD>
+</TR>
+<TR>
+<TD background=../../images/1_r2_c4.gif
+height=9></TD>
+</TR>
+</TBODY>
+</TABLE></td>
+</tr>
+</table>
+<BR>
+<form>
+<table width="516" border="0" cellspacing="0" cellpadding="0" align="center">
+<tr>
+<td>
+<table width=100% border=0 cellspacing=1 cellpadding=2 class=pt9><tr><td height=13><img src=../../images/turnpage2_1.gif align=absmiddle border=0> <img src=../../images/turnpage2_2.gif align=absmiddle border=0> <b>1</b> | <img src=../../images/turnpage2_3.gif align=absmiddle border=0> <img src=../../images/turnpage2_4.gif align=absmiddle border=0></td><td class=pt9 width=140 align=right>共<font color=red>1</font>页第<input type=text name=JumpPage maxlength=3 size=3>页<input type=button value=转页 onClick="location.href='/script/user/list.asp?userid=79444&page=' + this.form.JumpPage.value;"></td></tr></table>
+</td>
+</tr>
+</table>
+</form>
