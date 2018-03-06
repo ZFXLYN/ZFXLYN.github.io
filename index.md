@@ -369,11 +369,7 @@
 
 
 
-<html> 
-<body www.wangye8.com','脚本之家','width=400,height=300,directories');"> 
-<b>www.wangye8.com</b> 
-</body> 
-</html> 
+<a href="#">这是</a>
 
 
 
