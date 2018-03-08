@@ -43,7 +43,7 @@
 
 <center>《梦然 - 没有你陪伴真的好孤单.mp3》<marquee><font color="pink">送给最美的你！</font></marquee></center>
 <div class="post-preview">
-<audio controls="controls" height="100" width="100">  <source src="img/music/梦然 - 没有你陪伴真的好孤单.mp3" type="audio/mp3"></audio>
+<audio controls="controls" bgcolor="pink" height="100" width="100">  <source src="img/music/梦然 - 没有你陪伴真的好孤单.mp3" type="audio/mp3"></audio>
 
 
 
