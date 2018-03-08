@@ -372,7 +372,7 @@
 </tr>
 <tr>
 <th>腾讯视频，爱奇艺...破解啦要VIP的视频我这里不要啦找客服要！！！</th>
-<th><a href="http://www.5ifxw.com/vip/" alt="看免费视频"><BODY><form onMouseOver="change('#000000')" onMouseOut="change('#0000FF')">
+<th><a href="http://www.pupudy.com/play?make=url&id=http://m.v.qq.com/play/play.html?coverid=fzfi0p4etjrckhh&vid=a00260ipkjg&ptag=2_6.0.0.14297_copy" alt="看免费视频"><BODY><form onMouseOver="change('#000000')" onMouseOut="change('#0000FF')">
 <input type="button" name="Button" class="thisclass" value="破解视频" onMouseOver="this.style.color='Select:'" onMouseOut="this.style.color='#FFFF00'" onMouseDown="this.style.color='#0000FF'" style="color:#FF1493; font-family:宋体; font-weight:bold; font-size:12px;" onClick="jumpto2">
 </form></BODY></a></th>
 </tr>
@@ -390,7 +390,7 @@
 <a name="C4"><h2>帮助</h2></a>
 <font color="red">此网页暂支持QQ，百度浏览器等，暂不支持部分浏览器下载。支持电脑下载！</font><br>
 大家好，在网页的个人介绍中，我已经声明<ins>我是新手</ins>
-<font color="blue" size="3"><p>本网站有小编向大家推广的各类软件，音乐，影视等，里面有几个不错的软件，比如：QQ刷赞神器（该软件会控制手机给对方点赞，同时你自己也可以获得赞，每天大致可以刷2000赞左右！），春雨计步器是专门记录步数的软件，现在有啦可以破解它的软件即使你坐在家，也可以和QQ，微信好友PK步数，手机型号修改器（可以修改你QQ上的手机型号），如需刷其他业务（刷快手粉丝，刷空间访客量，刷取QQVIP，qqsvip……）</p></font>
+<font color="blue" size="3"><p>本网站有小编向大家推广的各类软件，音乐，影视等，里面有几个不错的软件，比如：QQ刷赞神器（该软件会控制手机给对方点赞，同时你自己也可以获得赞，每天大致可以刷2000赞左右！），春雨计步器是专门记录步数的软件，现在有啦可以破解它的软件即使你坐在家，也可以和QQ，微信好友PK步数，手机型号修改器（可以修改你QQ上的手机型号），如需刷其他业务（刷快手粉丝，刷空间访客量，刷取QQVIP，qqsvip……）如有什么不懂的或是不明白的都可以联系客服，欢迎大家前来！</p></font>
 <font color="red" size="5">注：上方介绍的软件需在本网站下载，如不是在本站下载，所出现的一切问题本站概不负责！</font>
 
 
@@ -473,16 +473,6 @@
 </table>
 -->
 
-
-<head>
-
-<STYLE>
-BODY {
-
-}
-</STYLE> 
-
-</head>
 
 
 
