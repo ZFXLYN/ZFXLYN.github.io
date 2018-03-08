@@ -50,7 +50,10 @@
 <center>
 <table border="3" >
 <tr>
-<th><a href="#C1">去应用区</a></th>
+<th><a href="#C1"><form onMouseOver="change('#000000')" onMouseOut="change('#0000FF')">
+<input type="button" name="Button" class="thisclass" value="去应用区" onMouseOver="this.style.color='Select:'" onMouseOut="this.style.color='#FFFF00'" onMouseDown="this.style.color='#0000FF'" style="color:#FFFF00; font-family:宋体; font-weight:bold; font-size:12px;" onClick="jumpto2">
+</form>
+</a></th>
 <th><a href="#C2">去音乐区</a></th>
 <th><a href="#C3">去影视区</a></th>
 </tr>
