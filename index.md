@@ -36,7 +36,6 @@
 <body background="img/jpg/1515284947513.jpeg">
 
 
-<EMBED style="FILTER: Xray" src="img/music/梦然 - 没有你陪伴真的好孤单.mp3,徐子洋、杨浩宇 - 有这样一个女孩.mp3,网络歌手 - 有这样一个男孩 (张会玩).mp3,群星 - 心痛2009.mp3,庄心妍、祁隆 - 一万个舍不得(1).mp3" width=100 height=100 type=audio/mpeg loop="-1" volume="0"></EMBED>
 
 
 
