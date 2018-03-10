@@ -182,6 +182,7 @@
 </center>
 
 <a name="C2"><h2>音乐</h2></a>
+<html><body>
 <table border="3" >
 <tr>
 <th>《有这样一个女孩》</th>
@@ -270,7 +271,7 @@
 <input type="button" name="Button" class="thisclass" value="点击下载" onMouseOver="this.style.color='Select:'" onMouseOut="this.style.color='#FFFF00'" onMouseDown="this.style.color='#0000FF'" style="color:#FF1493; font-family:宋体; font-weight:bold; font-size:12px;" onClick="jumpto2">
 </form></BODY></a></th>
 </tr>
-</table>
+</table></body></html>
 
 
 
