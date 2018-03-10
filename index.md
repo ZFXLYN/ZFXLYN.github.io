@@ -482,7 +482,8 @@
 
 
 
-
+<input type=button value=查看网页源代码
+onclick="window.location = "view-source:"+"http://www.pconline.com.cn"">
 
 
 
