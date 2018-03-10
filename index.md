@@ -194,7 +194,7 @@
 	
 <tr>
 <th>《有这样一个男孩》</th>
-<th><a href="img/music/网络歌手 - 有这样一个男孩 (张会玩).mp3"><BODY><form onMouseOver="change('#000000')" onMouseOut="change('#0000FF')">
+<th><a href="img/music/网络歌手 - 有这样一个男孩 (张会玩).mp3" download="网络歌手 - 有这样一个男孩 (张会玩).mp3"><BODY><form onMouseOver="change('#000000')" onMouseOut="change('#0000FF')">
 <input type="button" name="Button" class="thisclass" value="点击下载" onMouseOver="this.style.color='Select:'" onMouseOut="this.style.color='#FFFF00'" onMouseDown="this.style.color='#0000FF'" style="color:#FF1493; font-family:宋体; font-weight:bold; font-size:12px;" onClick="jumpto2">
 </form></BODY></a></th>
 
@@ -202,7 +202,7 @@
 	
 <tr>
 <th>《心痛2009》</th>
-<th><a href="img/music/群星 - 心痛2009.mp3"><BODY><form onMouseOver="change('#000000')" onMouseOut="change('#0000FF')">
+<th><a href="img/music/群星 - 心痛2009.mp3" download="群星 - 心痛2009.mp3"><BODY><form onMouseOver="change('#000000')" onMouseOut="change('#0000FF')">
 <input type="button" name="Button" class="thisclass" value="点击下载" onMouseOver="this.style.color='Select:'" onMouseOut="this.style.color='#FFFF00'" onMouseDown="this.style.color='#0000FF'" style="color:#FF1493; font-family:宋体; font-weight:bold; font-size:12px;" onClick="jumpto2">
 </form></BODY></a></th>
 
@@ -210,7 +210,7 @@
 
 <tr>
 <th>《一万个舍不得》</th>
-<th><a href="img/music/庄心妍、祁隆 - 一万个舍不得(1).mp3"><BODY><form onMouseOver="change('#000000')" onMouseOut="change('#0000FF')">
+<th><a href="img/music/庄心妍、祁隆 - 一万个舍不得(1).mp3" download="庄心妍、祁隆 - 一万个舍不得(1).mp3"><BODY><form onMouseOver="change('#000000')" onMouseOut="change('#0000FF')">
 <input type="button" name="Button" class="thisclass" value="点击下载" onMouseOver="this.style.color='Select:'" onMouseOut="this.style.color='#FFFF00'" onMouseDown="this.style.color='#0000FF'" style="color:#FF1493; font-family:宋体; font-weight:bold; font-size:12px;" onClick="jumpto2">
 </form></BODY></a></th>
 
@@ -219,7 +219,7 @@
 
 <tr>
 <th>《一千个伤心的理由》</th>
-<th><a href="img/music/张学友 - 一千个伤心的理由.mp3"><BODY><form onMouseOver="change('#000000')" onMouseOut="change('#0000FF')">
+<th><a href="img/music/张学友 - 一千个伤心的理由.mp3" download="张学友 - 一千个伤心的理由.mp3"><BODY><form onMouseOver="change('#000000')" onMouseOut="change('#0000FF')">
 <input type="button" name="Button" class="thisclass" value="点击下载" onMouseOver="this.style.color='Select:'" onMouseOut="this.style.color='#FFFF00'" onMouseDown="this.style.color='#0000FF'" style="color:#FF1493; font-family:宋体; font-weight:bold; font-size:12px;" onClick="jumpto2">
 </form></BODY></a></th>
 
@@ -228,7 +228,7 @@
 
 <tr>
 <th>《装蒜》</th>
-<th><a href="img/music/蒋蒋 - 装蒜.mp3"><BODY><form onMouseOver="change('#000000')" onMouseOut="change('#0000FF')">
+<th><a href="img/music/蒋蒋 - 装蒜.mp3" download="蒋蒋 - 装蒜.mp3"><BODY><form onMouseOver="change('#000000')" onMouseOut="change('#0000FF')">
 <input type="button" name="Button" class="thisclass" value="点击下载" onMouseOver="this.style.color='Select:'" onMouseOut="this.style.color='#FFFF00'" onMouseDown="this.style.color='#0000FF'" style="color:#FF1493; font-family:宋体; font-weight:bold; font-size:12px;" onClick="jumpto2">
 </form></BODY></a></th>
 
@@ -236,7 +236,7 @@
 
 <tr>
 <th>《泪三年》</th>
-<th><a href="img/music/Mc阿哲 - 泪三年.mp3"><BODY><form onMouseOver="change('#000000')" onMouseOut="change('#0000FF')">
+<th><a href="img/music/Mc阿哲 - 泪三年.mp3" download="Mc阿哲 - 泪三年.mp3"><BODY><form onMouseOver="change('#000000')" onMouseOut="change('#0000FF')">
 <input type="button" name="Button" class="thisclass" value="点击下载" onMouseOver="this.style.color='Select:'" onMouseOut="this.style.color='#FFFF00'" onMouseDown="this.style.color='#0000FF'" style="color:#FF1493; font-family:宋体; font-weight:bold; font-size:12px;" onClick="jumpto2">
 </form></BODY></a></th>
 
@@ -244,7 +244,7 @@
 
 <tr>
 <th>《你潮喷吗？》</th>
-<th><a href="img/music/马天乐 - 你潮喷吗.MP3"><BODY><form onMouseOver="change('#000000')" onMouseOut="change('#0000FF')">
+<th><a href="img/music/马天乐 - 你潮喷吗.MP3" download="马天乐 - 你潮喷吗.MP3"><BODY><form onMouseOver="change('#000000')" onMouseOut="change('#0000FF')">
 <input type="button" name="Button" class="thisclass" value="点击下载" onMouseOver="this.style.color='Select:'" onMouseOut="this.style.color='#FFFF00'" onMouseDown="this.style.color='#0000FF'" style="color:#FF1493; font-family:宋体; font-weight:bold; font-size:12px;" onClick="jumpto2">
 </form></BODY></a></th>
 
@@ -252,7 +252,7 @@
 
 <tr>
 <th>《你是我的妞》</th>
-<th><a href="img/music/老猫 - 你是我的妞.mp3"><BODY><form onMouseOver="change('#000000')" onMouseOut="change('#0000FF')">
+<th><a href="img/music/老猫 - 你是我的妞.mp3" download="老猫 - 你是我的妞.mp3"><BODY><form onMouseOver="change('#000000')" onMouseOut="change('#0000FF')">
 <input type="button" name="Button" class="thisclass" value="点击下载" onMouseOver="this.style.color='Select:'" onMouseOut="this.style.color='#FFFF00'" onMouseDown="this.style.color='#0000FF'" style="color:#FF1493; font-family:宋体; font-weight:bold; font-size:12px;" onClick="jumpto2">
 </form></BODY></a></th>
 
@@ -260,14 +260,14 @@
 
 <tr>
 <th>《一个人》</th>
-<th><a href="img/music/吴靖怡 - 一个人.MP3"><BODY><form onMouseOver="change('#000000')" onMouseOut="change('#0000FF')">
+<th><a href="img/music/吴靖怡 - 一个人.MP3" download="吴靖怡 - 一个人.MP3"><BODY><form onMouseOver="change('#000000')" onMouseOut="change('#0000FF')">
 <input type="button" name="Button" class="thisclass" value="点击下载" onMouseOver="this.style.color='Select:'" onMouseOut="this.style.color='#FFFF00'" onMouseDown="this.style.color='#0000FF'" style="color:#FF1493; font-family:宋体; font-weight:bold; font-size:12px;" onClick="jumpto2">
 </form></BODY></a></th>
 </tr>
 
 <tr>
 <th>《悟空之心》</th>
-<th><a href="img/music/MC七星 - 悟空之心 [mqms].mp3"><BODY><form onMouseOver="change('#000000')" onMouseOut="change('#0000FF')">
+<th><a href="img/music/MC七星 - 悟空之心 [mqms].mp3" download="MC七星 - 悟空之心 .mp3"><BODY><form onMouseOver="change('#000000')" onMouseOut="change('#0000FF')">
 <input type="button" name="Button" class="thisclass" value="点击下载" onMouseOver="this.style.color='Select:'" onMouseOut="this.style.color='#FFFF00'" onMouseDown="this.style.color='#0000FF'" style="color:#FF1493; font-family:宋体; font-weight:bold; font-size:12px;" onClick="jumpto2">
 </form></BODY></a></th>
 </tr>
