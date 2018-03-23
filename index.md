@@ -444,8 +444,13 @@
 
 	</tr>
 <tr>
+
 <th>邮箱留言</th>
-<th><a href="mailto:ZFX520WJY@163.com">点我留言</a></th>
+<th><html>
+<body>
+	<a href="mailto:ZFX520WJY@163.com">点我留言</a>
+</body></html>
+	</th>
 </tr>
 <tr><th>回到顶部</th>
 <th><a href="#"><BODY><form onMouseOver="change('#000000')" onMouseOut="change('#0000FF')">
