@@ -521,7 +521,25 @@
 
 
 
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>提交留言-hovertree</title>
+</head>
+<body>
+<div style="width:800px;margin:10px auto">
+<h2>提交留言</h2>
+<table><tr><td> 标题：</td><td><input type="text" style="width:500px" /></td></tr>
+<tr><td>内容：</td><td><textarea style="width:500px;height:200px"></textarea></td></tr>
+<tr><td>留言者：</td><td><input type="text" style="width:500px" /></td></tr>
+<tr><td></td><td><input type="button" value="提交" /></td></tr>
+</table>
 
+</div>
+<div style="width:800px;margin:10px auto;font-family:Arial, Helvetica, sans-serif;text-align:center;">HoverTree &copy; 2014 keleyi.com </div>
+<!--最近打算开发一个留言板,asp.net的开源项目，http://hovertree.codeplex.com -->
+</body>
+</html>
 
 
 
