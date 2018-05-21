@@ -516,9 +516,6 @@
 <tr><td colspan="2" align='center'><input type='button' value='提交' /> <input type='button' value='清除' /></td>
 </tr>
 </table>
--->
-
-
 
 
 <!DOCTYPE html>
@@ -536,11 +533,10 @@
 </table>
 
 </div>
-<div style="width:800px;margin:10px auto;font-family:Arial, Helvetica, sans-serif;text-align:center;">HoverTree &copy; 2014 keleyi.com </div>
-<!--最近打算开发一个留言板,asp.net的开源项目，http://hovertree.codeplex.com -->
+<div style="width:350px;margin:10px auto;font-family:Arial, Helvetica, sans-serif;text-align:center;">HoverTree &copy; 2014 keleyi.com </div>
 </body>
 </html>
-
+-->
 
 
 
