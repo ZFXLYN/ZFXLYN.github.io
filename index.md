@@ -36,7 +36,7 @@
 <body background="img/jpg/qidong.jpg">
 
 <center><font color="red" size="4">查看表白墙内容时，数字框的密码为"5"</font></center><a href="https://biaodan.info/q/77wqvi">打开表白墙</a>
-
+<p><a href="https://biaodan.info/web/formview/5b46317a75a03c5795b6c09a">我要表白</a></p>
 
 
 
