@@ -35,7 +35,7 @@
 -->
 <body background="img/jpg/qidong.jpg">
 
-
+<center><font color="red" size="4">查看表白墙内容时，数字框的密码为"5"</font></center>
 
 
 
