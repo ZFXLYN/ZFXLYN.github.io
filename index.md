@@ -1,40 +1,4 @@
-<html>
 
-<head>
-
-<title>登录</title>
-
-<link rel="stylesheet" href="sj.css" type="text/css">
-
-</head>
-
-<body >
-
-<div align="center" >
-
-<form name="form1" onsubmit="return check()"  action="login.jsp" >
-
-<table width=400  >
-
-<tr><td colspan="2" align="center">登录界面</td></tr>
-
-<tr><th>用户名：  </th><td><input type="text" name="id1" required="required"></td></tr>
-
-<tr><th>用户密码：</th><td><input type="password" name="password1" required="required"></td></tr>
-
-<tr></tr>
-
-<tr></tr>
-
-<tr><td colspan="2" align="center"><button type="submit" name="but" >登录</button>  <button type="button" name="but"  onclick="window.location.href=('register.html')">注册</button>
-
-</td></tr></table>
-
-</form></div>
-
-</body>
-
-</html>
 
 
 
