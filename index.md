@@ -41,11 +41,19 @@
 <body bgcolor="pink"></body>
 -->
 <body background="img/jpg/qidong.jpg">
-
-<center><font color="red" size="4">查看表白墙内容时，数字框的密码为"5"</font></center><a href="https://biaodan.info/q/77wqvi">打开表白墙</a>
-<p><a href="https://biaodan.info/web/formview/5b46317a75a03c5795b6c09a">我要表白</a></p>
-
-
+<center>
+<table border="3">
+<tr>
+<th><font color="red" size="4">查看表白墙内容时，数字框的密码为"5"</font></th>
+</tr><tr>
+<th><a href="https://biaodan.info/q/77wqvi">打开表白墙</a>
+</th>
+</tr><tr>
+<th>
+<a href="https://biaodan.info/web/formview/5b46317a75a03c5795b6c09a">我要表白</a>
+</th></tr>
+</table>
+</center>
 
 
 <center>《晓华、林小坤 - 甜到爆表.mp3》<marquee><font color="pink">送给最美的你！</font></marquee></center>
