@@ -56,9 +56,9 @@
 </center>
 
 
-<center>《晓华、林小坤 - 甜到爆表.mp3》<marquee><font color="pink">送给最美的你！</font></marquee></center>
+<center>《PRC 巴音汗 - 80000 !.mp3》<marquee><font color="pink">送给最美的你！</font></marquee></center>
 <div class="post-preview">
-<audio controls="controls" bgcolor="pink" height="100" width="100">  <source src="img/music/晓华、林小坤 - 甜到爆表.mp3" type="audio/mp3"></audio>
+<audio controls="controls" bgcolor="pink" height="100" width="100">  <source src="img/music/PRC 巴音汗 - 80000 !.mp3" type="audio/mp3"></audio>
 
 
 
