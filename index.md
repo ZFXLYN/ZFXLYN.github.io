@@ -41,7 +41,7 @@
 <body bgcolor="pink"></body>
 -->
 <body background="img/jpg/qidong.jpg">
-<center>
+<!--<center>
 <table border="3">
 <tr>
 <th><font color="red" size="4">查看表白墙内容时，数字框的密码为"5"</font></th>
@@ -54,7 +54,7 @@
 </th></tr>
 </table>
 </center>
-
+-->
 
 <center>《PRC 巴音汗 - 80000 !.mp3》<marquee><font color="pink">送给最美的你！</font></marquee></center>
 <div class="post-preview">
