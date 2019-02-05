@@ -133,23 +133,17 @@
 -->
 <tr>
 <th>正宗装逼神器(可以修改QQ标识)《畅玩手机》</th>
-<th><a href="img/1788510.apk"><BODY><form onMouseOver="change('#000000')" onMouseOut="change('#0000FF')">
-<input type="button" name="Button" class="thisclass" value="点击下载" onMouseOver="this.style.color='Select:'" onMouseOut="this.style.color='#FFFF00'" onMouseDown="this.style.color='#0000FF'" style="color:#FF1493; font-family:宋体; font-weight:bold; font-size:12px;" onClick="jumpto2">
-</form></BODY></a></th>
+<th><a href="img/1788510.apk">点击下载</a></th>
 </tr>
 
 <tr>
 <th>可以修改单机游戏数据的软件(需root)《re文件管理器》</th>
-<th><a href="img/RE管理器 rootexplorer.apk"><BODY><form onMouseOver="change('#000000')" onMouseOut="change('#0000FF')">
-<input type="button" name="Button" class="thisclass" value="点击下载" onMouseOver="this.style.color='Select:'" onMouseOut="this.style.color='#FFFF00'" onMouseDown="this.style.color='#0000FF'" style="color:#FF1493; font-family:宋体; font-weight:bold; font-size:12px;" onClick="jumpto2">
-</form></BODY></a></th>
+<th><a href="img/RE管理器 rootexplorer.apk">点击下载</a></th>
 </tr>
 
 <tr>
 <th>《修改QQ运动步数》</th>
-<th><a href="img/3f09c387bd23b1f609136ca0a5271862-152055-o_1bpiltb391fs0soe1fco4hn1s7sq-uid-1065.apk"><BODY><form onMouseOver="change('#000000')" onMouseOut="change('#0000FF')">
-<input type="button" name="Button" class="thisclass" value="点击下载" onMouseOver="this.style.color='Select:'" onMouseOut="this.style.color='#FFFF00'" onMouseDown="this.style.color='#0000FF'" style="color:#FF1493; font-family:宋体; font-weight:bold; font-size:12px;" onClick="jumpto2">
-</form></BODY></a></th>
+<th><a href="img/3f09c387bd23b1f609136ca0a5271862-152055-o_1bpiltb391fs0soe1fco4hn1s7sq-uid-1065.apk">点击下载</a></th>
 </tr>
 <!--
 <tr>
