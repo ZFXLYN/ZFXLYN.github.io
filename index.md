@@ -299,7 +299,6 @@
 </form></BODY></a>
 </th>
 </tr>
--->
 <tr>
 <th>要QQ名片赞的点击后面的刷取业务</th>
 <th><a href="http://ZFX.556DS.CN" alt="点击跳转">刷取业务</a></th>
@@ -307,7 +306,7 @@
 <tr>
 <th>腾讯视频，爱奇艺...破解啦要VIP的视频我这里不要啦找客服要！！！</th>
 <th><a href="http://www.pupudy.com/play?make=url&id=http://m.v.qq.com/play/play.html?coverid=fzfi0p4etjrckhh&vid=a00260ipkjg&ptag=2_6.0.0.14297_copy" alt="看免费视频">破解视频</a></th>
-</tr>
+</tr>-->
 <tr>
 	<th>中国象棋</th>
 	<th><a href="http://www.html5tricks.com/demo/jiaoben1765/index.html" alt="中国象棋">点击去玩</a></th>
