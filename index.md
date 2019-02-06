@@ -246,36 +246,31 @@
 </tr>
 <tr>
 <th>《九世轮回篇》</th>
-<th><a href="http://toutiao.com/group/6472225886547477005/?iid=16393968975&app=news_article&utm_source=copy_link&utm_medium=android&utm_campaign=client_share" alt="点击跳转">点击播放</a></th>
 <th><a href="img/flash/九世轮回篇(KTV版)-art--MC冰鑫--art-293834d184605b8ae2a8f9fa191800e2.mp4">点击下载</a></th>
 </tr>
 <tr>
 <th>《厉害了我的哥》</th>
-<th><a href="http://m.xiguashipin.cn/group/6472233100041519630/?iid=15774418255&app=video_article&utm_source=copy_link&utm_medium=android&utm_campaign=client_share" alt="点击跳转">点击播放</a></th> <th><a href="img/flash/厉害了我的哥-art--帅少--art-8c99c8542aba31c2a5446f5a6f671243.mp4">点击下载</a></th>
+<th><a href="img/flash/厉害了我的哥-art--帅少--art-8c99c8542aba31c2a5446f5a6f671243.mp4">点击下载</a></th>
 </tr>
 <tr>
 <th>《甩你几条银河系》</th>
-<th><a href="http://m.xiguavideo.cn/group/6472323160178950670/?iid=15774418255&app=video_article&utm_source=copy_link&utm_medium=android&utm_campaign=client_share" alt="点击跳转">点击播放</a></th>
 <th><a href="img/flash/甩你几条银河系-art--MC天佑--art-2cf03f10b897121bfea95bd103685fa2.mp4">点击下载</a></th>
 </tr>
 <tr>
 <th>《死一样的痛》</th>
-<th><a href="http://t2.kugou.com/5gYIOccrAV3" alt="点击跳转">点击播放</a></th>
 <th><a href="img/flash/死一样的痛过-art--MC梦、Mellow--art-4c6728d32bd34c89a67f1f0a66bebf45.mp4">点击下载</a></th>
 </tr>
 <tr>
 <th>《多幸运》</th>
-<th><a href="http://m.xiguavideo.cn/group/6479004933306712589/?iid=17901884432&app=video_article&utm_source=copy_link&utm_medium=android&utm_campaign=client_share" alt="点击跳转">点击播放</a></th>
+
 <th><a href="img/flash/多幸运(可塑性记忆饭制版)-art--韩安旭--art-4a00f3af5a78e2dd025103f0941af28c.mp4">点击下载</a></th>
 </tr>
 <tr>
 <th>《一人我饮酒醉》</th>
-<th><a href="http://toutiao.com/group/6479000971534926349/?iid=16393968975&app=news_article&utm_source=copy_link&utm_medium=android&utm_campaign=client_share" alt="点击跳转">点击播放</a></th>
 <th><a href="img/flash/一人饮酒醉-art--大鹏、MC天佑--art-d3935be27c2557ebd7c882ae74b2f4d3.mp4">点击下载</a></th>
 </tr>
 <tr>
 <th>《1分1秒》</th>
-<th><a href="http://t1.kugou.com/5gX8edbrAV3" alt="点击跳转">点击播放</a></th>
 <th><a href="img/flash/1분 1초-art--EPIK HIGH、Taru--art-21a6edf90d0dc1063a67af9bc4ceafe6.mp4">点击下载</a></th>
 </tr>
 </table>
