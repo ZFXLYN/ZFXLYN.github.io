@@ -162,6 +162,7 @@
 </center>
 
 <a name="C2"><h2>音乐</h2></a>
+<!--
 <html><body>
 <table border="3" >
 <tr>
@@ -234,6 +235,8 @@
 
 </tr>
 </table></body></html>
+-->
+
 
 
 
