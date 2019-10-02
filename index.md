@@ -73,7 +73,7 @@
 <tr>
 <th><a href="#C4">网站详解</a></th>
 <th><a href="#C5">意见反馈</a></th>
-<th><a href="#C6">其他</a></th>
+<th><a href="http://zfx521.xyz">QQ秒赞</a></th>
 </tr>
 </table>
 </center>  
