@@ -273,7 +273,7 @@
 <th><a href="img/flash/1분 1초-art--EPIK HIGH、Taru--art-21a6edf90d0dc1063a67af9bc4ceafe6.mp4">点击下载</a></th>
 </tr>
 </table>
-
+<!--
 <a name="C6"><h2>其他</h2></a>
 <center>
 <table border="3" >
@@ -285,7 +285,7 @@
 <th>上传图片给出评论</th>
 <th><a href="http://kan.msxiaobing.com/imagegame/portal?task=beauty&phase=2&key=UnPbcPI0EjQTcygzmTAANFIzWTdwNBN2UDMuMRwwQnQnAA&feid=71e035c0b9344dd5a63aff0051d2a1d4&ftid=cab4f198325da7449f810aa43399551c" alt="可以对图片评论">点击进入</a></th>
 </tr>
-	<!--
+	
 <tr>
 <th>幽默，搞笑，损友短信</th>
 <th><a href="https://zfx521wjy.github.io/521" alt="点击跳转"><BODY><form onMouseOver="change('#000000')" onMouseOut="change('#0000FF')">
@@ -300,22 +300,22 @@
 <tr>
 <th>腾讯视频，爱奇艺...破解啦要VIP的视频我这里不要啦找客服要！！！</th>
 <th><a href="http://www.pupudy.com/play?make=url&id=http://m.v.qq.com/play/play.html?coverid=fzfi0p4etjrckhh&vid=a00260ipkjg&ptag=2_6.0.0.14297_copy" alt="看免费视频">破解视频</a></th>
-</tr>-->
+</tr>
 <tr>
 	<th>中国象棋</th>
 	<th><a href="http://www.html5tricks.com/demo/jiaoben1765/index.html" alt="中国象棋">点击去玩</a></th>
-	</tr>
+	</tr>-->
 </table>
 </center>
 
 
 
-<a name="C4"><h2>帮助</h2></a>
+<!--<a name="C4"><h2>帮助</h2></a>
 <font color="red">此网页暂支持QQ，百度浏览器等，暂不支持部分浏览器下载。支持电脑下载！</font><br>
 大家好，在网页的个人介绍中，我已经声明<ins>我是新手</ins>
 <font color="blue" size="3"><p>本网站有小编向大家推广的各类软件，音乐，影视等，里面有几个不错的软件，比如：QQ刷赞神器（该软件会控制手机给对方点赞，同时你自己也可以获得赞，每天大致可以刷2000赞左右！），春雨计步器是专门记录步数的软件，现在有啦可以破解它的软件即使你坐在家，也可以和QQ，微信好友PK步数，手机型号修改器（可以修改你QQ上的手机型号），如需刷其他业务（刷快手粉丝，刷空间访客量，刷取QQVIP，qqsvip……）如有什么不懂的或是不明白的都可以联系客服，欢迎大家前来！大家想看什么电影在此网站找不到的都可以找客服留言！</p></font>
 <font color="red" size="5">注：上方介绍的软件需在本网站下载，如不是在本站下载，所出现的一切问题本站概不负责！</font>
-
+-->
 
 
 
