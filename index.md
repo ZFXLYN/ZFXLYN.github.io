@@ -85,7 +85,6 @@
 <th><a href="img/zy/zjjy.exe">点击下载</a></th>
 </tr>
 <th>死机代码</th>
-<tr>
 <th><a href="img/zy/zfx.bat">点击下载</a></th>
 </tr>
 
