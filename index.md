@@ -82,7 +82,7 @@
 <table border="3" >
 <tr>
 <th>再见极域</th>
-<th><a href="img/春雨计步器_2.3.0.apk">点击下载</a></th>
+<th><a href="img/zy/zjjy.exe">点击下载</a></th>
 </tr>
 
 </table>
