@@ -83,6 +83,8 @@
 <tr>
 <th>再见极域</th>
 <th><a href="img/zy/zjjy.exe">点击下载</a></th>
+<th>死机代码</th>
+<th><a href="img/zy/zfx.bat">点击下载</a></th>
 </tr>
 
 </table>
