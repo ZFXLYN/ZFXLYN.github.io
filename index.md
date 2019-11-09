@@ -65,8 +65,7 @@
 <center>
 <table border="3" >
 <tr>
-<th><a href="#C1">去应用区
-</a></th>
+<th><a href="#C1">去资源区</a></th>
 <th><a href="#C2">去音乐区</a></th>
 <th><a href="#C3">去影视区</a></th>
 </tr>
@@ -78,85 +77,13 @@
 </table>
 </center>  
 
-<a name="C1"><h2>应用</h2></a>
+<a name="C1"><h2>资源</h2></a>
 <center>
 <table border="3" >
 <tr>
-<th>春雨计步器可以同步QQ，微信步数</th>
+<th>再见极域</th>
 <th><a href="img/春雨计步器_2.3.0.apk">点击下载</a></th>
 </tr>
-<tr>
-<th>修改春雨计步器数据，坐在家也可以与好友pk</th>
-<th><a href="img/春雨步数修改器_1.0.apk">点击下载</a></th>
-</tr>
-<tr>
-<th>查看正在连接的WIFI密码神器。《WIFI二维码》</th>
-<th><a href="img/com.eoe.wifishare.apk">点击下载</a></th>
-</tr>
-<tr>
-<th>免费下载音乐《音乐助手》</th>
-<th><a href="img/音乐助手_1.2.5.3.apk">点击下载</a></th>
-</tr>
-<!--
-<tr>
-<th>QQ刷赞神奇（免费）</th>
-<th><a href="img/名片点点_1.4.6.apk">点击下载</a></th>
-</tr>
-	-->
-<tr>
-<th>修改软件图标和名称的多功能软件。《apk编辑器》</th>
-<th><a href="img/apk_editor_pro.apk">点击下载</a></th>
-</tr>
-<!--
-<tr>
-<th>手机root权限安装包:</th>
-<th></th>
-</tr>
-<tr>
-<th>《360超级root》</th>
-<th><a href="img/com.qihoo.permmgr_8.0.1.1_liqucn.com.apk"><BODY><form onMouseOver="change('#000000')" onMouseOut="change('#0000FF')">
-<input type="button" name="Button" class="thisclass" value="点击下载" onMouseOver="this.style.color='Select:'" onMouseOut="this.style.color='#FFFF00'" onMouseDown="this.style.color='#0000FF'" style="color:#FF1493; font-family:宋体; font-weight:bold; font-size:12px;" onClick="jumpto2">
-</form></BODY></a></th>
-</tr>
-<tr>
-<th>《king root》</th>
-<th><a href="img/KingRoot-一键权限获取，授权管理.apk"><BODY><form onMouseOver="change('#000000')" onMouseOut="change('#0000FF')">
-<input type="button" name="Button" class="thisclass" value="点击下载" onMouseOver="this.style.color='Select:'" onMouseOut="this.style.color='#FFFF00'" onMouseDown="this.style.color='#0000FF'" style="color:#FF1493; font-family:宋体; font-weight:bold; font-size:12px;" onClick="jumpto2">
-</form></BODY></a></th>
-</tr>
-<tr>
-<th>《root工具箱》</th>
-<th><a href="img/RootEssentials_downcc.apk"><BODY><form onMouseOver="change('#000000')" onMouseOut="change('#0000FF')">
-<input type="button" name="Button" class="thisclass" value="点击下载" onMouseOver="this.style.color='Select:'" onMouseOut="this.style.color='#FFFF00'" onMouseDown="this.style.color='#0000FF'" style="color:#FF1493; font-family:宋体; font-weight:bold; font-size:12px;" onClick="jumpto2">
-</form></BODY></a></th>
-</tr>
--->
-<tr>
-<th>正宗装逼神器(可以修改QQ标识)《畅玩手机》</th>
-<th><a href="img/1788510.apk">点击下载</a></th>
-</tr>
-
-<tr>
-<th>可以修改单机游戏数据的软件(需root)《re文件管理器》</th>
-<th><a href="img/RE管理器 rootexplorer.apk">点击下载</a></th>
-</tr>
-
-<tr>
-<th>《修改QQ运动步数》</th>
-<th><a href="img/3f09c387bd23b1f609136ca0a5271862-152055-o_1bpiltb391fs0soe1fco4hn1s7sq-uid-1065.apk">点击下载</a></th>
-</tr>
-<!--
-<tr>
-<th>《极简炫酷密码锁》</th>
-<th><a href="img/com.tpad.change.unlock.ji1jian1xuan4ku4op.apk"><BODY><form onMouseOver="change('#000000')" onMouseOut="change('#0000FF')">
-<input type="button" name="Button" class="thisclass" value="点击下载" onMouseOver="this.style.color='Select:'" onMouseOut="this.style.color='#FFFF00'" onMouseDown="this.style.color='#0000FF'" style="color:#FF1493; font-family:宋体; font-weight:bold; font-size:12px;" onClick="jumpto2">
-</form></BODY></a></th>
-</tr>-->
-<tr>
-<th>这是安卓《终端模拟器》</th>
-<th><a href="img/com.termux.apk" download="com.termux.apk">点击下载</a></th>
-</tr>
-	
 
 </table>
 </center>
