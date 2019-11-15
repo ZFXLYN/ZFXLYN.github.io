@@ -12,7 +12,8 @@
 <center>
   <div class="post-preview">
 <audio controls="controls" height="200" width="200">  <source src="img/music/上官承诺、蛋总 - 我们爱过吗只是睡过吧.mp3" type="audio/mp3">
-    </audio>
+	</div>
+   </audio>
     </center>
 <center>
   <table border="1">
