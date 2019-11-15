@@ -18,8 +18,8 @@
       <th><a href="#z13">视ㅤ频</a></th>
     </tr>
     <tr>
-    <td><a href="#z1">图ㅤ片</a></td>
-    <td><a href="#z1">连ㅤ邮</a></td>
+    <td><a href="#z111">图ㅤ片</a></td>
+    <td><a href="#z166">连ㅤ邮</a></td>
     <td><a href="#z6">声ㅤ明</a></td>
     </tr>
     </table>
@@ -96,6 +96,7 @@
 </td>
     </tr>
 </table></center>
+<br><h2>图片</h2><a name="z111"></a>
 <center>
 <table border="3">
        <tr>
