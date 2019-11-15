@@ -13,7 +13,7 @@
   <div class="post-preview">
 <audio controls="controls" height="200" width="200">  <source src="img/music/上官承诺、蛋总 - 我们爱过吗只是睡过吧.mp3" type="audio/mp3"></audio></div></center>
 <center>
-  <table border="1">
+  <table border="3">
     <tr>
       <th><a href="#z1">工具</a></th>
       <th><a href="#z1">音乐</a></th>
@@ -28,7 +28,7 @@
   </center>
  <br>
   <center>
-  <table border="1"><a name="z1"></a>
+  <table border="3"><a name="z1"></a>
 	  <center>工具</center>
     <tr>
       <th>代码</th>
@@ -42,7 +42,7 @@
   </center>
   
    <center>
-  <table border="1"><a name="z1"></a>
+  <table border="3"><a name="z1"></a>
 	  <center>音乐</center>
     <tr>
       <th></th>
