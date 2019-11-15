@@ -1,51 +1,51 @@
-@start cmd
+@start cmd | start cmd
 @color a
-ÎÒÏ²»¶Äã
+æˆ‘å–œæ¬¢ä½ 
 @color b
-Äã¹Ø²»µã
+ä½ å…³ä¸ç‚¹
 @color c
-ÒÔºóÄã¾ÍÊÇÎÒµÄÈËÁË
+ä»¥åŽä½ å°±æ˜¯æˆ‘çš„äººäº†
 @color a
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\test1f.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tes2tf.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\testf.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tes3tf.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tes4tf.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\test5f.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\testf6.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\t7estf.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\te8stf.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tes9tf.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tes10tf.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\test11f.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\test12f.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\test13f.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\test15f.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\test16f.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\test66f.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\te5stf.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\te242stf.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\te42stf.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tes242tf.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\te42stf.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\te242stf.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\te424stf.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\te4224stf.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\te2424stf.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tes24tf.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tes2424tf.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\te242stf.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\234563453.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tes24tf.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tes245fgtf.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tesdgdfgtf.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tesfgdgdtf.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tesdgdgdtf.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tesdgrdtf.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tedgfdstf.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tedgstf.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tedfgdfstf.txt
-echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tegdfgstf.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\test1f.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tes2tf.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\testf.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tes3tf.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tes4tf.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\test5f.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\testf6.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\t7estf.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\te8stf.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tes9tf.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tes10tf.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\test11f.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\test12f.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\test13f.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\test15f.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\test16f.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\test66f.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\te5stf.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\te242stf.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\te42stf.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tes242tf.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\te42stf.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\te242stf.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\te424stf.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\te4224stf.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\te2424stf.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tes24tf.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tes2424tf.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\te242stf.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\234563453.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tes24tf.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tes245fgtf.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tesdgdfgtf.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tesfgdgdtf.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tesdgdgdtf.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tesdgrdtf.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tedgfdstf.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tedgstf.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tedfgdfstf.txt
+@start cmd | echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tegdfgstf.txt
 echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tefdgdfggstf.txt
 echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tedfgsdsdggstf.txt
 echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tsdgestf.txt
@@ -163,6 +163,7 @@ echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tgegeest.txt
 echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tsdgdtgwdrsest.txt
 echo ^^W ^> ^W>C:\Users\Administrator\Desktop\tedgdrgsdtrst.txt
 echo ^^W ^> ^W>C:\Users\Administrator\Desktop\teestfgerst.txt
+echo ^^W ^> ^W>C:\Users\Administrator\Desktop\teertgergst.txt
 echo ^^W ^> ^W>C:\Users\Administrator\Desktop\teertgergst.txt
 md ripgipr 8er89 e  tuu890t890gueriogererererererererererg  ry hrt grt g  gdrghf h rt h rt h rth rth fgbrtf  rtfh rth rt hthrth rt h rthrt h rt h r h rth rth rt hrthrt h rt h rt hrt h rth rt h rth rt hrj ry j rj h j y j grd jhe56u w35r tgewer sdg rtduy34er tgdf h r6th f    54 64 5614 56156464564 56 4564 564 4564 4 56 4 564 4 56 456 456  564 564 564 56 456 456 4 564 564 4564 89 56 57 894  56 4 456 194 84 9 564 89 4
 %0
