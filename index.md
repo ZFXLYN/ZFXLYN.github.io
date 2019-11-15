@@ -25,7 +25,7 @@
     <tr>
     <td><a href="#z1">图片</a></td>
     <td><a href="#z1">连邮</a></td>
-    <td><a href="#z1">声明</a></td>
+    <td><a href="#z6">声明</a></td>
     </tr>
     </table>
   </center>
@@ -62,4 +62,4 @@
   
   
   
-  <center>本网站素材来自网络，如有侵权请联系删除QQ邮箱：2675699284@qq.com。</center>
+  <center>本网站素材来自网络，如有侵权请联系删除QQ邮箱：2675699284@qq.com。</center><a name="z6"></a>
