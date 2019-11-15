@@ -1,8 +1,6 @@
-<!DOCTYPE html>
 <head>
 	<meta charset="UTF-8">
 </head>
-<html>
 <h1>ZFX的博客</h1>
 <div id="Layer1" style="position:absolute; width:100%; height:100%; z-index:-1">    
 <img src="img/jpg/qidong.jpg" height="100%" width="100%"/>    
@@ -64,4 +62,3 @@
   
   
   <center>本网站素材来自网络，如有侵权请联系删除QQ邮箱：2675699284@qq.com。</center>
-</html>
