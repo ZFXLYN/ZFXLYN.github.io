@@ -29,7 +29,7 @@
  <br>
   <center>
   <table border="3"><a name="z1"></a>
-	  工具
+	  <h4>工具</h3>
     <tr>
       <th>代码</th>
       <td><a href="img/zy/zfx.bat">点击下载</a></td>
@@ -43,7 +43,7 @@
   <br>
    <center>
   <table border="3"><a name="z1"></a>
-	  音乐
+	  <h4>音乐</h4>
     <tr>
       <th>MJ-7-S - 一秒钟而已</th>
       <td><a href="img/music/MJ-7-S - 一秒钟而已.mp3">点击下载</a></td>
