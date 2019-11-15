@@ -76,22 +76,15 @@
 </td>
     </tr>
    <tr>
-
       <th>甩你几条银河系</th>
     <td><video src="img/flash/甩你几条银河系-art--MC天佑--art-2cf03f10b897121bfea95bd103685fa2.mp4" controls width="325px" heigt="120px"></video> 
 </td>
     </tr>
      <tr>
-
       <th>格局</th>
-
     <td><video src="img/flash/气死你.mp4" controls width="325px" heigt="120px"></video> 
-
 </td>
-
     </tr>
-  
-  
 </table></center>
   
   
