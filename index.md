@@ -85,4 +85,4 @@
   
   
   
-  <center>本网站素材来自网络，如有侵权请联系删除QQ邮箱：2675699284@qq.com。</center><a name="z6"></a>
+  <center><font color="red" size="5">本网站素材来自网络，如有侵权请联系删除QQ邮箱：2675699284@qq.com。</font></center><a name="z6"></a>
