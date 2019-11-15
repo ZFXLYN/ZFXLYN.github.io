@@ -81,7 +81,7 @@
 </td>
     </tr>
      <tr>
-      <th>格局</th>
+      <th>Booty music</th>
     <td><video src="img/flash/气死你.mp4" controls width="325px" heigt="120px"></video> 
 </td>
     </tr>
