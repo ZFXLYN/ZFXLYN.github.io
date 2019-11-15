@@ -68,11 +68,17 @@
      </table>
   </center>
 <br><h2>视频</h2><a name="z13"></a>
+<center>
+<table border="3">
+  <tr>
+      <th>多幸运</th>
+    <td><video src="img/flash/多幸运-art--十年华语流行--art-10bbe47ae3ae0704a9d212a7d96f2bd2.mp4" controls width="325px" heigt="120px"></video> 
+</td>
+    </tr>
   
   
   
-  
-  
+</table></center>
   
   
   
