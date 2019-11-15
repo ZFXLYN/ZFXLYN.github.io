@@ -13,14 +13,14 @@
 	<br>
   <table border="3">
     <tr>
-      <th><a href="#z1">工ㅤㅤ具</a></th>
-      <th><a href="#z1">音ㅤㅤ乐</a></th>
-      <th><a href="#z1">视ㅤㅤ频</a></th>
+      <th><a href="#z1">工ㅤ具</a></th>
+      <th><a href="#z1">音ㅤ乐</a></th>
+      <th><a href="#z1">视ㅤ频</a></th>
     </tr>
     <tr>
-    <td><a href="#z1">图ㅤㅤ片</a></td>
-    <td><a href="#z1">连ㅤㅤ邮</a></td>
-    <td><a href="#z6">声ㅤㅤ明</a></td>
+    <td><a href="#z1">图ㅤ片</a></td>
+    <td><a href="#z1">连ㅤ邮</a></td>
+    <td><a href="#z6">声ㅤ明</a></td>
     </tr>
     </table>
   </center>
