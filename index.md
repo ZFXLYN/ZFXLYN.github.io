@@ -14,8 +14,8 @@
   <table border="3">
     <tr>
       <th><a href="#z1">工ㅤ具</a></th>
-      <th><a href="#z1">音ㅤ乐</a></th>
-      <th><a href="#z1">视ㅤ频</a></th>
+      <th><a href="#z10">音ㅤ乐</a></th>
+      <th><a href="#z13">视ㅤ频</a></th>
     </tr>
     <tr>
     <td><a href="#z1">图ㅤ片</a></td>
@@ -37,9 +37,9 @@
     </tr>
      </table>
   </center>
-  <br><h2>音乐</h2>
+  <br><h2>音乐</h2><a name="z10"></a>
    <center>
-  <table border="3"><a name="z1"></a>
+  <table border="3">
 	      <tr>
       <th>MJ-7-S - 一秒钟而已</th>
       <td><a href="img/music/MJ-7-S - 一秒钟而已.mp3">点击下载</a></td>
@@ -67,6 +67,7 @@
     </tr>
      </table>
   </center>
+<br><h2>视频</h2><a name="z13"></a>
   
   
   
