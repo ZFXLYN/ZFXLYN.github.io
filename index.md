@@ -62,12 +62,7 @@
       <th>PRC 巴音汗 - 80000 !</th>
     <td><a href="img/music/PRC 巴音汗 - 80000 !.mp3">点击下载</a></td>
  <td><audio controls="controls" height="200" width="200">  <source src="img/music/PRC 巴音汗 - 80000 !.mp3" type="audio/mp3"></audio></td>
-    </tr>
-	  <tr>
-      <th>上官承诺、蛋总 - 我们爱过吗只是睡过吧</th>
-    <td><a href="img/music/上官承诺、蛋总 - 我们爱过吗只是睡过吧.mp3">点击下载</a></td>
- <td><audio controls="controls" height="200" width="200">  <source src="img/music/上官承诺、蛋总 - 我们爱过吗只是睡过吧.mp3" type="audio/mp3"></audio></td>
-    </tr>
+	  </tr>
 	  <tr>
       <th>M半阳 - 我对自己开了一枪</th>
     <td><a href="img/music/半阳 - 我对自己开了一枪.mp3">点击下载</a></td>
