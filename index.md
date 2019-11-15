@@ -27,11 +27,10 @@
     </tr>
     </table>
   </center>
- <br>
+ <br><h4>工具</h3>
   <center>
   <table border="3"><a name="z1"></a>
-	  <h4>工具</h3>
-    <tr>
+	    <tr>
       <th>代码</th>
       <td><a href="img/zy/zfx.bat">点击下载</a></td>
     </tr>
@@ -41,11 +40,10 @@
     </tr>
      </table>
   </center>
-  <br>
+  <br><h4>音乐</h4>
    <center>
   <table border="3"><a name="z1"></a>
-	  <h4>音乐</h4>
-    <tr>
+	      <tr>
       <th>MJ-7-S - 一秒钟而已</th>
       <td><a href="img/music/MJ-7-S - 一秒钟而已.mp3">点击下载</a></td>
 	    <td><audio controls="controls" height="200" width="200">  <source src="img/music/MJ-7-S - 一秒钟而已.mp3" type="audio/mp3"></audio></td>
