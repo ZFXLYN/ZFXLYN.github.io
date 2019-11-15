@@ -2,10 +2,10 @@
 	<meta charset="UTF-8">
 </head>
 <h1>ZFX的博客</h1>
-<!--<div id="Layer1" style="position:absolute; width:100%; height:100%; z-index:-1">    
+<div id="Layer1" style="position:absolute; width:100%; height:100%; z-index:-1">    
 <img src="img/jpg/qidong.jpg" height="100%" width="100%"/>    
-</div>-->
-<body background="img/jpg/qidong.jpg">
+</div>
+<!--<body background="img/jpg/qidong.jpg">-->
  <center><font color="blue" size="4"> 《上官承诺、蛋总 - 我们爱过吗只是睡过吧》</font><marquee><font color="pink">送给最美的你！</font></marquee></center> 
  <br>
   <br>
