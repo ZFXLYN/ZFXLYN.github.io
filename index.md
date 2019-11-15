@@ -84,7 +84,7 @@
  <td><audio controls="controls" height="200" width="200">  <source src="img/music/张学友 - 一千个伤心的理由.mp3" type="audio/mp3"></audio></td>
     </tr>
 	  <tr>
-      <th徐子洋、杨浩宇 - 有这样一个女孩</th>
+      <th>徐子洋、杨浩宇 - 有这样一个女孩</th>
     <td><a href="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3">点击下载</a></td>
  <td><audio controls="controls" height="200" width="200">  <source src="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3" type="audio/mp3"></audio></td>
     </tr>
@@ -99,7 +99,7 @@
  <td><audio controls="controls" height="200" width="200">  <source src="img/music/梦然 - 没有你陪伴真的好孤单.mp3" type="audio/mp3"></audio></td>
     </tr>
 	  <tr>
-      <th潘阳、龙飞龙泽 - 坑</th>
+      <th>潘阳、龙飞龙泽 - 坑</th>
     <td><a href="img/music/潘阳、龙飞龙泽 - 坑.mp3">点击下载</a></td>
  <td><audio controls="controls" height="200" width="200">  <source src="img/music/潘阳、龙飞龙泽 - 坑.mp3" type="audio/mp3"></audio></td>
     </tr><tr>
