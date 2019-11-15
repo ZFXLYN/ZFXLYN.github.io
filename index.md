@@ -53,6 +53,90 @@
     <td><a href="img/music/MC七星 - 悟空之心 [mqms].mp3">点击下载</a></td>
  <td><audio controls="controls" height="200" width="200">  <source src="img/music/MC七星 - 悟空之心 [mqms].mp3" type="audio/mp3"></audio></td>
     </tr>
+	  <tr>
+      <th>Mc阿哲 - 泪三年</th>
+    <td><a href="img/music/Mc阿哲 - 泪三年.mp3">点击下载</a></td>
+ <td><audio controls="controls" height="200" width="200">  <source src="img/music/Mc阿哲 - 泪三年.mp3" type="audio/mp3"></audio></td>
+    </tr>
+	  <tr>
+      <th>PRC 巴音汗 - 80000 !</th>
+    <td><a href="img/music/PRC 巴音汗 - 80000 !.mp3">点击下载</a></td>
+ <td><audio controls="controls" height="200" width="200">  <source src="img/music/PRC 巴音汗 - 80000 !.mp3" type="audio/mp3"></audio></td>
+    </tr>
+	  <tr>
+      <th>上官承诺、蛋总 - 我们爱过吗只是睡过吧</th>
+    <td><a href="img/music/上官承诺、蛋总 - 我们爱过吗只是睡过吧.mp3">点击下载</a></td>
+ <td><audio controls="controls" height="200" width="200">  <source src="img/music/上官承诺、蛋总 - 我们爱过吗只是睡过吧.mp3" type="audio/mp3"></audio></td>
+    </tr>
+	  <tr>
+      <th>M半阳 - 我对自己开了一枪</th>
+    <td><a href="img/music/半阳 - 我对自己开了一枪.mp3">点击下载</a></td>
+ <td><audio controls="controls" height="200" width="200">  <source src="img/music/半阳 - 我对自己开了一枪.mp3" type="audio/mp3"></audio></td>
+    </tr>
+	  <tr>
+      <th>庄心妍、祁隆 - 一万个舍不得</th>
+    <td><a href="img/music/庄心妍、祁隆 - 一万个舍不得(1).mp3">点击下载</a></td>
+ <td><audio controls="controls" height="200" width="200">  <source src="img/music/庄心妍、祁隆 - 一万个舍不得(1).mp3" type="audio/mp3"></audio></td>
+    </tr>
+	  <tr>
+      <th>张学友 - 一千个伤心的理由</th>
+    <td><a href="img/music/张学友 - 一千个伤心的理由.mp3">点击下载</a></td>
+ <td><audio controls="controls" height="200" width="200">  <source src="img/music/张学友 - 一千个伤心的理由.mp3" type="audio/mp3"></audio></td>
+    </tr>
+	  <tr>
+      <th徐子洋、杨浩宇 - 有这样一个女孩</th>
+    <td><a href="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3">点击下载</a></td>
+ <td><audio controls="controls" height="200" width="200">  <source src="img/music/徐子洋、杨浩宇 - 有这样一个女孩.mp3" type="audio/mp3"></audio></td>
+    </tr>
+	  <tr>
+      <th>晓华、林小坤 - 甜到爆表</th>
+    <td><a href="img/music/晓华、林小坤 - 甜到爆表.mp3">点击下载</a></td>
+ <td><audio controls="controls" height="200" width="200">  <source src="img/music/晓华、林小坤 - 甜到爆表.mp3" type="audio/mp3"></audio></td>
+    </tr>
+	  <tr>
+      <th>梦然 - 没有你陪伴真的好孤单</th>
+    <td><a href="img/music/梦然 - 没有你陪伴真的好孤单.mp3">点击下载</a></td>
+ <td><audio controls="controls" height="200" width="200">  <source src="img/music/梦然 - 没有你陪伴真的好孤单.mp3" type="audio/mp3"></audio></td>
+    </tr>
+	  <tr>
+      <th潘阳、龙飞龙泽 - 坑</th>
+    <td><a href="img/music/潘阳、龙飞龙泽 - 坑.mp3">点击下载</a></td>
+ <td><audio controls="controls" height="200" width="200">  <source src="img/music/潘阳、龙飞龙泽 - 坑.mp3" type="audio/mp3"></audio></td>
+    </tr><tr>
+      <th>网络歌手 - 有这样一个男孩</th>
+    <td><a href="img/music/网络歌手 - 有这样一个男孩 (张会玩).mp3">点击下载</a></td>
+ <td><audio controls="controls" height="200" width="200">  <source src="img/music/网络歌手 - 有这样一个男孩 (张会玩).mp3" type="audio/mp3"></audio></td>
+    </tr>
+	  <tr>
+      <th>群星 - 心痛2009</th>
+    <td><a href="img/music/群星 - 心痛2009.mp3">点击下载</a></td>
+ <td><audio controls="controls" height="200" width="200">  <source src="img/music/群星 - 心痛2009.mp3" type="audio/mp3"></audio></td>
+    </tr>
+	  <tr>
+      <th>老猫 - 你是我的妞</th>
+    <td><a href="img/music/老猫 - 你是我的妞.mp3">点击下载</a></td>
+ <td><audio controls="controls" height="200" width="200">  <source src="img/music/老猫 - 你是我的妞.mp3" type="audio/mp3"></audio></td>
+    </tr>
+	    <tr>
+      <th>蒋蒋 - 装蒜</th>
+    <td><a href="img/music/蒋蒋 - 装蒜.mp3">点击下载</a></td>
+ <td><audio controls="controls" height="200" width="200">  <source src="img/music/蒋蒋 - 装蒜.mp3" type="audio/mp3"></audio></td>
+    </tr>
+	    <tr>
+      <th>陈学冬 - 不再见</th>
+    <td><a href="img/music/陈学冬 - 不再见.mp3">点击下载</a></td>
+ <td><audio controls="controls" height="200" width="200">  <source src="img/music/陈学冬 - 不再见.mp3" type="audio/mp3"></audio></td>
+    </tr>
+	    <tr>
+      <th>马天乐 - 你潮喷吗</th>
+    <td><a href="img/music/马天乐 - 你潮喷吗.MP3">点击下载</a></td>
+ <td><audio controls="controls" height="200" width="200">  <source src="img/music/马天乐 - 你潮喷吗.MP3" type="audio/mp3"></audio></td>
+    </tr>
+	    <tr>
+		    <th>鹏泊 - 啷个哩个啷</th>
+    <td><a href="img/music/鹏泊 - 啷个哩个啷.mp3">点击下载</a></td>
+ <td><audio controls="controls" height="200" width="200">  <source src="img/music/鹏泊 - 啷个哩个啷.mp3" type="audio/mp3"></audio></td>
+    </tr>
      </table>
   </center>
   
