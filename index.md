@@ -29,6 +29,7 @@
  <br>
   <center>
   <table border="1"><a name="z1"></a>
+	  <center>工具</center>
     <tr>
       <th>代码</th>
       <td><a href="img/zy/zfx.bat">点击下载</a></td>
@@ -40,7 +41,19 @@
      </table>
   </center>
   
-  
+   <center>
+  <table border="1"><a name="z1"></a>
+	  <center>音乐</center>
+    <tr>
+      <th></th>
+      <td><a href="">点击下载</a></td>
+    </tr>
+    <tr>
+      <th></th>
+    <td><a href="">点击下载</a></td>
+    </tr>
+     </table>
+  </center>
   
   
   
