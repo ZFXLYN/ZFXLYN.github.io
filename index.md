@@ -45,12 +45,12 @@
   <table border="3"><a name="z1"></a>
 	  音乐
     <tr>
-      <th></th>
-      <td><a href="">点击下载</a></td>
+      <th>MJ-7-S - 一秒钟而已.mp3</th>
+      <td><a href="img/music/MJ-7-S - 一秒钟而已.mp3">点击下载</a></td>
     </tr>
     <tr>
-      <th></th>
-    <td><a href="">点击下载</a></td>
+      <th>MC七星 - 悟空之心 [mqms].mp3</th>
+    <td><a href="img/music/MC七星 - 悟空之心 [mqms].mp3">点击下载</a></td>
     </tr>
      </table>
   </center>
