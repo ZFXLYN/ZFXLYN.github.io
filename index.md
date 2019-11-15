@@ -47,10 +47,12 @@
     <tr>
       <th>MJ-7-S - 一秒钟而已.mp3</th>
       <td><a href="img/music/MJ-7-S - 一秒钟而已.mp3">点击下载</a></td>
+	    <td><audio controls="controls" height="200" width="200">  <source src="img/music/MJ-7-S - 一秒钟而已.mp3" type="audio/mp3"></audio></td>
     </tr>
     <tr>
       <th>MC七星 - 悟空之心 [mqms].mp3</th>
     <td><a href="img/music/MC七星 - 悟空之心 [mqms].mp3">点击下载</a></td>
+ <td><audio controls="controls" height="200" width="200">  <source src="img/music/MC七星 - 悟空之心 [mqms].mp3" type="audio/mp3"></audio></td>
     </tr>
      </table>
   </center>
