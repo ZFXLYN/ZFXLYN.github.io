@@ -3,7 +3,7 @@
 </head>
 <h1>ZFX的博客</h1>
 <body background="img/categories-bg.jpg">
- <center><font color="blue" size="3"> 《上官承诺、蛋总 - 我们爱过吗只是睡过吧》</font><marquee><font color="pink">送给最美的你！</font></marquee></center> 
+ <center><font color="blue" size="2"> 《上官承诺、蛋总 - 我们爱过吗只是睡过吧》</font><marquee><font color="pink">送给最美的你！</font></marquee></center> 
  <br>
   <br>
 <center>
