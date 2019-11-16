@@ -101,7 +101,7 @@
 <center>
 <table border="3">
  <tr>
-<th><img src="img/jpg/123.jpg"></th>
+<th><a href="img/jpg/123.jpg"><img src="img/jpg/123.jpg"></a></th>
 <th><img src="img/jpg/151416~1.PNG"></th>
 </tr>
 <tr>
