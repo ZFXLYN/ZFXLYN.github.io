@@ -109,7 +109,7 @@
 <td><img src="img/home-bg.jpg"></td>
 </tr>
 <tr>
-<th><img src="img/home-bg.jpg"></th>
+<th><img src="img/jpg/f603918fa0ec08fae4b7561f52ee3d6d54fbdad7.jpg></th>
 <th><img src="img/jpg/HDIMG_~1.JPG"></th>
 </tr>
 </table>
