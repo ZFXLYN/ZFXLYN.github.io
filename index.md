@@ -1,5 +1,5 @@
 <head>
-	<meta charset="UTF-8">
+<meta charset="UTF-8">
 </head>
 <h1>ZFX的博客</h1>
 <body background="img/categories-bg.jpg">
@@ -100,37 +100,21 @@
 <br><h2>图片</h2>
 <center>
 <table border="3">
-       <tr>
-      <th><img src="img/jpg/123.jpg"></th>
-    <th><img src="img/jpg/151416~1.PNG"></th>
-    </tr>
-<tr>
-<td>
-<img src="img/categories-bg.jpg">
-</td>
-<td>
-<img src="img/home-bg.jpg">
-</td>
+ <tr>
+<th><img src="img/jpg/123.jpg"></th>
+<th><img src="img/jpg/151416~1.PNG"></th>
 </tr>
 <tr>
-<th>
-<img src="img/home-bg.jpg">
-</th>
-	  
-	  <th><img src="img/jpg/HDIMG_~1.JPG">
-		  </th>
+<td><img src="img/categories-bg.jpg"></td>
+<td><img src="img/home-bg.jpg"></td>
+</tr>
+<tr>
+<th><img src="img/home-bg.jpg"></th>
+<th><img src="img/jpg/HDIMG_~1.JPG"></th>
 </tr>
 </table>
   </center>
 <a name="z6"></a>
 <br>
-<p><font color="red" size="6">声明：</font></p>
-  
-  
-  
-  
-  
-  
-  
-  
+<p><font color="red" size="6">声明：</font></p> 
   <center><font color="red" size="5">本网站素材来自网络，如有侵权请联系删除QQ邮箱：2675699284@qq.com。</font></center>
