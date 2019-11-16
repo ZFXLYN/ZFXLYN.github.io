@@ -100,18 +100,22 @@
 <br><h2>图片</h2>
 <center>
 <table border="3">
+	
  <tr>
 <th><a href="img/jpg/123.jpg"><img src="img/jpg/123.jpg"></a></th>
-<th><a href="img/jpg/151416~1.PNG"><img src="img/jpg/151416~1.PNG"></a></th>
+<td><a href="img/jpg/151416~1.PNG"><img src="img/jpg/151416~1.PNG"></a></td>
 </tr>
+	
 <tr>
-<td><a href="img/categories-bg.jpg"><img src="img/categories-bg.jpg"></a></td>
+<th><a href="img/categories-bg.jpg"><img src="img/categories-bg.jpg"></a></th>
 <td><a href="img/home-bg.jpg"><img src="img/home-bg.jpg"></a></td>
 </tr>
+	
 <tr>
 <th><a href="img/jpg/f603918fa0ec08fae4b7561f52ee3d6d54fbdad7.jpg"><img src="img/jpg/f603918fa0ec08fae4b7561f52ee3d6d54fbdad7.jpg"></a></th>
-<th><a href="img/jpg/HDIMG_~1.JPG"><img src="img/jpg/HDIMG_~1.JPG"></a></th>
+<td><a href="img/jpg/HDIMG_~1.JPG"><img src="img/jpg/HDIMG_~1.JPG"></a></td>
 </tr>
+
 </table>
   </center>
 <a name="z6"></a>
