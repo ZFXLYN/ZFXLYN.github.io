@@ -116,7 +116,7 @@
 <th>
 <img src="img/jpg/home-bg.jpg">
 </th>
-	  <th>
+	  
 	  <th><img src="img/jpg/HDIMG_~1.JPG">
 		  </th>
 </tr>
