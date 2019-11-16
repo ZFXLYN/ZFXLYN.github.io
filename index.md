@@ -109,7 +109,7 @@
 <td><a href="img/home-bg.jpg"><img src="img/home-bg.jpg"></a></td>
 </tr>
 <tr>
-<th><a href="img/jpg/f603918fa0ec08fae4b7561f52ee3d6d54fbdad7.jpg><img src="img/jpg/f603918fa0ec08fae4b7561f52ee3d6d54fbdad7.jpg"></a></th>
+<th><a href="img/jpg/f603918fa0ec08fae4b7561f52ee3d6d54fbdad7.jpg"><img src="img/jpg/f603918fa0ec08fae4b7561f52ee3d6d54fbdad7.jpg"></a></th>
 <th><a href="img/jpg/HDIMG_~1.JPG"><img src="img/jpg/HDIMG_~1.JPG"></a></th>
 </tr>
 </table>
