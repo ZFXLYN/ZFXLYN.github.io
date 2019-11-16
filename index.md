@@ -11,7 +11,7 @@
 <audio controls="controls" height="200" width="200">  <source src="img/music/上官承诺、蛋总 - 我们爱过吗只是睡过吧.mp3" type="audio/mp3"></audio></div></center>
 <center>
 	<br>
-  <table border="3">
+  <table border="3"><center>
     <tr>
       <th><a href="#z1">工ㅤ具</a></th>
       <th><a href="#z10">音ㅤ乐</a></th>
@@ -21,7 +21,7 @@
     <td><a href="#z111">图ㅤ片</a></td>
     <td><a href="#z166">连ㅤ邮</a></td>
     <td><a href="#z6">声ㅤ明</a></td>
-    </tr>
+    </tr></center>
     </table>
   </center>
  <a name="z1"></a><br><h2>工具</h2>
