@@ -102,15 +102,15 @@
 <table border="3">
  <tr>
 <th><a href="img/jpg/123.jpg"><img src="img/jpg/123.jpg"></a></th>
-<th><a href="img/jpg/151416~1.png"><img src="img/jpg/151416~1.PNG"></a></th>
+<th><a href="img/jpg/151416~1.PNG"><img src="img/jpg/151416~1.PNG"></a></th>
 </tr>
 <tr>
-<td><img src="img/categories-bg.jpg"></td>
-<td><img src="img/home-bg.jpg"></td>
+<td><a href="img/categories-bg.jpg"><img src="img/categories-bg.jpg"></a></td>
+<td><a href="img/home-bg.jpg"><img src="img/home-bg.jpg"></a></td>
 </tr>
 <tr>
-<th><img src="img/jpg/f603918fa0ec08fae4b7561f52ee3d6d54fbdad7.jpg"></th>
-<th><img src="img/jpg/HDIMG_~1.JPG"></th>
+<th><a href="img/jpg/f603918fa0ec08fae4b7561f52ee3d6d54fbdad7.jpg><img src="img/jpg/f603918fa0ec08fae4b7561f52ee3d6d54fbdad7.jpg"></a></th>
+<th><a href="img/jpg/HDIMG_~1.JPG"><img src="img/jpg/HDIMG_~1.JPG"></a></th>
 </tr>
 </table>
   </center>
