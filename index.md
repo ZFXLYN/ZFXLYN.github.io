@@ -114,7 +114,7 @@
 </tr>
 <tr>
 <th>
-<img src="img/jpg/home-bg.jpg">
+<img src="img/home-bg.jpg">
 </th>
 	  
 	  <th><img src="img/jpg/HDIMG_~1.JPG">
