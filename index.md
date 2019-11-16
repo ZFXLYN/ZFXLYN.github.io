@@ -102,12 +102,12 @@
 <table border="3">
        <tr>
       <th><img src="img/jpg/123.jpg"></th>
-    <td><img src="img/jpg/151416~1.PNG"></td>
+    <th><img src="img/jpg/151416~1.PNG"></th>
     </tr>
 <tr>
-<th>
+<td>
 <img src="img/categories-bg.jpg">
-</th>
+</td>
 <td>
 <img src="img/home-bg.jpg">
 </td>
