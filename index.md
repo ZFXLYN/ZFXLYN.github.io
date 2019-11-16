@@ -104,6 +104,14 @@
       <th><img src="img/jpg/123.jpg"></th>
     <td><img src="img/jpg/151416~1.PNG"></td>
     </tr>
+<tr>
+<th>
+<img src="img/categories-bg.jpg">
+</th>
+<td>
+<img src="img/home-bg.jpg">
+</td>
+</tr>
 </table>
   </center>
 <a name="z6"></a>
