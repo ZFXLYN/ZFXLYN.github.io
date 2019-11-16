@@ -24,9 +24,9 @@
     </tr>
     </table>
   </center>
- <br><h2>工具</h2>
+ <a name="z1"></a><br><h2>工具</h2>
   <center>
-  <table border="3"><a name="z1"></a>
+  <table border="3">
 	    <tr>
       <th>代码</th>
       <td><a href="img/zy/zfx.bat">点击下载</a></td>
@@ -37,7 +37,7 @@
     </tr>
      </table>
   </center>
-  <br><h2>音乐</h2><a name="z10"></a>
+  <a name="z10"></a><br><h2>音乐</h2>
    <center>
   <table border="3">
 	      <tr>
@@ -96,7 +96,8 @@
 </td>
     </tr>
 </table></center>
-<br><h2>图片</h2><a name="z111"></a>
+<a name="z111"></a>
+<br><h2>图片</h2>
 <center>
 <table border="3">
        <tr>
@@ -105,6 +106,9 @@
     </tr>
 </table>
   </center>
+<a name="z6"></a>
+<br>
+<p><font color="red" size="6">声明：</font></p>
   
   
   
@@ -113,7 +117,4 @@
   
   
   
-  
-  
-  
-  <center><font color="red" size="5">本网站素材来自网络，如有侵权请联系删除QQ邮箱：2675699284@qq.com。</font></center><a name="z6"></a>
+  <center><font color="red" size="5">本网站素材来自网络，如有侵权请联系删除QQ邮箱：2675699284@qq.com。</font></center>
