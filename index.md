@@ -76,28 +76,28 @@
     </tr>
    <tr>
       <th>甩你几条银河系</th>
-    <td><video src="img/flash/甩你几条银河系-art--MC天佑--art-2cf03f10b897121bfea95bd103685fa2.mp4" controls width="325px" heigt="120px"></video> 
+    <td><video src="img/flash/甩你几条银河系-art--MC天佑--art-2cf03f10b897121bfea95bd103685fa2.mp4" controls width="160px" heigt="60px"></video> 
 </td>
     </tr>
      <tr>
       <th>Booty music</th>
-    <td><video src="img/flash/气死你.mp4" controls width="325px" heigt="120px"></video> 
+    <td><video src="img/flash/气死你.mp4" controls width="160px" heigt="60px"></video> 
 </td>
     </tr>
  <tr>
       <th>一人饮酒醉</th>
-    <td><video src="img/flash/一人饮酒醉-art--大鹏、MC天佑--art-d3935be27c2557ebd7c882ae74b2f4d3.mp4" controls width="325px" heigt="120px"></video> 
+    <td><video src="img/flash/一人饮酒醉-art--大鹏、MC天佑--art-d3935be27c2557ebd7c882ae74b2f4d3.mp4" controls width="160px" heigt="60px"></video> 
 </td>
     </tr>
  <tr>
       <th>死一样的痛过</th>
-    <td><video src="img/flash/死一样的痛过-art--MC梦、Mellow--art-4c6728d32bd34c89a67f1f0a66bebf45.mp4" controls width="325px" heigt="120px"></video> 
+    <td><video src="img/flash/死一样的痛过-art--MC梦、Mellow--art-4c6728d32bd34c89a67f1f0a66bebf45.mp4" controls width="160px" heigt="60px"></video> 
 </td>
     </tr>
 
 <tr>
 <th>Aloha Heja He（守望先锋）</th>
-<td><video src="http://zfx521.xyz/守望先锋.mp4" controls width="325px" heigt="120px"></video></td>
+<td><video src="http://zfx521.xyz/守望先锋.mp4" controls width="160px" heigt="60px"></video></td>
 </tr>
 </table></center>
 <a name="z111"></a>
