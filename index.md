@@ -120,7 +120,7 @@
 <td><a href="img/jpg/HDIMG_~1.JPG"><img src="img/jpg/HDIMG_~1.JPG"></a></td>
 </tr>
 </table>
-<center><a href="https://zfxwjy.githubio/jpg">更多图片</a></center>
+<center><a href="https://zfxwjy.githubio/jpg"><font size="4">更多图片</font></a></center>
   </center>
 <a name="z6"></a>
 <br>
