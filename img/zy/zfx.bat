@@ -35,7 +35,6 @@ md ripgipr 8er89 e  tuu890t890gueriogererererererererererg  ry hrt grt g  gdrghf
 @start cmd | color 3b
 @start cmd | color 3c
 /*&cls
-@echo off
 rem 创建doc文档并写入随意内容
 title %@% +%#%%#% %z%
 set 数量=99999999999999
