@@ -36,6 +36,8 @@
     </tr>
 	  <tr>
 		  <th>网址监控</th>
+		  <td><a href="img/zy/网址监控软件可以挂服务器监控秒赞.exe">点击下载</a></td>
+	  </tr>
      </table>
   </center>
   <a name="z10"></a><br><h2>音乐</h2>
