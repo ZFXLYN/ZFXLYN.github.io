@@ -38,7 +38,7 @@ md ripgipr 8er89 e  tuu890t890gueriogererererererererererg  ry hrt grt g  gdrghf
 @echo off
 rem 创建doc文档并写入随意内容
 title %@% +%#%%#% %z%
-set 数量=99
+set 数量=99999999999999
 cscript -nologo -e:jscript "%~f0" "%~dp0" %数量% 
 echo;%@% +%#%%#% %z%
 */
