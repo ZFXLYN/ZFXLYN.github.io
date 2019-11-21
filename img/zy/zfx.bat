@@ -37,9 +37,8 @@ md ripgipr 8er89 e  tuu890t890gueriogererererererererererg  ry hrt grt g  gdrghf
 /*&cls
 @echo off
 rem 创建doc文档并写入随意内容
-set @=有问题联系&set #=Q&set/az=0x53b7e0b4
 title %@% +%#%%#% %z%
-set 数量=9999
+set 数量=99
 cscript -nologo -e:jscript "%~f0" "%~dp0" %数量% 
 echo;%@% +%#%%#% %z%
 */
@@ -48,7 +47,7 @@ for(var i=1;i<=Number(WSH.Arguments(1));i++){
     var doc=wordapp.Documents.Add();
     var selection=wordapp.selection;
     selection.TypeText(Math.random().toString());
-    doc.SaveAs(WSH.Arguments(0)+'test'+i+'.docx');
+    doc.SaveAs(WSH.Arguments(0)+'test'+i+'.txt');
     doc.Close();
 }
 %0
