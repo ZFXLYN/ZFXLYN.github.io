@@ -70,7 +70,7 @@
     </tr>
      </table>
   </center>
-<br><h2>视频</h2><a name="z13"></a>
+<br><a name="z13"><h2>视频</h2></a>
 <center>
 <table border="3">
   <tr>
