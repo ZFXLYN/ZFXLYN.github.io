@@ -31,7 +31,7 @@
       <td><a href="img/zy/zfx.bat">点击下载</a></td>
     </tr>
 	  <tr>
-		  <th>蓝屏代码</th>
+		  <th>蓝屏重启</th>
 		  <td><a href="img/zy/bp.bat">点击下载</a></td>
 	  </tr>
     <tr>
